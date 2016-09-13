@@ -1,11 +1,10 @@
 ---
 layout: default
 title: j. berenike herrmann
-
 ---
 
 
-<h2><b>publications</b></h2>
+## publications
 <img src="images/brause.JPG" alt="Brause" class="ri"/>
 <p><b>books and special issues</b></p>
 in prep. 
