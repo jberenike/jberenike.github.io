@@ -34,6 +34,8 @@ under review
  
 2015	
  Herrmann, J.B.: High on metaphor, low on simile: A cross-register examination of metaphor type in academic prose, in: Herrmann, J.B. & T. Berber Sardinha (Eds.). Metaphor in Specialist Discourse: Investigating Metaphor Use in Technical, Scientific and Popularized Discourse Contexts. Amsterdam: John Benjamins.
+ 
+2015
  Herrmann, J.B., van Dalen-Oskam, K. & Schöch, C.: Revisiting style, a key concept in literary studies, in: Journal of Literary Theory  9, 1: 52-52.
  
 2010	
@@ -44,7 +46,9 @@ under review
 in prep.
  
  Herrmann, J.B., Lauer, G. & M. Göbel, KOLIMO (Literary Modernism Corpus)   <a href="https://www.kolimo.uni-goettingen.de/" target="_blank">home page(beta)</a> 
+ 
  Herrmann, J.B., Lauer, G. & M. Göbel, KAREK (Kafka/Reference Corpus)   <a href="https://www.kolimo.uni-goettingen.de/" target="_blank">home page(beta)</a> 
+ 
  Herrmann, J.B., Bageritz, I., Hannemann, L., Heimann, P., Kleinschmidt, L., Mattner, C., Roth-Kleyer, G., Weller, R., KEXI (Expressive & Interpersonal Writing Corpus)  <a href="https://capsgoe.wordpress.com/" target="_blank"> capsgoe home page</a>  
  
 2012	
