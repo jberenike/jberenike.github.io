@@ -4,8 +4,10 @@ title: j. berenike herrmann
 ---
 
 
-## publications
+# publications
 <img src="images/brause.JPG" alt="Brause" class="ri"/>
+
+
 # books and special issues  
 - in production
   - Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.). Transdisciplinary Approaches to Literature and Empathy, special Issue of Scientific Study of Literature (SSOL). 
