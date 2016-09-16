@@ -60,38 +60,63 @@ in prep.
  
 # talks & posters 
 
-- conference talks (selection) 
+conference talks (selection) 
+
 07/2016 KAREK: Building and Annotating a Kafka/Reference Corpus. (with Gerhard Lauer). International Conference Digital Humanities 2016, Krakow, Poland. 
-07/2016 Measuring Kafka's Diaries. A Psychostylistic Approach (with Gerhard Lauer and Cosima Mattner). International Society for the Empirical Study of Literature and Media (IGEL), Chicago, USA. 
+
+07/2016 Measuring Kafka's Diaries. A Psychostylistic Approach (with Gerhard Lauer and Cosima Mattner). International Society for the Empirical Study of Literature and Media (IGEL), Chicago, USA.
+ 
 03/2016 Aufbau und Annotation des Kafka/Referenzkorpus. (with Gerhard Lauer). International Conference Digital Humanities im deutschsprachigen Raum (DhD) Leipzig, Germany. 
+
 03/2016 Kafkas Stil. Zur Psychostilistik der Tagebücher Kafkas. (with Gerhard Lauer and Cosima Mattner). DhD Leipzig, Germany. 
+
 11/2015  Präzise! Probleme naturwissenschaftlich-empirisch orientierter Forschung in der Literaturwissenschaft. Conference "Im Laboratorium – Entwurf & Experiment als ästhetische Zugriffsweisen auf 'Welt'", Bayreuth, Germany. 
-06/2015	 Combining quantitative and qualitative methods in digital analyses of literary style. Digital Humanities Benelux Conference 2015, Antwerp, Belgium. 
+
+06/2015	 Combining quantitative and qualitative methods in digital analyses of literary style. Digital Humanities Benelux Conference 2015, Antwerp, Belgium.
+ 
 09/2014	 On the functions of modal particles in Franz Kafka’s narrative strategies. Interdisciplinary Conference “The biological-cognitive bases of narrative motivation“, Göttingen, Germany. 
+
 07/2014	 Does reading canonical literary fiction improve Theory of Mind in adolescents? International Society for the Empirical Study of Literature and Media (IGEL), Turin, Italy.  
+
 12/2013	 Computing Kafka - How keyness and collocation analysis help explain paradoxical style. International Herrenhausen Conference “(Digital) Humanities Revisited – Challenges and Opportunities in the Digital Age”, Hanover, Germany. 
+
 11/2013	 Breaking the wall of Franz Kafka’s paradox. Falling Walls Lab, Berlin, D. (Finalist)  
+
 07/2012  Fiction vs. academic prose. Comparing the distribution of metaphor types in two registers of English. International Society for the Empirical Study of Literature and Media (IGEL), Montreal, CDN. 
+
 06/2011  Exploring metaphorical language use in academic prose. A cross-register corpus-analysis. International Stylistics Across Disciplines (SAD) Conference, Leiden University, NL. 
   
 # invited talks (selection)  
  
  09/2016	 Basic experiment design and hypothesis testing. Lecture at IGEL/E-READ Training School: Empirical Methods for Humanities scholars. Max-Planck -Institute for Empirical Aesthetics, Frankfurt.  
+ 
  07/2015	 Bold Statement: Incorporate academic freedom in future visions of science and scholarship!  Internal Volkswagen Foundation Opportunities Meeting: The Future of Funding Agencies. BBAW, Berlin. 
+ 
  07/2015	 Literature and empathy, empirically. Mapping a transdisciplinary approach. International Symposium “Literature and Empathy”, Göttingen Centre for Advanced Studies (Lichtenberg Kolleg), Göttingen.  
+ 
  04/2015	 Zu Herausforderungen der literaturwissenschaftlichen Korpusbildung und Annotation. DigLiGö - Digitale Literaturwissenschaft Göttingen. Ein grassroots-Dialog zu Funktionen und Verfahrensweisen digitaler Methoden in den Philologien. Seminar für Deutsche Philologie, Göttingen University. 
+ 
  11/2014	 A place of one’s own - Literal and metaphorical. Retrospect of a Postdoc Mentee of the Dorothea Schlözer Female Postdoc Mentoring Program (Fourth Round), Göttingen University. 
+ 
  02/2014	 Towards a conceptualization of 'style' in digital text studies. Talk at Digital Text Analysis Working Group, Göttingen Centre for Digital Humanities (GCDH).  
+ 
  10/2013	 Kafka among the authors. Stylometric analyses. Talk at Expert Workshop “Stylometry@Kraków”, Krakow, Poland. 
+ 
  09/2013	 Computing Kafka. Talk at Digital Text Analysis Working Group, Göttingen Centre for Digital Humanities (GCDH). 
+ 
  06/2013  Metaphor in academic texts. Research Lecture Series of the English Linguistics Department, Göttingen University. 
+ 
  02/2013  Computergestützte Textanalyse. Formen, Muster und Vergleiche. Tutorial at Symposium Deutschdidaktik – Nachwuchsnetzwerk "Schreiben - Erheben - Fördern", Göttingen University. 
+ 
  12/2012  Doing digital text analysis with “literary” students. Clash of cultures or new beginnings? Digital Text Analysis Working Group, Göttingen Centre for Digital Humanities (GCDH). 
+ 
  06/2010  Patterns and functions of metaphorical language in the academic genre: Combining quantitative and qualitative evidence from the British National Corpus. Talk at Pragmatics and Stylistics Research Group (PaSTY), Department of Linguistics and English Language, Lancaster University, UK. 
  
  
 # posters  
  
  02/2016 KOLIMO: Aufbau und Annotation eines Korpus der literarischen Moderne. (with M. Paluch, C. Schmidt, B. Spermoser). Poster-Session der Sektion Computerlinguistik, 38. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (DGfS 2016), Konstanz, Germany. 
+ 
  12/2013 Computing Kafka - How keyness and collocation analysis help explain paradoxical style. International Herrenhausen Conference “(Digital) Humanities Revisited – Challenges and Opportunities in the Digital Age”, Hanover, Germany. 
+ 
  07/2007  Emancipating metaphor from thought. MIP applied to Lakoff and Johnson (1980). International Cognitive Linguistics Conference (ICLC10), Krakow, Poland. 
