@@ -28,23 +28,30 @@ Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.). Transdisciplinary Approaches to 
 
 
 # peer-reviewed papers  
+
 under review
+
  Herrmann, J.B.: In test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M. & J. van Zundert (Eds.). Special Issue DHBenelux 2015, Digital Humanities Quarterly.  
  
 2016	
+
  Herrmann, J.B.: "Läuse im Pelz der Sprache?" Zu Funktionen von Modalpartikeln in narrativen (De-)Motivierungsstrategien bei Franz Kafka [On the functions of modal particles in Franz Kafka’s narrative strategies], in: Horváth, M. & Mellmann, K. (Eds.), Die biologisch-kognitiven Grundlagen narrativer Motivierung. Narratologia. Contributions to Narrative Theory. Berlin: De Gruyter. 
  
 2015	
+
  Herrmann, J.B.: High on metaphor, low on simile: A cross-register examination of metaphor type in academic prose, in: Herrmann, J.B. & T. Berber Sardinha (Eds.). Metaphor in Specialist Discourse: Investigating Metaphor Use in Technical, Scientific and Popularized Discourse Contexts. Amsterdam: John Benjamins.
  
 2015
+
  Herrmann, J.B., van Dalen-Oskam, K. & Schöch, C.: Revisiting style, a key concept in literary studies, in: Journal of Literary Theory  9, 1: 52-52.
  
 2010	
+
  Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., and T. Krennmayr (2010). Metaphor in usage. Cognitive Linguistics 21 (4): 765-796.
  
  
 # digital resources  
+
 in prep.
  
  Herrmann, J.B., Lauer, G. & M. Göbel, KOLIMO (Literary Modernism Corpus)   <a href="https://www.kolimo.uni-goettingen.de/" target="_blank">home page(beta)</a> 
@@ -54,9 +61,11 @@ in prep.
  Herrmann, J.B., Bageritz, I., Hannemann, L., Heimann, P., Kleinschmidt, L., Mattner, C., Roth-Kleyer, G., Weller, R., KEXI (Expressive & Interpersonal Writing Corpus)  <a href="https://capsgoe.wordpress.com/" target="_blank"> capsgoe home page</a>  
  
 2012	
+
  Herrmann, J.B. (Ed.). Literatur rechnen. Ein Wiki zur digitalen Textanalyse.   <a href="http://litre.uni-goettingen.de/" target="_blank">home page</a> 
  
 2010	
+
  Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., and T. Krennmayr. VU Amsterdam Metaphor Corpus. Oxford Text Archives.   <a href="http://www.ota.ox.ac.uk/headers/2541.xml" target="_blank">home page</a>  
  
  
