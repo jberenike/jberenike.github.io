@@ -54,7 +54,7 @@ re-submitted
 
 in prep.
  
- Herrmann, J.B., Lauer, G. & M. Göbel, KOLIMO (Literary Modernism Corpus)<a href="https://www.kolimo.uni-goettingen.de/" target="_blank">home page(beta)</a> 
+ Herrmann, J.B., Lauer, G. & M. Göbel, KOLIMO (Literary Modernism Corpus) <a href="https://www.kolimo.uni-goettingen.de/" target="_blank">home page(beta)</a> 
  
  Herrmann, J.B., Bageritz, I., Hannemann, L., Heimann, P., Kleinschmidt, L., Mattner, C., Roth-Kleyer, G., Weller, R., KEXI (Expressive & Interpersonal Writing Corpus)  <a href="https://capsgoe.wordpress.com/" target="_blank"> capsgoe home page</a>  
  
@@ -69,7 +69,7 @@ in prep.
  
 # talks & posters 
 
-conference talks (selection) 
+# conference talks (selection) 
 
 07/2016 KAREK: Building and Annotating a Kafka/Reference Corpus. (with Gerhard Lauer). International Conference Digital Humanities 2016, Krakow, Poland. 
 
