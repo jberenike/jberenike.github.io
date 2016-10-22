@@ -10,26 +10,26 @@ title: j. berenike herrmann
 
 # books and special issues  
 
-in production
+in press
 
-Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.). Transdisciplinary Approaches to Literature and Empathy, special Issue of Scientific Study of Literature (SSOL). 
+ Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.) (2016): <a href="https://benjamins.com/#catalog/journals/ssol.6.1/toc" target="_blank">Transdisciplinary Approaches to Literature and Empathy, Special issue of Scientific Study of Literature 6:1.</a> 
  
 2015	
  
-  Herrmann, J.B. & T. Berber Sardinha (Eds.): Metaphor in specialist discourse: Investigating metaphor use in technical, scientific and popularized discourse contexts. Amsterdam: John Benjamins. 
+  Herrmann, J.B. & T. Berber Sardinha (Eds.): <a href="https://benjamins.com/#catalog/books/milcc.4/toc" target="_blank">Metaphor in specialist discourse: Investigating metaphor use in technical, scientific and popularized discourse contexts. Amsterdam: John Benjamins.</a>  
  
 2013	
   
- Herrmann, J. B.: Metaphor in academic discourse. Linguistic forms, conceptual structures, communicative functions and cognitive representations. Utrecht: LOT dissertation series. 
+ Herrmann, J. B.:  <a href="http://www.lotpublications.nl/metaphor-in-academic-discourse-metaphor-in-academic-discourse-linguistic-forms-conceptual-structures-communicative-functions-and-cognitive-representations" target="_blank">Metaphor in academic discourse. Linguistic forms, conceptual structures, communicative functions and cognitive representations. Utrecht: LOT dissertation series.</a>
  
 2010	
 
- Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., and T. Pasma: A method for linguistic metaphor identification: From MIP to MIPVU. Amsterdam and Philadelphia: John Benjamins. 
+ Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., and T. Pasma: <a href="https://benjamins.com/#catalog/books/celcr.14/main" target="_blank">A method for linguistic metaphor identification: From MIP to MIPVU. Amsterdam and Philadelphia: John Benjamins.</a> 
 
 
 # peer-reviewed papers  
 
-under review
+re-submitted
 
  Herrmann, J.B.: In test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M. & J. van Zundert (Eds.). Special Issue DHBenelux 2015, Digital Humanities Quarterly.  
  
@@ -54,9 +54,7 @@ under review
 
 in prep.
  
- Herrmann, J.B., Lauer, G. & M. Göbel, KOLIMO (Literary Modernism Corpus)   <a href="https://www.kolimo.uni-goettingen.de/" target="_blank">home page(beta)</a> 
- 
- Herrmann, J.B., Lauer, G. & M. Göbel, KAREK (Kafka/Reference Corpus)   <a href="https://www.kolimo.uni-goettingen.de/" target="_blank">home page(beta)</a> 
+ Herrmann, J.B., Lauer, G. & M. Göbel, KOLIMO (Literary Modernism Corpus)<a href="https://www.kolimo.uni-goettingen.de/" target="_blank">home page(beta)</a> 
  
  Herrmann, J.B., Bageritz, I., Hannemann, L., Heimann, P., Kleinschmidt, L., Mattner, C., Roth-Kleyer, G., Weller, R., KEXI (Expressive & Interpersonal Writing Corpus)  <a href="https://capsgoe.wordpress.com/" target="_blank"> capsgoe home page</a>  
  
