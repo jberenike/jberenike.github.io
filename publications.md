@@ -29,7 +29,7 @@ in press
 
 # peer-reviewed papers  
 
-re-submitted
+submitted
 
  Herrmann, J.B.: In test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M. & J. van Zundert (Eds.). Special Issue DHBenelux 2015, Digital Humanities Quarterly.  
  
