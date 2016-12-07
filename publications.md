@@ -59,13 +59,13 @@ submitted
 
 in prep.
  
- Herrmann, J.B., Lauer, G. & M. Göbel, KOLIMO (Literary Modernism Corpus) <a href="https://www.kolimo.uni-goettingen.de/" target="_blank">home page(beta)</a> 
+ Herrmann, J.B., Lauer, G. & M. Göbel, KOLIMO (Literary Modernism Corpus) <a href="https://kolimo.uni-goettingen.de/index.html" target="_blank">home page (beta)</a> 
  
  Herrmann, J.B., Bageritz, I., Hannemann, L., Heimann, P., Kleinschmidt, L., Mattner, C., Roth-Kleyer, G., Weller, R., KEXI (Expressive & Interpersonal Writing Corpus)  <a href="https://capsgoe.wordpress.com/" target="_blank"> capsgoe home page</a>  
  
 2012	
 
- Herrmann, J.B. (Ed.). Literatur rechnen. Ein Wiki zur digitalen Textanalyse.   <a href="http://litre.uni-goettingen.de/" target="_blank">home page</a> 
+ Herrmann, J.B. (Ed.). Literatur rechnen. Ein Wiki zur digitalen Textanalyse. <a href="http://litre.uni-goettingen.de/" target="_blank">home page</a> 
  
 2010	
 
