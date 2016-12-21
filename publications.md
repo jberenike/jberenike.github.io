@@ -11,6 +11,7 @@ title: j. berenike herrmann
 # books and special issues  
 
 2016
+
  Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.). <a href="https://benjamins.com/#catalog/journals/ssol.6.1/toc" target="_blank">Transdisciplinary Approaches to Literature and Empathy, Special issue of Scientific Study of Literature 6:1.</a> 
  
 2015	
@@ -34,17 +35,18 @@ submitted
  
 2016	
 
+ Sopcak, P., Salgaro, M. & Herrmann, J.B. (2016).Transdisciplinary approaches to literature and empathy, in: Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.), Transdisciplinary Approaches to Literature and Empathy, special Issue of Scientific Study of Literature 6:1, pp. 2-5.
+
+
  Herrmann, J.B.: "Läuse im Pelz der Sprache?" Zu Funktionen von Modalpartikeln in narrativen (De-)Motivierungsstrategien bei Franz Kafka [On the functions of modal particles in Franz Kafka’s narrative strategies], in: Horváth, M. & Mellmann, K. (Eds.), Die biologisch-kognitiven Grundlagen narrativer Motivierung. Poetogenesis - Studien zur empirischen Anthropologie der Literatur, 10. Münster: Mentis.
  
 2015
 
- Herrmann, J.B., van Dalen-Oskam, K. & Schöch, C.: Revisiting style, a key concept in literary studies, in: Journal of Literary Theory 9 (1), pp. 52-52.
+ Herrmann, J.B., van Dalen-Oskam, K. & Schöch, C. (2015). Revisiting style, a key concept in literary studies, in: Journal of Literary Theory 9 (1), pp. 52-52.
 
-2015
 
- Herrmann, J.B.: High on metaphor, low on simile: A cross-register examination of metaphor type in academic prose, in: Herrmann, J.B. & T. Berber Sardinha (Eds.). Metaphor in Specialist Discourse (pp. 163-190). Metaphor in Language, Cognition, and Communication, 4. Amsterdam: John Benjamins.
+ Herrmann, J.B. (2015). High on metaphor, low on simile: A cross-register examination of metaphor type in academic prose, in: Herrmann, J.B. & T. Berber Sardinha (Eds.). Metaphor in Specialist Discourse (pp. 163-190). Metaphor in Language, Cognition, and Communication, 4. Amsterdam: John Benjamins.
  
-2015
 
  Herrmann, J.B. & T. Berber Sardinha (2015). Metaphor in specialist discourse: Investigating metaphor use specific and popularized discourse contexts, in: Herrmann, J.B. & T. Berber Sardinha (Eds.), Metaphor in Specialist Discourse (pp. 3-14). Metaphor in Language, Cognition, and Communication, 4. Amsterdam: John Benjamins.
 
@@ -58,7 +60,7 @@ submitted
 
 in prep.
  
- Herrmann, J.B., Lauer, G. & M. Göbel, KOLIMO (Literary Modernism Corpus) <a href="https://kolimo.uni-goettingen.de/index.html" target="_blank">home page (beta)</a> 
+ Herrmann, J.B. & Lauer, G., KOLIMO (Corpus Literary Modernism) <a href="https://kolimo.uni-goettingen.de/index.html" target="_blank">home page (beta)</a> 
  
  Herrmann, J.B., Bageritz, I., Hannemann, L., Heimann, P., Kleinschmidt, L., Mattner, C., Roth-Kleyer, G., Weller, R., KEXI (Expressive & Interpersonal Writing Corpus)  <a href="https://capsgoe.wordpress.com/" target="_blank"> capsgoe home page</a>  
  
