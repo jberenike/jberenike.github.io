@@ -10,9 +10,8 @@ title: j. berenike herrmann
 
 # books and special issues  
 
-in press
-
- Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.) (2016). <a href="https://benjamins.com/#catalog/journals/ssol.6.1/toc" target="_blank">Transdisciplinary Approaches to Literature and Empathy, Special issue of Scientific Study of Literature 6:1.</a> 
+2016
+ Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.). <a href="https://benjamins.com/#catalog/journals/ssol.6.1/toc" target="_blank">Transdisciplinary Approaches to Literature and Empathy, Special issue of Scientific Study of Literature 6:1.</a> 
  
 2015	
  
