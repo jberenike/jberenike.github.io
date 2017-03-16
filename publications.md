@@ -10,40 +10,46 @@ title: j. berenike herrmann
 
 # books and special issues  
 
-in production
+2016
 
-Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.). Transdisciplinary Approaches to Literature and Empathy, special Issue of Scientific Study of Literature (SSOL). 
+ Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.). <a href="https://benjamins.com/#catalog/journals/ssol.6.1/toc" target="_blank">Transdisciplinary Approaches to Literature and Empathy, Special issue of Scientific Study of Literature 6:1.</a> 
  
 2015	
  
-  Herrmann, J.B. & T. Berber Sardinha (Eds.): Metaphor in specialist discourse: Investigating metaphor use in technical, scientific and popularized discourse contexts. Amsterdam: John Benjamins. 
+  Herrmann, J.B. & T. Berber Sardinha (Eds.). <a href="https://benjamins.com/#catalog/books/milcc.4/toc" target="_blank">Metaphor in specialist discourse. Amsterdam: John Benjamins.</a>  
  
 2013	
   
- Herrmann, J. B.: Metaphor in academic discourse. Linguistic forms, conceptual structures, communicative functions and cognitive representations. Utrecht: LOT dissertation series. 
+ Herrmann, J. B.:  <a href="http://www.lotpublications.nl/metaphor-in-academic-discourse-metaphor-in-academic-discourse-linguistic-forms-conceptual-structures-communicative-functions-and-cognitive-representations" target="_blank">Metaphor in academic discourse. Linguistic forms, conceptual structures, communicative functions and cognitive representations. Utrecht: LOT dissertation series.</a>
  
 2010	
 
- Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., and T. Pasma: A method for linguistic metaphor identification: From MIP to MIPVU. Amsterdam and Philadelphia: John Benjamins. 
+ Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., and T. Pasma. <a href="https://benjamins.com/#catalog/books/celcr.14/main" target="_blank">A method for linguistic metaphor identification: From MIP to MIPVU. Amsterdam and Philadelphia: John Benjamins.</a> 
 
 
 # peer-reviewed papers  
 
-under review
+submitted
 
  Herrmann, J.B.: In test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M. & J. van Zundert (Eds.). Special Issue DHBenelux 2015, Digital Humanities Quarterly.  
  
 2016	
 
- Herrmann, J.B.: "Läuse im Pelz der Sprache?" Zu Funktionen von Modalpartikeln in narrativen (De-)Motivierungsstrategien bei Franz Kafka [On the functions of modal particles in Franz Kafka’s narrative strategies], in: Horváth, M. & Mellmann, K. (Eds.), Die biologisch-kognitiven Grundlagen narrativer Motivierung. Narratologia. Contributions to Narrative Theory. Berlin: De Gruyter. 
- 
-2015	
+ Sopcak, P., Salgaro, M. & Herrmann, J.B. (2016).Transdisciplinary approaches to literature and empathy, in: Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.), Transdisciplinary Approaches to Literature and Empathy, special Issue of Scientific Study of Literature 6:1, pp. 2-5.
 
- Herrmann, J.B.: High on metaphor, low on simile: A cross-register examination of metaphor type in academic prose, in: Herrmann, J.B. & T. Berber Sardinha (Eds.). Metaphor in Specialist Discourse: Investigating Metaphor Use in Technical, Scientific and Popularized Discourse Contexts. Amsterdam: John Benjamins.
+
+ Herrmann, J.B.: "Läuse im Pelz der Sprache?" Zu Funktionen von Modalpartikeln in narrativen (De-)Motivierungsstrategien bei Franz Kafka [On the functions of modal particles in Franz Kafka’s narrative strategies], in: Horváth, M. & Mellmann, K. (Eds.), Die biologisch-kognitiven Grundlagen narrativer Motivierung. Poetogenesis - Studien zur empirischen Anthropologie der Literatur, 10. Münster: Mentis.
  
 2015
 
- Herrmann, J.B., van Dalen-Oskam, K. & Schöch, C.: Revisiting style, a key concept in literary studies, in: Journal of Literary Theory  9, 1: 52-52.
+ Herrmann, J.B., van Dalen-Oskam, K. & Schöch, C. (2015). Revisiting style, a key concept in literary studies, in: Journal of Literary Theory 9 (1), pp. 52-52.
+
+
+ Herrmann, J.B. (2015). High on metaphor, low on simile: A cross-register examination of metaphor type in academic prose, in: Herrmann, J.B. & T. Berber Sardinha (Eds.). Metaphor in Specialist Discourse (pp. 163-190). Metaphor in Language, Cognition, and Communication, 4. Amsterdam: John Benjamins.
+ 
+
+ Herrmann, J.B. & T. Berber Sardinha (2015). Metaphor in specialist discourse: Investigating metaphor use specific and popularized discourse contexts, in: Herrmann, J.B. & T. Berber Sardinha (Eds.), Metaphor in Specialist Discourse (pp. 3-14). Metaphor in Language, Cognition, and Communication, 4. Amsterdam: John Benjamins.
+
  
 2010	
 
@@ -54,15 +60,13 @@ under review
 
 in prep.
  
- Herrmann, J.B., Lauer, G. & M. Göbel, KOLIMO (Literary Modernism Corpus)   <a href="https://www.kolimo.uni-goettingen.de/" target="_blank">home page(beta)</a> 
- 
- Herrmann, J.B., Lauer, G. & M. Göbel, KAREK (Kafka/Reference Corpus)   <a href="https://www.kolimo.uni-goettingen.de/" target="_blank">home page(beta)</a> 
+ Herrmann, J.B. & Lauer, G., KOLIMO (Corpus Literary Modernism) <a href="https://kolimo.uni-goettingen.de/index.html" target="_blank">home page (beta)</a> 
  
  Herrmann, J.B., Bageritz, I., Hannemann, L., Heimann, P., Kleinschmidt, L., Mattner, C., Roth-Kleyer, G., Weller, R., KEXI (Expressive & Interpersonal Writing Corpus)  <a href="https://capsgoe.wordpress.com/" target="_blank"> capsgoe home page</a>  
  
 2012	
 
- Herrmann, J.B. (Ed.). Literatur rechnen. Ein Wiki zur digitalen Textanalyse.   <a href="http://litre.uni-goettingen.de/" target="_blank">home page</a> 
+ Herrmann, J.B. (Ed.). Literatur rechnen. Ein Wiki zur digitalen Textanalyse. <a href="http://litre.uni-goettingen.de/" target="_blank">home page</a> 
  
 2010	
 
@@ -71,7 +75,7 @@ in prep.
  
 # talks & posters 
 
-conference talks (selection) 
+# conference talks (selection) 
 
 07/2016 KAREK: Building and Annotating a Kafka/Reference Corpus. (with Gerhard Lauer). International Conference Digital Humanities 2016, Krakow, Poland. 
 
