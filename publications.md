@@ -35,9 +35,6 @@ accepted
  
 2016	
 
- Sopcak, P., Salgaro, M. & Herrmann, J.B. (2016).Transdisciplinary approaches to literature and empathy, in: Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.), Transdisciplinary Approaches to Literature and Empathy, special Issue of Scientific Study of Literature 6:1, pp. 2-5.
-
-
  Herrmann, J.B.: "Läuse im Pelz der Sprache?" Zu Funktionen von Modalpartikeln in narrativen (De-)Motivierungsstrategien bei Franz Kafka [On the functions of modal particles in Franz Kafka’s narrative strategies], in: Horváth, M. & Mellmann, K. (Eds.), Die biologisch-kognitiven Grundlagen narrativer Motivierung. Poetogenesis - Studien zur empirischen Anthropologie der Literatur, 10. Münster: Mentis.
  
 2015
