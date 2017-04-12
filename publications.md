@@ -29,9 +29,9 @@ title: j. berenike herrmann
 
 # peer-reviewed papers  
 
-submitted
+accedpted
 
- Herrmann, J.B.: In test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M. & J. van Zundert (Eds.). Special Issue DHBenelux 2015, Digital Humanities Quarterly.  
+ Herrmann, J.B.: In a test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M. & J. van Zundert (Eds.). Special Issue DHBenelux 2015, Digital Humanities Quarterly.  
  
 2016	
 
@@ -76,12 +76,13 @@ in prep.
 # talks & posters 
 
 # conference talks (selection) 
+02/2017 Das "Was-bisher-geschah" von KOLIMO. Ein Update zum Korpus der literarischen Moderne. (with Gerhard Lauer). 4th International Conference "Digital Humanities im deutschsprachigen Raum" (DhD), Berne. <a href="http://www.dhd2017.ch/wp-content/uploads/2017/01/DHd-2017-Programm-12.1.17.pdf" target="_blank">abstract</a>
 
 07/2016 KAREK: Building and Annotating a Kafka/Reference Corpus. (with Gerhard Lauer). International Conference Digital Humanities 2016, Krakow, Poland. 
 
 07/2016 Measuring Kafka's Diaries. A Psychostylistic Approach (with Gerhard Lauer and Cosima Mattner). International Society for the Empirical Study of Literature and Media (IGEL), Chicago, USA.
  
-03/2016 Aufbau und Annotation des Kafka/Referenzkorpus. (with Gerhard Lauer). International Conference Digital Humanities im deutschsprachigen Raum (DhD) Leipzig, Germany. 
+03/2016 Aufbau und Annotation des Kafka/Referenzkorpus. (with Gerhard Lauer). 3rd International Conference "Digital Humanities im deutschsprachigen Raum" (DhD) Leipzig, Germany. 
 
 03/2016 Kafkas Stil. Zur Psychostilistik der Tagebücher Kafkas. (with Gerhard Lauer and Cosima Mattner). DhD Leipzig, Germany. 
 
