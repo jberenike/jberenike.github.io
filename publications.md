@@ -29,7 +29,7 @@ title: j. berenike herrmann
 
 # peer-reviewed papers  
 
-accedpted
+accepted
 
  Herrmann, J.B.: In a test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M. & J. van Zundert (Eds.). Special Issue DHBenelux 2015, Digital Humanities Quarterly.  
  
@@ -57,10 +57,8 @@ accedpted
  
  
 # digital resources  
-
-in prep.
  
- Herrmann, J.B. & Lauer, G., KOLIMO (Corpus Literary Modernism) <a href="https://kolimo.uni-goettingen.de/index.html" target="_blank">home page (beta)</a> 
+ Herrmann, J.B. & Lauer, G., <a href="https://kolimo.uni-goettingen.de/about.html" target="_blank"> KOLIMO (Corpus Literary Modernism) (beta)</a> 
  
  Herrmann, J.B., Bageritz, I., Hannemann, L., Heimann, P., Kleinschmidt, L., Mattner, C., Roth-Kleyer, G., Weller, R., KEXI (Expressive & Interpersonal Writing Corpus)  <a href="https://capsgoe.wordpress.com/" target="_blank"> capsgoe home page</a>  
  
