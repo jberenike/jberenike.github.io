@@ -69,12 +69,9 @@ accepted
 2010	
 
  Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., and T. Krennmayr. VU Amsterdam Metaphor Corpus. Oxford Text Archives.   <a href="http://www.ota.ox.ac.uk/headers/2541.xml" target="_blank">home page</a>  
- 
- 
-# talks & posters 
 
 # conference talks (selection) 
-02/2017 Das "Was-bisher-geschah" von KOLIMO. Ein Update zum Korpus der literarischen Moderne. (with Gerhard Lauer). 4th International Conference "Digital Humanities im deutschsprachigen Raum" (DhD), Berne. <a href="http://www.dhd2017.ch/wp-content/uploads/2017/01/DHd-2017-Programm-12.1.17.pdf" target="_blank">abstract</a>
+02/2017 Das "Was-bisher-geschah" von KOLIMO. Ein Update zum Korpus der literarischen Moderne. (with Gerhard Lauer). 4th International Conference "Digital Humanities im deutschsprachigen Raum" (DhD), Berne.
 
 07/2016 KAREK: Building and Annotating a Kafka/Reference Corpus. (with Gerhard Lauer). International Conference Digital Humanities 2016, Krakow, Poland. 
 
