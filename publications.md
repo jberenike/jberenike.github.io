@@ -101,7 +101,7 @@ accepted
 
  02/2017 Mining Stylistic Vividness in Narrative Beginnings. A Scaled Analysis of German Modernism. Digital Scholarship Conversations. Institute for Advanced Studies (IAS), Princeton, USA. https://www.ias.edu/sites/default/files/media-assets/2-27_Herrmann_DSConversations.pdf
 
- 12/2017  Q-LIMO. Quantitative Analyse von Erzähltexten der Klassischen Moderne – und darüber hinaus (with Markus Paluch). Potsdamer Arbeitstreffen zur digitalen Literaturwissenschaft, Potsdam, Germany. http://www.uni-potsdam.de/lit-19-jhd/digitale-literaturwissenschaft/potsdamer-arbeitstreffen.html
+ 12/2016  Q-LIMO. Quantitative Analyse von Erzähltexten der Klassischen Moderne – und darüber hinaus (with Markus Paluch). Potsdamer Arbeitstreffen zur digitalen Literaturwissenschaft, Potsdam, Germany. http://www.uni-potsdam.de/lit-19-jhd/digitale-literaturwissenschaft/potsdamer-arbeitstreffen.html
  
  09/2016	 Basic experiment design and hypothesis testing. Lecture at IGEL/E-READ Training School: Empirical Methods for Humanities scholars. Max-Planck -Institute for Empirical Aesthetics, Frankfurt. http://ereadcost.eu/empirical-methods-humanities/
  
