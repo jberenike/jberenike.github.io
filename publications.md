@@ -29,9 +29,13 @@ title: j. berenike herrmann
 
 # peer-reviewed papers  
 
-accepted
+in print
 
  Herrmann, J.B.: In a test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M. & J. van Zundert (Eds.). Special Issue DHBenelux 2015, Digital Humanities Quarterly.  
+ 
+ 
+ Herrmann, J.B.: Anschaulichkeit messen. Eine quantitative Metaphernanalyse an deutschsprachigen Erzählanfängen zwischen 1880 und 1926. In: Köppe, T. & Singer, R.: „Show, don’t tell“. 	Anschaulichkeit – Veranschaulichung – Erzählen. Münster: Mentis. 
+ [ = Measuring Stylistic Vividness. A quantitative metaphor analysis of the beginning sections of German narrative fiction 1880 -1926]
  
 2016	
 
