@@ -107,7 +107,7 @@ in print
 
  12/2016  Q-LIMO. Quantitative Analyse von Erzähltexten der Klassischen Moderne – und darüber hinaus (with Markus Paluch). Potsdamer Arbeitstreffen zur digitalen Literaturwissenschaft, Potsdam, Germany. http://www.uni-potsdam.de/lit-19-jhd/digitale-literaturwissenschaft/potsdamer-arbeitstreffen.html
  
- 09/2016	 Basic experiment design and hypothesis testing. Lecture at IGEL/E-READ Training School: Empirical Methods for Humanities scholars. Max-Planck -Institute for Empirical Aesthetics, Frankfurt. http://ereadcost.eu/empirical-methods-humanities/
+ 09/2016	 Basic experiment design and hypothesis testing. Lecture at IGEL/E-READ Training School: Empirical Methods for Humanities scholars. Max-Planck -Institute for Empirical Aesthetics, Frankfurt. http://ereadcost.eu/empirical-methods-humanities/ Watch video here: https://www.youtube.com/watch?v=fU-M5poD
  
  07/2015	 Bold Statement: Incorporate academic freedom in future visions of science and scholarship!  Internal Volkswagen Foundation Opportunities Meeting: The Future of Funding Agencies. BBAW, Berlin. 
  
