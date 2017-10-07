@@ -19,4 +19,4 @@ title: news
 <p><br> The 2018 IGEL DH-Symposium at <a href="http://igel2018.no/" target="blank">IGEL conference Stavanger </a>is in the make: News will be posted soon!</p>
 
 # Upcoming talks at conferences
-9-13 October 2017 - I'll contribute a talk to the DFG Symposium _Digitale Literaturwissenschaft_ at Villa Vigoni <a href="http://www.jannidis.de/cfp-diglit2017.html" target="blank"</a>: Operationalisierung der Metapher zur quantifizierenden Untersuchung deutschsprachiger literarischer Texte im Übergang von Realismus zur Moderne.
+9-13 October 2017 - I'll contribute a talk to the DFG Symposium _Digitale Literaturwissenschaft_ at Villa Vigoni <a href="http://www.jannidis.de/cfp-diglit2017.html" target="_blank"</a>: Operationalisierung der Metapher zur quantifizierenden Untersuchung deutschsprachiger literarischer Texte im Übergang von Realismus zur Moderne.
