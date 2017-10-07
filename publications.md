@@ -61,9 +61,9 @@ Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (accepted). 
  Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., and T. Krennmayr (2010). <a href="http://www.ota.ox.ac.uk/headers/2541.xml" target="_blank">VU Amsterdam Metaphor Corpus</a>. Oxford Text Archives. 
 
 
- # conference talks (selection) 
+# conference talks (selection) 
 
-02/2017 Das "Was-bisher-geschah" von KOLIMO. Ein Update zum Korpus der literarischen Moderne. (with Gerhard Lauer). 4th International Conference <a href="http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf" target="blank" _Digital Humanities im deutschsprachigen Raum (DhD)_ </a>, Berne. 
+02/2017 Das "Was-bisher-geschah" von KOLIMO. Ein Update zum Korpus der literarischen Moderne. (with Gerhard Lauer). 4th International Conference <a href="http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf" target="_blank"> Digital Humanities im deutschsprachigen Raum (DhD) </a>, Berne. 
 
 02/2017 Short Texts in Authorship Attribution. The Case of Robert Musil’s War Articles. (with Gerhard Lauer, Simone Rebora, Massimo Salgaro) <a href="https://www.conftool.net/aiucd2017/index.php?page=browseSessions&form_session=27" target="_blank">6th AIUCD Conference</a>. Rome, Italy.
 
@@ -93,7 +93,7 @@ Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (accepted). 
   
 # invited talks (selection)
 
- 09/2017	WYSIWYG? Getting behind the scenes of Digital Humanities research. <a href=" http://www.ghentcdh.ugent.be/content/dhds-symposium-keynote-dr-berenike-herrmann-basel" target="blank" Keynote at #DHDS Symposium _Loading: Methods and Approaches in Digital Humanities_, </a> Ghent Centre for Digital Humanities, Ghent University.
+ 09/2017 WYSIWYG? Getting behind the scenes of Digital Humanities research. <a href="http://www.ghentcdh.ugent.be/content/dhds-symposium-keynote-dr-berenike-herrmann-basel" target="_blank"> Keynote at _#DHDS Symposium Loading: Methods and Approaches in Digital Humanities_, </a> Ghent Centre for Digital Humanities, Ghent University</a>.
 
  03/2017 Text Mining Literature: Corpus and Methodology. Centre for the Advancement of Faculty Excellence. Skype Talk. McEwan University, Edmonton, Canada. <a href="http://www.macewan.ca/wcm/MacEwanEvents/SS_CAFE_TEXT_MINING_17" target="_blank">abstract</a>
 
