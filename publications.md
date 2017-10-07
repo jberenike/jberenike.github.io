@@ -93,7 +93,7 @@ Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (accepted). 
   
 # invited talks (selection)
 
- 09/2017 WYSIWYG? Getting behind the scenes of Digital Humanities research. <a href="http://www.ghentcdh.ugent.be/content/dhds-symposium-keynote-dr-berenike-herrmann-basel" target="_blank"> Keynote at _#DHDS Symposium Loading: Methods and Approaches in Digital Humanities_, </a> Ghent Centre for Digital Humanities, Ghent University</a>.
+ 09/2017 WYSIWYG? Getting behind the scenes of Digital Humanities research. <a href="http://www.ghentcdh.ugent.be/content/dhds-symposium-keynote-dr-berenike-herrmann-basel" target="_blank"> Keynote at _#DHDS Symposium Loading: Methods and Approaches in Digital Humanities_, </a> Ghent Centre for Digital Humanities, Ghent University.
 
  03/2017 Text Mining Literature: Corpus and Methodology. Centre for the Advancement of Faculty Excellence. Skype Talk. McEwan University, Edmonton, Canada. <a href="http://www.macewan.ca/wcm/MacEwanEvents/SS_CAFE_TEXT_MINING_17" target="_blank">abstract</a>
 
