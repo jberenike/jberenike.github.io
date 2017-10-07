@@ -63,7 +63,7 @@ Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (accepted). 
 
 # conference talks (selection) 
 
-02/2017 Das "Was-bisher-geschah" von KOLIMO. Ein Update zum Korpus der literarischen Moderne. (with Gerhard Lauer). 4th International Conference <a href="http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf" target="_blank"> Digital Humanities im deutschsprachigen Raum (DhD)</a>, Berne. 
+02/2017 Das "Was-bisher-geschah" von KOLIMO. Ein Update zum Korpus der literarischen Moderne. (with Gerhard Lauer). 4th International Conference <a href="http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf" target="_blank">Digital Humanities im deutschsprachigen Raum (DhD)</a>, Berne. 
 
 02/2017 Short Texts in Authorship Attribution. The Case of Robert Musil’s War Articles. (with Gerhard Lauer, Simone Rebora, Massimo Salgaro) <a href="https://www.conftool.net/aiucd2017/index.php?page=browseSessions&form_session=27" target="_blank">6th AIUCD Conference</a>. Rome, Italy.
 
