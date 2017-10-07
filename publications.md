@@ -10,7 +10,6 @@ title: j. berenike herrmann
 
 # books and special issues  
 
-
  Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.)(2016). <a href="https://benjamins.com/#catalog/journals/ssol.6.1/toc" target="_blank">Transdisciplinary Approaches to Literature and Empathy, Special issue of Scientific Study of Literature 6:1.</a> 
  
  Herrmann, J.B. & T. Berber Sardinha (Eds.)(2015). <a href="https://benjamins.com/#catalog/books/milcc.4/toc" target="_blank">Metaphor in specialist discourse. Amsterdam: John Benjamins.</a>  
@@ -65,18 +64,11 @@ Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (accepted). 
 
  # conference talks (selection) 
 
-09/2017	WYSIWYG? Getting behind the scenes of Digital Humanities research. <a href=" http://www.ghentcdh.ugent.be/content/dhds-symposium-keynote-dr-berenike-herrmann-basel" target="blank" Keynote at #DHDS Symposium "Loading: Methods and Approaches in Digital Humanities" </a>, Ghent Centre for Digital Humanities, Ghent University.
+02/2017 Das "Was-bisher-geschah" von KOLIMO. Ein Update zum Korpus der literarischen Moderne. (with Gerhard Lauer). 4th International Conference <a href="http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf" target="blank" "Digital Humanities im deutschsprachigen Raum" (DhD) </a>, Berne. 
 
-<<<<<<< HEAD
-02/2017 Das "Was-bisher-geschah" von KOLIMO. Ein Update zum Korpus der literarischen Moderne. (with Gerhard Lauer). 4th International Conference "Digital Humanities im deutschsprachigen Raum" (DhD), Berne. http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf
-=======
-# conference talks (selection) 
-02/2017 Das "Was-bisher-geschah" von KOLIMO. Ein Update zum Korpus der literarischen Moderne. (with Gerhard Lauer). 4th International Conference "Digital Humanities im deutschsprachigen Raum" (DhD), Berne. <a href="http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf" target="_blank">abstract</a> 
->>>>>>> 85deb18160c210591ec14e1f4dc996c0892eef43
+02/2017 Short Texts in Authorship Attribution. The Case of Robert Musil’s War Articles. (with Gerhard Lauer, Simone Rebora, Massimo Salgaro) <a href="https://www.conftool.net/aiucd2017/index.php?page=browseSessions&form_session=27" target="_blank">6th AIUCD Conference</a>. Rome, Italy.
 
-02/2017 Short Texts in Authorship Attribution. The Case of Robert Musil’s War Articles. (with Gerhard Lauer, Simone Rebora, Massimo Salgaro). 6th AIUCD Conference, Rome, Italy. <a href="https://www.conftool.net/aiucd2017/index.php?page=browseSessions&form_session=27" target="_blank">abstract</a>
-
-07/2016 KAREK: Building and Annotating a Kafka/Reference Corpus. (with Gerhard Lauer). International Conference Digital Humanities 2016, Krakow, Poland. <a href="http://dh2016.adho.org/abstracts/427" target="_blank">abstract</a>
+07/2016 KAREK: Building and Annotating a Kafka/Reference Corpus. (with Gerhard Lauer). <a href="http://dh2016.adho.org/abstracts/427" target="_blank">International Conference Digital Humanities 2016</a>, Krakow, Poland.
 
 07/2016 Measuring Kafka's Diaries. A Psychostylistic Approach (with Gerhard Lauer and Cosima Mattner). International Society for the Empirical Study of Literature and Media (IGEL), Chicago, USA.
  
@@ -100,14 +92,17 @@ Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (accepted). 
 
 06/2011 Exploring metaphorical language use in academic prose. A cross-register corpus-analysis. International Stylistics Across Disciplines (SAD) Conference, Leiden University, NL. 
   
-# invited talks (selection)  
+# invited talks (selection)
+
+ 09/2017	WYSIWYG? Getting behind the scenes of Digital Humanities research. <a href=" http://www.ghentcdh.ugent.be/content/dhds-symposium-keynote-dr-berenike-herrmann-basel" target="blank" Keynote at #DHDS Symposium "Loading: Methods and Approaches in Digital Humanities" </a>, Ghent Centre for Digital Humanities, Ghent University.
+
  03/2017 Text Mining Literature: Corpus and Methodology. Centre for the Advancement of Faculty Excellence. Skype Talk. McEwan University, Edmonton, Canada. <a href="http://www.macewan.ca/wcm/MacEwanEvents/SS_CAFE_TEXT_MINING_17" target="_blank">abstract</a>
 
  02/2017 Mining Stylistic Vividness in Narrative Beginnings. A Scaled Analysis of German Modernism. Digital Scholarship Conversations. Institute for Advanced Studies (IAS), Princeton, USA. <a href="https://www.ias.edu/sites/default/files/media-assets/2-27_Herrmann_DSConversations.pdf" target="_blank">abstract</a> 
 
  12/2016  Q-LIMO. Quantitative Analyse von Erzähltexten der Klassischen Moderne – und darüber hinaus (with Markus Paluch).<a href="http://www.uni-potsdam.de/lit-19-jhd/digitale-literaturwissenschaft/potsdamer-arbeitstreffen.html" target="_blank">Potsdamer Arbeitstreffen zur digitalen Literaturwissenschaft, Potsdam, Germany</a>. 
  
- 09/2016	 Basic experiment design and hypothesis testing. Lecture at <a href="http://ereadcost.eu/empirical-methods-humanities/" target="_blank">IGEL/E-READ Training School: Empirical Methods for Humanities scholars. Max-Planck -Institute for Empirical Aesthetics, Frankfurt</a>  Watch video <a href:="https://youtu.be/fU-M5poDik4" target="_blank">here</a>!
+ 09/2016	 Basic experiment design and hypothesis testing. Lecture at <a href="http://ereadcost.eu/empirical-methods-humanities/" target="_blank">IGEL/E-READ Training School: Empirical Methods for Humanities scholars. Max-Planck -Institute for Empirical Aesthetics, Frankfurt</a> <a href:="https://youtu.be/fU-M5poDik4" target="_blank">Watch video here</a>!
  
  07/2015	 Bold Statement: Incorporate academic freedom in future visions of science and scholarship! Internal Volkswagen Foundation Opportunities Meeting: The Future of Funding Agencies. BBAW, Berlin. 
  
