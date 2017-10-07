@@ -1,7 +1,7 @@
-﻿<h2> Some info on the 2017 IGEL symposium on Digital Text Analysis</h2>
+## Some info on the 2017 IGEL symposium on Digital Text Analysis
 
-<p>
-<br><b>9 July 2016 - <a href="https://sites.google.com/site/igelchicago2016/program" target="_blank">Symposium: The Power of Digital Text Analysis #IGEL2016 </a>- Biannual Conference of International Society for the Empirical Study of Literature and Media (IGEL)</b></p>
+9 July 2016 - <a href="https://sites.google.com/site/igelchicago2016/program" target="_blank">Symposium: The Power of Digital Text Analysis #IGEL2016 </a>- Biannual Conference of International Society for the Empirical Study of Literature and Media (IGEL)
+
 <br>Saturday July 9th, 8:30-10:35 am, Honore Room
 </p> 
 
