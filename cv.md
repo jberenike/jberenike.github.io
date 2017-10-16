@@ -7,7 +7,7 @@ title: cv
 
 # cv
 
-<img src="images/veynes_2017.jpg" alt="veynes2017" class="ri"/>
+<img src="images/amrum.jpg" alt="amrum" class="ri"/>
 
 # academic positions
 ### current
