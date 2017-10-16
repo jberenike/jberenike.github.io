@@ -7,7 +7,7 @@ title: news
 
 ## news
 
-<img src="images/sugar.JPG" alt="sugar" class="ri"/>
+<img src="images/sugar.jpg" alt="sugar" class="ri"/>
 
 On 1 August 2017 I started a postoc position ("Oberassistentin") at the <a href="http://dhlab.unibas.ch/" target="_blank">DH Lab at Basel University</a>! Looking forward to new, exciting endeavours!
 
