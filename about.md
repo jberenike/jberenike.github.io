@@ -1,5 +1,3 @@
-# Dr. J. Berenike Herrmann
-
 Postdoc
 
 Digital Humanities Lab
@@ -15,7 +13,7 @@ Switzerland
 
 e-mail berenike.herrmann-at-unibas.ch
 
-<img src="images/twitter.PNG" alt="twitter" class="ri"/>twitter @jberenike
+<img src="images/twitter.png" alt="twitter" class="ri"/> @jberenike
 
 # About
 
