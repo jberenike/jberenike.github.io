@@ -15,7 +15,7 @@ Switzerland
 
 e-mail berenike.herrmann-at-unibas.ch
 
-twitter @jberenike
+<img src="images/twitter.PNG" alt="twitter" class="ri"/>twitter @jberenike
 
 # About
 
