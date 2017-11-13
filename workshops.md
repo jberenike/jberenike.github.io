@@ -8,7 +8,7 @@ The symposium features four invited papers that report on digital methods of ana
 
 
 8:35-8:55 AM
-## Sorry, I have Digitized my Scholarship. A Short Introduction into Computer-Based Literary
+## Sorry, I have Digitized my Scholarship. A Short Introduction into Computer-Based Literary Studies
 Gerhard Lauer
 
 The talk will address three main issues of digital text analysis in literary studies: the need for formalization, the main computer-based methods, and the basic resources. In a first step, the talk explains the necessity and method of translating cultural objects (like texts) into computational corpora. Secondly, chief methods of text analysis, from word counting to sentiment analysis, are introduced. And thirdly, I will introduce hands-on examples of textual analysis using principled collections of digitized texts.
@@ -37,7 +37,9 @@ This paper attempts to quantitatively and computationally model racial discourse
 10:10-10:35 AM
 ## General Discussion
 What is the potential and spectrum of a new generation of digital literary analyses? 
+
 How do apply them in studies of textual characteristics, including literary history, but also to the dimensions of reader, author – and society?
+
 
 ## References
 <br>Biber, D. (2011). Corpus linguistics and the study of literature: Back to the future? Scientific Study of Literature, 1(1), 15–23. http://doi.org/10.1075/ssol.1.1.02bib
