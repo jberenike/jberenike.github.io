@@ -1,3 +1,9 @@
+---
+layout: default
+title: workshops
+
+---
+
 # 2016 Symposium "The Power of Digital Text Analysis #IGEL2016" at the <a href="https://sites.google.com/site/igelchicago2016/program" target="_blank">Biannual Conference of the International Society for the Empirical Study of Literature and Media (IGEL)</a>
  
 Saturday July 9th, 8:30-10:35 am, Honore Room
