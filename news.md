@@ -5,7 +5,7 @@ title: news
 ---
 
 
-## news
+# news
 
 <img src="images/sugar.jpg" alt="sugar" class="ri"/>
 
