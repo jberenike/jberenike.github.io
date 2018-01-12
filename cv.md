@@ -96,13 +96,13 @@ Since 2012	Active Founding Member: Digital Text analysis Working Group (TaWG), G
 
 # academic reviewer
 
-International Conference Digital Humanities 2016, Krakow
+International Conferences Digital Humanities (ADHO) (since 2016)
 
-DhD 2016 Conference Leipzig
+Digital Humanities im deutschsprachigen Raum (DhD) Conferences (since 2016)
 
-International Conference IGEL 2016
+International Conferences International Society for the Empirical Study of Literature and the Media (IGEL) (since 2016)
 
-Journals: Review of Cognitive Linguistics (RCL), English Text Construction
+Journals: Review of Cognitive Linguistics (RCL), English Text Construction, Language Resources and Evaluation.
 
 Edited Volumes: Multi-Dimensional Analysis, 25 years on. A tribute to Douglas Biber. Edited by Tony Berber Sardinha and Marcia Veirano Pinto. Amsterdam: John Benjamins (2014), Researching and Applying Metaphor in the Real World. Edited by Graham Low, Zazie Todd, Alice Deignan and Lynne Cameron. Amsterdam: John Benjamins (2010).
 
