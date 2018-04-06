@@ -4,15 +4,37 @@ title: workshops
 
 ---
 
-# 2016 Symposium "The Power of Digital Text Analysis #IGEL2016"
-<a href="https://sites.google.com/site/igelchicago2016/program" target="_blank"> At Biannual Conference of the International Society for the Empirical Study of Literature and Media (IGEL)</a>
- 
-Saturday July 9th, 8:30-10:35 am, Honore Room
+# 2018 
+
+## April
+At Le Mans University (invited by <a href="http://3lam.univ-lemans.fr/fr/membres/enseignants-chercheurs/ouvry-vial-brigitte.html">Prof. Brigitte Ouvry-Vial </a> and <a href="http://www.anne-baillot.eu/Home">Prof. Anne Baillot</a>) I will give an interactive lecture <a href="http://www.msh.univ-nantes.fr/96280119/0/fiche___actualite/&RH=ACCUEILhttp:/" target="_blank"> the Atelier Numérique "Gérer et explorer les données textuelles"</a> on 10 April 2018. Here is my abstract:
+
+### Text mining for cultural heritage: A very short intro to measures of readability and metaphor
+This lecture is an interactive report on two core indicators of textual style, readability and metaphor. In two consecutive parts, I will introduce standardized methods for gauging the degree of textual complexity (the Flesch Index) and identifying metaphorical language use in a reliable way (MIPVU). As a minimal formal measure of style, the Flesch Index is relatively easily applied to digital data and facilitates pattern finding. Its interpretation, however, needs to be informed of factors such as textual genre and audience. By contrast, the metaphor identification procedure requires annotator training and iterative validity control, but may feed into procedures of Machine Learning. Both methods may be applied to various languages.
+The methodological introduction will comprise a practical part in which the participants try out the Flesch-measure and evaluate its implications. This practical experience will be supplanted by my research results for the transition between Literary Realism and Modernism in German Literature (ca. 1860-1930) and a brief introduction to the literary dataset used, the Corpus of German Literary Modernism (KOLIMO). The aim of the lecture is to give participants an hands-on experience of applying formal measures of textual style before the background of the workflow and theoretical modeling of a well-rounded DH-project.
+
+
+## July
+I'll be chairing the Symposium __"DH@IGEL. Symposium on digital scholarship applied to the empirical study of literature and media"__ at the <a href="http://igel2018.no/" target="_blank">Biannual Conference of the International Society for the Empirical Study of Literature and Media (IGEL) at Stavanger, Norway</a>, 25-28 July 2018.
+
+# 2017
+
+## December 
+Inviting my student assistant research group from Göttingen to Basel, I organized a<a href="https://github.com/jberenike/kolipos/wiki" target="_blank">Hackathon KOLIPOS</a> for advancing POS-annotation in <a href="https://kolimo.uni-goettingen.de/index.html" target="_blank">KOLIMO, the Corpus of Literary Modernism</a>. It was kidly hosted by <a href="http://dhlab.unibas.ch/DH" target="_blank"> DHLab Basel</a> and supported by <a href="http://www.ub.unibas.ch/ub-hauptbibliothek/" target="_blank">University Library Basel</a>.
+
+# 2016 
+
+## July
+Together with Francesca Frontini, I organized the Symposium "The Power of Digital Text Analysis #IGEL2016" <a href="https://sites.google.com/site/igelchicago2016/program" target="_blank"> at the Biannual Conference of the International Society for the Empirical Study of Literature and Media (IGEL)</a>
+
+Here is the program:
 
 # Summary
 IGEL is probably best known for supporting psychological approaches to literature / empirical aesthetics.  However, it also has a tradition of quantitative/digital literature studies (e.g., van Peer, 1989; Kuiken and  Miall, 2001; Louwerse et al., 2008; Louwerse and van Peer, 2002; and more recently, Biber, 2011;  Egbert, 20012; Jannidis and Lauer, 2014; Pennebaker and Ireland, 2011). Given the steady progress in literary and media data digitization and the availability of increasingly powerful tools (e.g., Jockers, 2014; Manovich, 2015), IGEL now aims at invigorating this tradition with new perspectives from the thriving  communities of Digital Humanities, computational linguistics, and corpus stylistics. 
 The symposium features four invited papers that report on digital methods of analysis applied to literary texts. Gerhard Lauer will open the symposium by situating ‘the digital approach’ historically and epistemologically, introducing key questions, concepts, methods, and resources of digital text analysis for literary data. The other three papers are exemplary studies documenting the diversity and power of digital approaches within the broad field of literary studies. Their research questions and methods tap into  linguistic, social-psychological, and cultural-studies backgrounds: First, Gabi Kirilloff (co-author  Matthew Jockers) will report on a large-scale analysis of 19th century novels from British and American  contexts, examining verb-pronoun pairings as an indicator of characterization. The contribution by Taleen Nalabandian (co-author Molly Ireland) will focus on using digital text analysis of scripts to determine if they are aligned with theory (i.e., Narrative Art Theory). The paper by Richard Jean So applies a digital socio-cultural approach to literary discourse, modeling broader patterns of racial inequality in the US literary field. It interlaces close reading and broader, macro scale methods. The symposium reflects the potential and spectrum of a new generation of digital literary analyses with regard to empirical, methodological and conceptual perspectives. Besides examples of research design and questions about corpus building, the symposium will give insight on how the newest digital studies approach domains such as: style, plot, characterization and gender, as well as perspective-taking, social cognition, and questions of socio-cultural patterns.
 
+ 
+Saturday July 9th, 8:30-10:35 am, Honore Room
 
 8:35-8:55 AM
 ## Sorry, I have Digitized my Scholarship. A Short Introduction into Computer-Based Literary Studies
