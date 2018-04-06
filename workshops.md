@@ -20,7 +20,7 @@ I'll be chairing the Symposium __"DH@IGEL. Symposium on digital scholarship appl
 # 2017
 
 ## December 
-Inviting my student assistant research group from Göttingen to Basel, I organized a<a href="https://github.com/jberenike/kolipos/wiki" target="_blank">Hackathon KOLIPOS</a> for advancing POS-annotation in <a href="https://kolimo.uni-goettingen.de/index.html" target="_blank">KOLIMO, the Corpus of Literary Modernism</a>. It was kidly hosted by <a href="http://dhlab.unibas.ch/DH" target="_blank"> DHLab Basel</a> and supported by <a href="http://www.ub.unibas.ch/ub-hauptbibliothek/" target="_blank">University Library Basel</a>.
+In December, I ran the <a href="https://github.com/jberenike/kolipos/wiki" target="_blank">Hackathon KOLIPOS</a> for advancing POS-annotation in <a href="https://kolimo.uni-goettingen.de/index.html" target="_blank">KOLIMO, the Corpus of Literary Modernism</a>. I was able to invite Thomas Proisl (Erlangen-Nuremberg), student assistants from my former research group and from the Campus Lab Digitization from Göttingen as well as new collaborators from Basel. The event was kindly hosted by <a href="http://dhlab.unibas.ch/DH" target="_blank"> DHLab Basel</a> and supported by <a href="http://www.ub.unibas.ch/ub-hauptbibliothek/" target="_blank">University Library Basel</a>.
 
 # 2016 
 
