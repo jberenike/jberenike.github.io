@@ -21,13 +21,11 @@ title: j. berenike herrmann
 
 # peer-reviewed papers  
 
-
- Herrmann, J.B. (accepted): In a test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M. & J. van Zundert (Eds.). _Special Issue DHBenelux 2015_, Digital Humanities Quarterly.  
+ Herrmann, J.B. & Lauer, G. (in print). Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne. Osnabrücker Beiträge zur Sprachtheorie (OBST), 92.
+•Herrmann, J.B., Woll, K., & Dorst. A.G (im Druck). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Eds.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.  
  
- Herrmann, J.B. (accepted): Anschaulichkeit messen. Eine quantitative Metaphernanalyse an deutschsprachigen Erzählanfängen zwischen 1880 und 1926. In: Köppe, T. & Singer, R.: „Show, don’t tell“. 	Anschaulichkeit – Veranschaulichung – Erzählen. Münster: Mentis. 
- [ = Measuring Stylistic Vividness. A quantitative metaphor analysis of the beginning sections of German narrative fiction 1880 -1926].
+ Herrmann, J.B. (2017): In a test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M. & J. van Zundert (Eds.). _Special Issue DHBenelux 2015_, Digital Humanities Quarterly.
 
- 
  Herrmann, J.B. (2016): "Läuse im Pelz der Sprache?" Zu Funktionen von Modalpartikeln in narrativen (De-)Motivierungsstrategien bei Franz Kafka [On the functions of modal particles in Franz Kafka’s narrative strategies], in: Horváth, M. & Mellmann, K. (Eds.), Die biologisch-kognitiven Grundlagen narrativer Motivierung. Poetogenesis - Studien zur empirischen Anthropologie der Literatur, 10. Münster: Mentis.
  
 
@@ -42,10 +40,27 @@ title: j. berenike herrmann
 
  Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., and T. Krennmayr (2010). Metaphor in usage. Cognitive Linguistics 21 (4): pp. 765-796.
  
+# peer-reviewed conference contributions
+
+ Herrmann, J. B. (in print). Anschaulichkeit messen. Eine quantitative Metaphernanalyse an deutschsprachigen Erzählanfängen zwischen 1880 und 1926. In T. Köppe & R. Singer (Eds.), Show, don’t tell: Konzepte und Strategien anschaulichen Erzählens. Bielefeld: Aisthesis. 167-212.
+ 
+ Herrmann, J.B. (2018). Praktische Tagger-Kritik. Zur Evaluation des PoS-Tagging des Deutschen Textarchivs. In Book of Abstracts 5th International Conference “Digital Humanities im deutschsprachigen Raum”, 26 February - 2 March 2018, Colone, pp. 287-290.  http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf 
+ 
+ Herrmann, J.B. & Lauer, G. (2017). Das „Was-bisher-geschah“ von KOLIMO. Ein Update zum Korpus der literarischen Moderne. In Book of Abstracts 4th International Conference “Digital Humanities im deutschsprachigen Raum”, Bern, CH. http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf 
+
+ Herrmann, J.B., Lauer, G, Rebora, S,. & Salgaro, M. (2017). Short Texts in Authorship Attribution. The Case of Robert Musil’s War Articles. In Book of Abstracts 6th AIUCD Conference “Il telescopio inverso: big data e distant reading nelle discipline umanistiche”, Rome, Italy. http://aiucd2017.aiucd.it/wp-content/uploads/2017/01/book-of-abstract-AIUCD-2017.pdf 
+ 
+ Herrmann, J.B. & Lauer, G. (2016). KAREK: Building and Annotating a Kafka/Reference Corpus. In Book of Abstracts Internationale Conference Digital Humanities 2016, Krakow, PL.
+ 
+ Herrmann, J.B. & Lauer, G. (2016). Aufbau und Annotation des Kafka/Referenzkorpus. In Book of Abstracts 3rd International Conference “Digital Humanities im deutschsprachigen Raum”, Leipzig, D.
+
+ Mattner, C., Herrmann, J.B. & Lauer, G. (2016). Kafkas Stil. Zur Psychostilistik der Tagebücher Kafkas. In Book of Abstracts 3rd International Conference “Digital Humanities im deutschsprachigen Raum”, Leipzig, D.
+
+ 
  
 # book chapters
 
-Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (accepted). Die Tiroler Soldatenzeitung und ihre Autoren. Eine computergestützte Suche nach Robert Musil. In: Salgaro Massimo, Elmar Locher, und Mariaelisa Dimino (Eds.) "Robert Musil als Redakteur der Tiroler Soldatenzeitung" (working title), Fink 2018.
+Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (in print). Die Tiroler Soldatenzeitung und ihre Autoren. Eine computergestützte Suche nach Robert Musil. In: Salgaro Massimo, Elmar Locher, und Mariaelisa Dimino (Eds.). Robert Musil als Redakteur der Tiroler Soldatenzeitung, Fink.
  
  
 # digital resources  
@@ -63,7 +78,9 @@ Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (accepted). 
 
 # conference talks (selection) 
 
-02/2017 Das "Was-bisher-geschah" von KOLIMO. Ein Update zum Korpus der literarischen Moderne. (with Gerhard Lauer). 4th International Conference <a href="http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf" target="_blank">Digital Humanities im deutschsprachigen Raum (DhD)</a>, Berne. 
+03/2018 Praktische Tagger-Kritik. Zur Evaluation des PoS-Tagging des Deutschen Textarchivs. 4th International Conference “Digital Humanities im deutschsprachigen Raum”, 26 Februar - 2 März 2018, Köln, S. 287-290.
+
+02/2017 Das "Was-bisher-geschah" von KOLIMO. Ein Update zum Korpus der literarischen Moderne. (with Gerhard Lauer). 4th International Conference Digital Humanities im deutschsprachigen Raum (DhD), Berne, CH. 
 
 02/2017 Short Texts in Authorship Attribution. The Case of Robert Musil’s War Articles. (with Gerhard Lauer, Simone Rebora, Massimo Salgaro) <a href="https://www.conftool.net/aiucd2017/index.php?page=browseSessions&form_session=27" target="_blank">6th AIUCD Conference</a>. Rome, Italy.
 
@@ -92,6 +109,10 @@ Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (accepted). 
 06/2011 Exploring metaphorical language use in academic prose. A cross-register corpus-analysis. International Stylistics Across Disciplines (SAD) Conference, Leiden University, NL. 
   
 # invited talks (selection)
+ 04/2018 Text mining for cultural heritage: A very short intro to measures of readability and metaphor. 
+<a href="http://www.msh.univ-nantes.fr/96280119/0/fiche___actualite/&RH=ACCUEIL" target="_blank">Atelier Numérique “Gérer et explorer les données textuelles”</a>, 10 April 2018, Le Mans University, France.
+
+11/2017 Where's literariness? Assessing literary style in German 19th C and early 20th C texts. Doktoranden- und Postdoc-Kolloquium Herman-Paul-School of Linguistics, University Freiburg i. Br., D and Basel University, CH.
 
  09/2017 WYSIWYG? Getting behind the scenes of Digital Humanities research. <a href="http://www.ghentcdh.ugent.be/content/dhds-symposium-keynote-dr-berenike-herrmann-basel" target="_blank"> Keynote at _#DHDS Symposium Loading: Methods and Approaches in Digital Humanities_, </a> Ghent Centre for Digital Humanities, Ghent University.
 
