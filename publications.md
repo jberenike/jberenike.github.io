@@ -22,13 +22,13 @@ title: j. berenike herrmann
 # peer-reviewed papers  
 
  Herrmann, J.B. & Lauer, G. (in print). Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne. Osnabrücker Beiträge zur Sprachtheorie (OBST), 92.
-•Herrmann, J.B., Woll, K., & Dorst. A.G (im Druck). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Eds.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.  
+
+ Herrmann, J.B., Woll, K., & Dorst. A.G (im Druck). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Eds.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.  
  
  Herrmann, J.B. (2017): In a test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M. & J. van Zundert (Eds.). _Special Issue DHBenelux 2015_, Digital Humanities Quarterly.
 
  Herrmann, J.B. (2016): "Läuse im Pelz der Sprache?" Zu Funktionen von Modalpartikeln in narrativen (De-)Motivierungsstrategien bei Franz Kafka [On the functions of modal particles in Franz Kafka’s narrative strategies], in: Horváth, M. & Mellmann, K. (Eds.), Die biologisch-kognitiven Grundlagen narrativer Motivierung. Poetogenesis - Studien zur empirischen Anthropologie der Literatur, 10. Münster: Mentis.
  
-
  Herrmann, J.B., van Dalen-Oskam, K. & Schöch, C. (2015). Revisiting style, a key concept in literary studies, in: Journal of Literary Theory 9(1), pp.52-52.
 
 
@@ -41,8 +41,6 @@ title: j. berenike herrmann
  Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., and T. Krennmayr (2010). Metaphor in usage. Cognitive Linguistics 21 (4): pp. 765-796.
  
 # peer-reviewed conference contributions
-
- Herrmann, J. B. (in print). Anschaulichkeit messen. Eine quantitative Metaphernanalyse an deutschsprachigen Erzählanfängen zwischen 1880 und 1926. In T. Köppe & R. Singer (Eds.), Show, don’t tell: Konzepte und Strategien anschaulichen Erzählens. Bielefeld: Aisthesis. 167-212.
  
  Herrmann, J.B. (2018). Praktische Tagger-Kritik. Zur Evaluation des PoS-Tagging des Deutschen Textarchivs. In Book of Abstracts 5th International Conference “Digital Humanities im deutschsprachigen Raum”, 26 February - 2 March 2018, Colone, pp. 287-290.  http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf 
  
@@ -61,6 +59,8 @@ title: j. berenike herrmann
 # book chapters
 
 Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (in print). Die Tiroler Soldatenzeitung und ihre Autoren. Eine computergestützte Suche nach Robert Musil. In: Salgaro Massimo, Elmar Locher, und Mariaelisa Dimino (Eds.). Robert Musil als Redakteur der Tiroler Soldatenzeitung, Fink.
+
+ Herrmann, J. B. (in print). Anschaulichkeit messen. Eine quantitative Metaphernanalyse an deutschsprachigen Erzählanfängen zwischen 1880 und 1926. In T. Köppe & R. Singer (Eds.), Show, don’t tell: Konzepte und Strategien anschaulichen Erzählens. Bielefeld: Aisthesis. 167-212.
  
  
 # digital resources  
