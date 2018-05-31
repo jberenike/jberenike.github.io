@@ -11,24 +11,24 @@ title: j. berenike herrmann
 
 # books and special issues  
 
- Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.)(2016). <a href="https://benjamins.com/#catalog/journals/ssol.6.1/toc" target="_blank">Transdisciplinary Approaches to Literature and Empathy, Special issue of Scientific Study of Literature 6:1.</a> 
+ Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.) (2016). [Transdisciplinary Approaches to Literature and Empathy, Special issue of Scientific Study of Literature 6:1.](https://benjamins.com/#catalog/journals/ssol.6.1/toc)
  
- Herrmann, J.B. & T. Berber Sardinha (Eds.)(2015). <a href="https://benjamins.com/#catalog/books/milcc.4/toc" target="_blank">Metaphor in specialist discourse. Amsterdam: John Benjamins.</a>  
+Herrmann, J.B. & T. Berber Sardinha (Eds.) (2015). [Metaphor in specialist discourse. Amsterdam: John Benjamins.](https://benjamins.com/#catalog/books/milcc.4/toc)
   
- Herrmann, J. B. (2013).<a href="http://www.lotpublications.nl/metaphor-in-academic-discourse-metaphor-in-academic-discourse-linguistic-forms-conceptual-structures-communicative-functions-and-cognitive-representations" target="_blank">Metaphor in academic discourse. Linguistic forms, conceptual structures, communicative functions and cognitive representations. Utrecht: LOT dissertation series.</a>
+ Herrmann, J. B. (2013). [Metaphor in academic discourse. Linguistic forms, conceptual structures, communicative functions and cognitive representations. Utrecht: LOT dissertation series.](http://www.lotpublications.nl/metaphor-in-academic-discourse-metaphor-in-academic-discourse-linguistic-forms-conceptual-structures-communicative-functions-and-cognitive-representations)
  
- Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., and T. Pasma (2010). <a href="https://benjamins.com/#catalog/books/celcr.14/main" target="_blank">A method for linguistic metaphor identification: From MIP to MIPVU. Amsterdam and Philadelphia: John Benjamins.</a> 
+ Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., and T. Pasma (2010). [A method for linguistic metaphor identification: From MIP to MIPVU. Amsterdam and Philadelphia: John Benjamins.](https://benjamins.com/#catalog/books/celcr.14/main)
 
 
 # peer-reviewed papers  
 
  Herrmann, J.B. & Lauer, G. (in print). Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne. Osnabrücker Beiträge zur Sprachtheorie (OBST), 92.
 
- Herrmann, J.B., Woll, K., & Dorst. A.G (im Druck). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Eds.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.  
+ Herrmann, J.B., Woll, K., & Dorst. A.G (in print). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Eds.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.  
  
  Herrmann, J.B. (2017): In a test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M. & J. van Zundert (Eds.). _Special Issue DHBenelux 2015_, Digital Humanities Quarterly.
 
- Herrmann, J.B. (2016): "Läuse im Pelz der Sprache?" Zu Funktionen von Modalpartikeln in narrativen (De-)Motivierungsstrategien bei Franz Kafka [On the functions of modal particles in Franz Kafka’s narrative strategies], in: Horváth, M. & Mellmann, K. (Eds.), Die biologisch-kognitiven Grundlagen narrativer Motivierung. Poetogenesis - Studien zur empirischen Anthropologie der Literatur, 10. Münster: Mentis.
+ Herrmann, J.B. (2016): "Läuse im Pelz der Sprache?" Zu Funktionen von Modalpartikeln in narrativen (De-)Motivierungsstrategien bei Franz Kafka (On the functions of modal particles in Franz Kafka’s narrative strategies), in: Horváth, M. & Mellmann, K. (Eds.), Die biologisch-kognitiven Grundlagen narrativer Motivierung. Poetogenesis - Studien zur empirischen Anthropologie der Literatur, 10. Münster: Mentis.
  
  Herrmann, J.B., van Dalen-Oskam, K. & Schöch, C. (2015). Revisiting style, a key concept in literary studies, in: Journal of Literary Theory 9(1), pp.52-52.
 
