@@ -5,7 +5,8 @@ title: j. berenike herrmann
 
 
 # publications
-<img src="images/brause.JPG" alt="Brause" class="ri"/>
+
+![](https://github.com/jberenike/jberenike.github.io/tree/master/images/brause.JPG)
 
 
 # books and special issues  
