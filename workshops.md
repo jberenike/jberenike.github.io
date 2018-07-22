@@ -1,61 +1,7 @@
----
-layout: default
-title: workshops
-
----
-
 # 2018 
 
 ## July
-
-### Symposium “Digital Humanities @IGEL”
-Symposium at <a href="http://igel2018.no/" target="_blank">Biannual Conference of the International Society for the Empirical Study of Literature and Media (IGEL) at Stavanger, Norway</a>,  Stavanger (NO), July 25-28, 2018.
-
-List of Speakers
-- Peter Boot, Huygens Institute for the History of the Netherlands (Huygens ING).
-- Sissel Furuseth, University of Oslo, Department of Linguistics and Scandinavian Studies.
-- Arthur Jacobs, Department of Experimental and Neurocognitive Psychology, Freie Universität Berlin.
-- Karina van Dalen-Oskam, Huygens Institute for the History of the Netherlands (Huygens ING) / University of Amsterdam.
-Symposium Chair J. Berenike Herrmann
-
-While the digital scholarship symposium at the Chicago IGEL conference 2016 focused on dimensions on “textual analysis”, this year’s convention will cover digital approaches towards "cultural heritage computing". 
-It will highlight how digital resources can be utilized for sound empirical research on texts, readers, authors, and contexts. The four contributions will report on trends and methods in digital approaches to literary and cultural artefacts from an array of epochs, languages, genres, and cultures. The range stretches from assessing underlying norms of contemporary Dutch user-based online book reviews (Boot) to the networks underlying Norwegian magazine culture of the 1890s (Furuseth) - from patterns of author similarities based on latent semantic analysis, lexical diversity and sentiment analysis (Jacobs) to the features and dimensions of contemporary novels written in and translated into Dutch (Van Dalen-Oskam). The methods covered are Multimethodological Reader Reception/Evaluation, Surface and Distant Reading for Transnational Periodical Archives, Quantitative Narrative Analysis (QNA), and Literary Stylometry.
- 
-
-#### Peter Boot: Online reviewers' criteria for judging books
-
-The ODBR database of Online Dutch Book Response contains (at the time of writing) 390,000 (short) online book reviews and 510,000 other book response items, harvested from Dutch-language mass review sites and from the largest online bookseller in the Netherlands. While a resource such as this, based on self-selection of participants, can never pretend to be representative of 'the' reader, the database does bring together a very large collection of non-professional writing about literature and books more generally. My paper for the panel will look at the standards about quality in literature and reading that people explicitly or implicitly express in the reviews and other discussions that the database holds. 
-Because of the size of the collection, the study of the reviews requires a tool for ‘distant reading’, a tool that can summarize the evaluative aspects discussed in reviews. As far as I know, no such tools at present exist, certainly not for Dutch. What exists are tools that determine positive or negative sentiment in a review. More advanced tools can associate sentiment with aspects of simple and standardized products, such as cameras, but certainly not for books. 
-	For describing the evaluative aspects in reviews, I use a version of the coding system developed by Linders (2012). Linders distinguishes aspects of books (e.g. style, plot, characters) and characteristics that are applied to these aspects (e.g. emotion, vividness, familiarity). A vivid style can be coded as "A 4": "A" for style and "4" for vividness. Some of the characteristics represent a scale: the axis of familiarity is used both for familiarity and for unfamiliarity. I have added some characteristics to Linders’ system, and also explicitly code whether an evaluation is positive or negative and which end of a scale is applicable. 
-	To create a tool that will be able to analyse the corpus I create rules that associate textual patterns with evaluative codes. For instance, the word group ‘in one sitting’ will usually indicate the book was a good read and a rule will be created that associates ‘in one sitting’ with K 18 1 p (= book in general, entertaining, positive end of scale, positive experience). Sometimes the patterns will be much more complex:  the word ‘accessible’ is not necessarily evaluative, but used within a certain distance from ‘book’ it probably is; however, if the word ‘not’ occurs in between, the evaluation is probably no longer positive. Patterns that express conditions like these can be formulated using the Corpus Query Language (CQL), as e.g. "book"[word!="not"]{0,5}"accessible". This requires a phrase beginning with ‘book’ followed by between zero  and five words unequal to ‘not’, followed by the word ‘accessible’. Patterns can also use lemmas, regular expressions (extended wildcards) and  part-of-speech tags. 
-	In order to test the feasibility of this approach, I am currently working on simultaneously annotating  the reviews of works by the widely read Dutch novelist Tommy Wieringa and creating the corresponding rules. The database contains 393 reviews of Wieringa’s works. By now, 303 annotations have been made to 78 reviews. 253 rules have been created.  The average Spearman correlation between the manually applied annotations and the annotations  as computed (based on applying the rules to the text of the reviews) is 0.75. This investigation is ongoing, but the correlation suggests that, based on the textual patterns,  we can get a pretty good idea of the criteria a reviewer uses in judging a book. This also implies that it should be possible, at a later stage, to do research into e.g. how different criteria are applied in judging different genres or how different readers or reader  groups apply different criteria, without the need to manually annotate thousands of reviews. 
-
-Linders, Y. (2012). Argumentation in Dutch literary criticism 1945–2005. In C. Perry & M. Szurawitzki (Eds.), Sprache und Kultur im Spiegel der Rezension (pp. 261-268). Frankfurt am M.: Peter Lang.
-
-
-#### Sissel Furuseth: Mapping the Global Networks of Periodicals 
-
-In the twentieth century, the niche of periodical studies was taken care of by a small dedicated group of modernist scholars. During the last fifteen years, however, the field of periodical studies has expanded tremendously, especially at the English departments worldwide, thanks to extensive digitization of magazines and newspapers. The development of digital archives allows for more systematic studies of the rich variety of periodicals, old as well as new ones, small as well as mass-market magazines, giving us access to the past in ways not explored before. For instance, digitization has made it easier to map the underlying infrastructure that connects magazines and writers together in their transnational networks. Thus, scholars are encouraged to combine close reading and surface reading with new techniques of distant reading (cf. Moretti, Cohen, Collier, and others). In my presentation I will address some possible lines of investigation in today’s periodical studies, based on my recent research on the Norwegian magazine culture of the 1890s.
-
-
-#### Arthur M. Jacobs: The Gutenberg English Poetry Corpus (GEPC): Exemplary Quantitative Narrative Analyses
-
-This paper describes a corpus of about 3,000 English literary texts with about 250 million words extracted from the Gutenberg project
-that span a range of genres from both fiction and non-fiction written by more than 130 authors (e.g., Darwin, Dickens, Shakespeare).
-Quantitative Narrative Analysis (QNA) is used to explore a cleaned subcorpus, the Gutenberg English Poetry Corpus (GEPC; Jacobs, 2018)
-which comprises over 100 poetic texts with around 2 million words from about 50 authors (e.g., Keats, Joyce, Wordsworth). Some exemplary
-QNA studies show author similarities based on latent semantic analysis, significant topics for each author or various text-analytic
-metrics for George Eliot’s poem ‘How Lisa Loved the King’ and James Joyce’s ’Chamber Music’, concerning e.g. lexical diversity or
-sentiment analysis. The GEPC is particularly suited for research in Digital Humanities, Computational Stylistics, or Neurocognitive
-Poetics, e.g. as training and test corpus for stimulus development and control in empirical studies.
-
-Jacobs AM (2018) The Gutenberg English Poetry Corpus: Exemplary Quantitative Narrative Analyses. Front. Digit. Humanit. 5:5. doi: 10.3389/fdigh.2018.00005 
-
-#### Karina van Dalen: Moving beyond authorship. Literary stylometry
-
-Computational approaches to literary texts are becoming more visible and are drawing more attention than ever. In stylometry, the focus is moving to topics beyond authorship alone. I will give an overview of what kind of topics could be addressed with stylometric methods that may shed more light on what literary texts are and how they are being received by readers, editors and publishers.
-
-
+Symposium “Digital Humanities @IGEL” at <a href="http://igel2018.no/" target="_blank">Biannual Conference of the International Society for the Empirical Study of Literature and Media (IGEL) at Stavanger, Norway</a>,  Stavanger (NO), July 25-28, 2018.
 
 ## April
 At Le Mans University (invited by <a href="http://3lam.univ-lemans.fr/fr/membres/enseignants-chercheurs/ouvry-vial-brigitte.html">Prof. Brigitte Ouvry-Vial </a> and <a href="http://www.anne-baillot.eu/Home">Prof. Anne Baillot</a>) I will give an interactive lecture <a href="http://www.msh.univ-nantes.fr/96280119/0/fiche___actualite/&RH=ACCUEILhttp:/" target="_blank"> the Atelier Numérique "Gérer et explorer les données textuelles"</a> on 10 April 2018. Here is my abstract:
