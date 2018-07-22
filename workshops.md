@@ -11,19 +11,16 @@ title: workshops
 ### Symposium “Digital Humanities @IGEL”
 Symposium at <a href="http://igel2018.no/" target="_blank">Biannual Conference of the International Society for the Empirical Study of Literature and Media (IGEL) at Stavanger, Norway</a>,  Stavanger (NO), July 25-28, 2018.
 
-Symposium Chair J. Berenike Herrmann
-
-While the digital scholarship symposium at the Chicago IGEL conference 2016 focused on dimensions on “textual analysis”, this year’s convention will cover digital approaches towards "cultural heritage computing". 
-
-It will highlight how digital resources can be utilized for sound empirical research on texts, readers, authors, and contexts. The four contributions will report on trends and methods in digital approaches to literary and cultural artefacts from an array of epochs, languages, genres, and cultures. The range stretches from assessing underlying norms of contemporary Dutch user-based online book reviews (Boot) to the networks underlying Norwegian magazine culture of the 1890s (Furuseth) - from patterns of author similarities based on latent semantic analysis, lexical diversity and sentiment analysis (Jacobs) to the features and dimensions of contemporary novels written in and translated into Dutch (Van Dalen-Oskam). The methods covered are Multimethodological Reader Reception/Evaluation, Surface and Distant Reading for Transnational Periodical Archives, Quantitative Narrative Analysis (QNA), and Literary Stylometry.
- 
-
 List of Speakers
 - Peter Boot, Huygens Institute for the History of the Netherlands (Huygens ING).
 - Sissel Furuseth, University of Oslo, Department of Linguistics and Scandinavian Studies.
 - Arthur Jacobs, Department of Experimental and Neurocognitive Psychology, Freie Universität Berlin.
 - Karina van Dalen-Oskam, Huygens Institute for the History of the Netherlands (Huygens ING) / University of Amsterdam.
+Symposium Chair J. Berenike Herrmann
 
+While the digital scholarship symposium at the Chicago IGEL conference 2016 focused on dimensions on “textual analysis”, this year’s convention will cover digital approaches towards "cultural heritage computing". 
+It will highlight how digital resources can be utilized for sound empirical research on texts, readers, authors, and contexts. The four contributions will report on trends and methods in digital approaches to literary and cultural artefacts from an array of epochs, languages, genres, and cultures. The range stretches from assessing underlying norms of contemporary Dutch user-based online book reviews (Boot) to the networks underlying Norwegian magazine culture of the 1890s (Furuseth) - from patterns of author similarities based on latent semantic analysis, lexical diversity and sentiment analysis (Jacobs) to the features and dimensions of contemporary novels written in and translated into Dutch (Van Dalen-Oskam). The methods covered are Multimethodological Reader Reception/Evaluation, Surface and Distant Reading for Transnational Periodical Archives, Quantitative Narrative Analysis (QNA), and Literary Stylometry.
+ 
 
 #### Peter Boot: Online reviewers' criteria for judging books
 
