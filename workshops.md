@@ -1,7 +1,7 @@
 # 2018 
 
 ## July
-Symposium “Digital Humanities @IGEL” at <a href="http://igel2018.no/" target="_blank">Biannual Conference of the International Society for the Empirical Study of Literature and Media (IGEL) at Stavanger, Norway</a>,  Stavanger (NO), July 25-28, 2018.
+Symposium [“Digital Humanities @IGEL”](https://github.com/jberenike/DH-IGEL18/wiki/DH@IGEL) at [Biannual Conference of the International Society for the Empirical Study of Literature and Media](http://igel2018.no/)(IGEL) at Stavanger, Norway, July 28, 2018.
 
 ## April
 At Le Mans University (invited by <a href="http://3lam.univ-lemans.fr/fr/membres/enseignants-chercheurs/ouvry-vial-brigitte.html">Prof. Brigitte Ouvry-Vial </a> and <a href="http://www.anne-baillot.eu/Home">Prof. Anne Baillot</a>) I will give an interactive lecture <a href="http://www.msh.univ-nantes.fr/96280119/0/fiche___actualite/&RH=ACCUEILhttp:/" target="_blank"> the Atelier Numérique "Gérer et explorer les données textuelles"</a> on 10 April 2018. Here is my abstract:
