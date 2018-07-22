@@ -1,9 +1,3 @@
----
-layout: default
-title: workshops
-
----
-
 # 2018 
 
 ## July
