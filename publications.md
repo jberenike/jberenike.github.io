@@ -22,9 +22,7 @@ Herrmann, J.B. & T. Berber Sardinha (Eds.) (2015). [Metaphor in specialist disco
 
 # peer-reviewed papers  
 
- Herrmann, J.B. & Lauer, G. (in print). Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne. Osnabrücker Beiträge zur Sprachtheorie (OBST), 92.
-
- Herrmann, J.B., Woll, K., & Dorst. A.G (in print). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Eds.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.  
+ Herrmann, J.B. & Lauer, G. (2018). Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne. Osnabrücker Beiträge zur Sprachtheorie (OBST), 92.
  
  Herrmann, J.B. (2017): In a test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M. & J. van Zundert (Eds.). _Special Issue DHBenelux 2015_, Digital Humanities Quarterly.
 
@@ -45,6 +43,8 @@ Herrmann, J.B. & T. Berber Sardinha (Eds.) (2015). [Metaphor in specialist disco
  
  Herrmann, J.B. (2018). Praktische Tagger-Kritik. Zur Evaluation des PoS-Tagging des Deutschen Textarchivs. In Book of Abstracts 5th International Conference “Digital Humanities im deutschsprachigen Raum”, 26 February - 2 March 2018, Colone, pp. 287-290.  http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf 
  
+ Salgaro, M., Rebora, S., Lauer, G., and Herrmann, J. B. (2018). The ‘Tiroler Soldaten-Zeitung’ and its Authors. A Computer-Aided Search for Robert Musil. In Book of Abstracts 5th International Conference “Digital Humanities im deutschsprachigen Raum”, 26 February - 2 March 2018, Colone, pp. 315-320. http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf 
+ 
  Herrmann, J.B. & Lauer, G. (2017). Das „Was-bisher-geschah“ von KOLIMO. Ein Update zum Korpus der literarischen Moderne. In Book of Abstracts 4th International Conference “Digital Humanities im deutschsprachigen Raum”, Bern, CH. http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf 
 
  Herrmann, J.B., Lauer, G, Rebora, S,. & Salgaro, M. (2017). Short Texts in Authorship Attribution. The Case of Robert Musil’s War Articles. In Book of Abstracts 6th AIUCD Conference “Il telescopio inverso: big data e distant reading nelle discipline umanistiche”, Rome, Italy. http://aiucd2017.aiucd.it/wp-content/uploads/2017/01/book-of-abstract-AIUCD-2017.pdf 
@@ -61,7 +61,7 @@ Herrmann, J.B. & T. Berber Sardinha (Eds.) (2015). [Metaphor in specialist disco
 
 Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (in print). Die Tiroler Soldatenzeitung und ihre Autoren. Eine computergestützte Suche nach Robert Musil. In: Salgaro Massimo, Elmar Locher, und Mariaelisa Dimino (Eds.). Robert Musil als Redakteur der Tiroler Soldatenzeitung, Fink.
 
- Herrmann, J. B. (in print). Anschaulichkeit messen. Eine quantitative Metaphernanalyse an deutschsprachigen Erzählanfängen zwischen 1880 und 1926. In T. Köppe & R. Singer (Eds.), Show, don’t tell: Konzepte und Strategien anschaulichen Erzählens. Bielefeld: Aisthesis. 167-212.
+ Herrmann, J. B. (2018). Anschaulichkeit messen. Eine quantitative Metaphernanalyse an deutschsprachigen Erzählanfängen zwischen 1880 und 1926. In T. Köppe & R. Singer (Eds.), Show, don’t tell: Konzepte und Strategien anschaulichen Erzählens. Bielefeld: Aisthesis. 167-212.
  
  
 # digital resources  
@@ -78,6 +78,8 @@ Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (in print). 
 
 
 # conference talks (selection) 
+
+07/2018 Assessing metaphor use in the opening sections of German narrative texts 1880-1930. International Society for the Empirical Study of Literature (IGEL), Stavanger, NO.
 
 03/2018 Praktische Tagger-Kritik. Zur Evaluation des PoS-Tagging des Deutschen Textarchivs. 4th International Conference “Digital Humanities im deutschsprachigen Raum”, 26 Februar - 2 März 2018, Köln, S. 287-290.
 
