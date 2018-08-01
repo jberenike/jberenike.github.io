@@ -22,7 +22,7 @@ Herrmann, J.B. & T. Berber Sardinha (Eds.) (2015). [Metaphor in specialist disco
 
 # peer-reviewed papers  
 
- Herrmann, J.B. & Lauer, G. (2018). Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne. Osnabrücker Beiträge zur Sprachtheorie (OBST), 92.
+ Herrmann, J.B. & Lauer, G. (2018). Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne. [Osnabrücker Beiträge zur Sprachtheorie (OBST), 92.](https://www.uvrr.de/osnabruecker-beitraege-obst/obst-92-korpuslinguistik.html)
  
  Herrmann, J.B. (2017): In a test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M. & J. van Zundert (Eds.). _Special Issue DHBenelux 2015_, Digital Humanities Quarterly.
 
