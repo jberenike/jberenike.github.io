@@ -6,10 +6,8 @@ title: news
 
 
 # news
-
-<img src="images/sugar.jpg" alt="sugar" class="ri"/>
-
-On 1 August 2017 I started a postoc position ("Oberassistentin") at the <a href="http://dhlab.unibas.ch/" target="_blank">DH Lab at Basel University</a>! Looking forward to new, exciting endeavours!
+ 
+Our research proposal "Research epistemologies after the machine learning turn" has been approved by the SNSF ("Digital Lives" Grant). The research is going to be in close collaboration with Noah Bubenhofer, ZHAW, Winterthur.
 
 The Special Interest Group "Digital Literary Stylistics" (SIG-DLS) has been approved by ADHO. <a href="http://dls.hypotheses.org" target="_blank"> Visit our website.</a>
 
