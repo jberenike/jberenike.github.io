@@ -19,17 +19,24 @@ since 08/2017  Postdoc (“Oberassistentin“) (1/1),	Digital Humanities Lab, Ba
 
 # research projects
 
-starting 2018 Research Epistemologies in Text-based Digital Humanities: Analyses of Valuation Practices after the Machine Learning Turn” (Forschungslogiken in den textbasierten Digital Humanities: Analysen von Bewertungspraktiken nach dem Machine Learning-Turn). SNSF funding scheme “Digital Lives”. (w/ Noah Bubenhofer, ZHAW Zurich University of Applied Sciences).
+starting 2018: Research Epistemologies in Text-based Digital Humanities: Analyses of Valuation Practices after the Machine Learning Turn” (Forschungslogiken in den textbasierten Digital Humanities: Analysen von Bewertungspraktiken nach dem Machine Learning-Turn). SNSF funding scheme “Digital Lives”. (w/ Noah Bubenhofer, ZHAW Zurich University of Applied Sciences).
 
-since 2013	Digital Literary Stylistics. Modeling and analyzing style in German Literary History. (Habilitation-project).
+since 2013:	Digital Literary Stylistics. Modeling and analyzing style in German Literary History. (Habilitation-project).
 
-since 2015	eRead COST Action. Member of WG2: Experiential and emotional aspects of reading. [link](http://ereadcost.eu/).
+2015-2018	eRead COST Action. Member of WG2: Experiential and emotional aspects of reading. [link](http://ereadcost.eu/).
 
-since 2015 	KOLIMO: A Corpus of Narrative Modern German Literature; KAREK: A Kafka-Reference Corpus (w/ Prof. Gerhard Lauer, Göttingen). Funded by Faculty of Humanities & DH-Campus Lab, Göttingen University. [link](https://www.kolimo.uni-goettingen.de/).
+since 2015: KOLIMO. A Corpus of Narrative Modern German Literature for Comparative Text Mining (w/ Prof. Gerhard Lauer, Göttingen). Funded by Göttingen University Faculty of Humanities & Campus Lab CDAGG Göttingen University. [link](https://www.kolimo.uni-goettingen.de/). [link gui](https://kolimo.uni-goettingen.de/index.html) and [link gitlab](https://gitlab.gwdg.de/kolimo/exist-app)
 
-2016-2017	TextLab. Applying Gamification in DH-Teaching Contexts: The case of literary annotation. (w/ Prof. Heike Sahm; Mathias Göbel, MA; Dr. Annelen Brunner, IDS, Mannheim). Funded by DH-Campus Lab Göttingen University.
 
-2016 CAPSgoe. Computer-based Analysis of Personal Style (diaries and letters). Campus Q+ program [link](https://capsgoe.wordpress.com/).
+since 2017: Distant Reading for Literary History in Europe (COST Action CA16204). Member of the Management Committee, as well as of Working Groups WG1 (Scholary Resources) and WG2 (Methods and tools).
+
+since 2017: Metaphor Analysis in Literature (w/ Dr. A.G. (Lettie) Dorst, Leiden University, NL; Dr. Nils Reiter, Stuttgart; Marloes Mak, Nijmegen)
+
+2017-2018: Mixed Methods Stylometry applied to Robert Musil’s War Articles (w/ Dr. Simone Rebora and Prof. Massimo Salgaro, Verona, Prof. Gerhard Lauer, Basel)
+
+2016-2017: TextLab. Applying Gamification in DH-Teaching Contexts: The case of literary annotation. (w/ Prof. Heike Sahm; Mathias Göbel, MA; Dr. Annelen Brunner, IDS, Mannheim). Funded by DH-Campus Lab Göttingen University.
+
+March-October 2016: CAPSGOE – Computer-based Analysis of Personal Style Goettingen. Campus Q+ program [link](https://capsgoe.wordpress.com/).
 
 
 # academic education
