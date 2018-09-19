@@ -6,16 +6,16 @@ title: j. berenike herrmann
 
 # academic positions
 ## current
-since 08/2017  Postdoc (“Oberassistentin“) (1/1),	Digital Humanities Lab, Basel University.
+since 08/2017: Senior Research and Teaching Associate (“Oberassistentin“),Digital Humanities Lab, Basel University.
 
 ## previous
-2011 - 2017 Postdoctoral Research and Teaching Associate (“wissenschaftliche Mitarbeiterin“) (1/1), Department of German, Göttingen University, German Literary Studies.
+2011-2017: Postdoctoral Research and Teaching Associate (“wissenschaftliche Mitarbeiterin“), Department of German, Göttingen University, German Literary Studies.
 
-10/2011-04/12	Substitute Professor (1/1) “Neuere Deutsche Literatur“ (C-4), Department of German, Göttingen University.
+10/2011-04/12: Substitute Professor “Neuere Deutsche Literatur“ (C-4), Department of German, Göttingen University.
 
-2006 - 2011  Ph.D. candidate (AiO - Assistent in Opleiding) (1/1), Department of Language and Communication, VU University Amsterdam. 
+2006-2011: Ph.D. candidate (AiO - Assistent in Opleiding), Department of Language and Communication, VU University Amsterdam. 
 
-01-04/2009  Visiting Ph.D. candidate, Department of Psychology, Grand Valley State University, Grand Rapids, USA.
+01-04/2009: Visiting Ph.D. candidate, Department of Psychology, Grand Valley State University, Grand Rapids, USA.
 
 # research projects
 
@@ -23,10 +23,9 @@ starting 2018: Research Epistemologies in Text-based Digital Humanities: Analyse
 
 since 2013:	Digital Literary Stylistics. Modeling and analyzing style in German Literary History. (Habilitation-project).
 
-2015-2018	eRead COST Action. Member of WG2: Experiential and emotional aspects of reading. [link](http://ereadcost.eu/).
+2015-2018: Experiential and emotional aspects of reading. Member of COST Action "eRead", Member of WG2. [link](http://ereadcost.eu/).
 
 since 2015: KOLIMO. A Corpus of Narrative Modern German Literature for Comparative Text Mining (w/ Prof. Gerhard Lauer, Göttingen). Funded by Göttingen University Faculty of Humanities & Campus Lab CDAGG Göttingen University. [link](https://www.kolimo.uni-goettingen.de/). [link gui](https://kolimo.uni-goettingen.de/index.html) and [link gitlab](https://gitlab.gwdg.de/kolimo/exist-app)
-
 
 since 2017: Distant Reading for Literary History in Europe (COST Action CA16204). Member of the Management Committee, as well as of Working Groups WG1 (Scholary Resources) and WG2 (Methods and tools).
 
@@ -55,7 +54,7 @@ March-October 2016: CAPSGOE – Computer-based Analysis of Personal Style Goetti
 
 11/2013	A.T. Kearney Scholarship, Falling Walls Conference Berlin.
 
-2009	Nominated for Best Ph.D. Student Paper at Annual Meeting of the Society for Text & Discourse (ST&D) 19, Rotterdam.</p>
+2009	Nominated for Best Ph.D. Student Paper at Annual Meeting of the Society for Text & Discourse (ST&D) 19, Rotterdam.
 
 # academic self-admininstration & organization
 
@@ -73,7 +72,7 @@ since 2014	Board Member Göttingen Dialog in Digital Humanities (GDDH), funded b
 
 Since 2012	Active Founding Member: ‘Göttinger philologisches Forum’ (GpF). An interdisciplinary research platform for postdocs of language and literature studies. [link](http://www.uni-Göttingen.de/en/351956.html)
 
-Since 2012	Active Founding Member: Digital Text analysis Working Group (TaWG), Göttingen Centre for Digital Humanities.[link](http://www.gcdh.de/en/research/digital-text-analysis/)
+Since 2012	Active Founding Member: Digital Text analysis Working Group (TaWG), Göttingen Centre for Digital Humanities. [link](http://www.gcdh.de/en/research/digital-text-analysis/)
 
 # conferences & workshops 
 
