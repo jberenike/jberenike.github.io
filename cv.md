@@ -6,7 +6,7 @@ title: j. berenike herrmann
 
 # academic positions
 ## current
-since 08/2017: Senior Research and Teaching Associate (“Oberassistentin“),Digital Humanities Lab, Basel University.
+since 08/2017: Senior Research and Teaching Associate (“Oberassistentin“), Digital Humanities Lab, Basel University.
 
 ## previous
 2011-2017: Postdoctoral Research and Teaching Associate (“wissenschaftliche Mitarbeiterin“), Department of German, Göttingen University, German Literary Studies.
@@ -19,13 +19,13 @@ since 08/2017: Senior Research and Teaching Associate (“Oberassistentin“),Di
 
 # research projects
 
-starting 2018: Research Epistemologies in Text-based Digital Humanities: Analyses of Valuation Practices after the Machine Learning Turn” (Forschungslogiken in den textbasierten Digital Humanities: Analysen von Bewertungspraktiken nach dem Machine Learning-Turn). SNSF funding scheme “Digital Lives”. (w/ Noah Bubenhofer, ZHAW Zurich University of Applied Sciences).
+starting 2018: Research Epistemologies in Text-based Digital Humanities: Analyses of Valuation Practices after the Machine Learning Turn”. SNSF funding scheme “Digital Lives”. (w/ Noah Bubenhofer, ZHAW Zurich University of Applied Sciences). [link](https://jberenike.github.io/news).
 
-since 2013:	Digital Literary Stylistics. Modeling and analyzing style in German Literary History. (Habilitation-project).
+since 2013:	Digital Literary Stylistics. Modeling and analyzing literary fiction in German Literary History. (Habilitation-project).
 
 2015-2018: Experiential and emotional aspects of reading. Member of COST Action "eRead", Member of WG2. [link](http://ereadcost.eu/).
 
-since 2015: KOLIMO. A Corpus of Narrative Modern German Literature for Comparative Text Mining (w/ Prof. Gerhard Lauer, Göttingen). Funded by Göttingen University Faculty of Humanities & Campus Lab CDAGG Göttingen University. [link](https://www.kolimo.uni-goettingen.de/). [link gui](https://kolimo.uni-goettingen.de/index.html) and [link gitlab](https://gitlab.gwdg.de/kolimo/exist-app)
+since 2015: KOLIMO. A Corpus of Narrative Modern German Literature for Comparative Text Mining (w/ Prof. Gerhard Lauer, Göttingen). Funded by Göttingen University Faculty of Humanities & Campus Lab CDAGG Göttingen University. [link gui](https://kolimo.uni-goettingen.de/index.html) and [link gitlab](https://gitlab.gwdg.de/kolimo/exist-app)
 
 since 2017: Distant Reading for Literary History in Europe (COST Action CA16204). Member of the Management Committee, as well as of Working Groups WG1 (Scholary Resources) and WG2 (Methods and tools).
 
