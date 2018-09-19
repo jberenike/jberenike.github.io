@@ -7,8 +7,6 @@ title: cv
 
 # cv
 
-<img src="images/amrum.JPG" alt="amrum" class="ri"/>
-
 # academic positions
 ### current
 since 08/2017  Postdoc (“Oberassistentin“) (1/1),	Digital Humanities Lab, Basel University.
