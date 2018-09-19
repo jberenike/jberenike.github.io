@@ -23,8 +23,8 @@ Bernoullistrasse 32
 Switzerland
 
 
-+41 (0) 61-207-56-33
+tel +41 (0) 61-207-56-33
 
 e-mail berenike.herrmann-at-unibas.ch
 
-<img src="images/twitter.png" alt="twitter" class="ri"/> @jberenike
+twitter @jberenike
