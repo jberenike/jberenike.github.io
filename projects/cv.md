@@ -1,8 +1,11 @@
 ---
-layout: default
-title: j. berenike herrmann
-
+layout: post
+title: 'CV'
 ---
+
+
+{% include image.html url="http://www.gratisography.com" image="projects/cv/amrum.jpg" %}
+
 
 # academic positions
 ## current

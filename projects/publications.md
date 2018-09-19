@@ -1,18 +1,10 @@
 ---
-layout: default
-title: j. berenike herrmann
+layout: post
+title: 'publications'
 ---
 
 
-# books and special issues  
-
- Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.) (2016). Transdisciplinary Approaches to Literature and Empathy, Special issue of Scientific Study of Literature 6:1. [link](https://benjamins.com/#catalog/journals/ssol.6.1/toc)
- 
-Herrmann, J.B. & T. Berber Sardinha (Eds.) (2015). Metaphor in specialist discourse. Amsterdam: John Benjamins. [link](https://benjamins.com/#catalog/books/milcc.4/toc)
-  
- Herrmann, J. B. (2013).Metaphor in academic discourse. Linguistic forms, conceptual structures, communicative functions and cognitive representations. Utrecht: LOT dissertation series. [link](http://www.lotpublications.nl/metaphor-in-academic-discourse-metaphor-in-academic-discourse-linguistic-forms-conceptual-structures-communicative-functions-and-cognitive-representations)
- 
- Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., and T. Pasma (2010). A method for linguistic metaphor identification: From MIP to MIPVU. Amsterdam and Philadelphia: John Benjamins.[link](https://benjamins.com/#catalog/books/celcr.14/main)
+{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
 
 
 # peer-reviewed papers  
@@ -51,6 +43,16 @@ Herrmann, J.B. & T. Berber Sardinha (Eds.) (2015). Metaphor in specialist discou
  Mattner, C., Herrmann, J.B. & Lauer, G. (2016). Kafkas Stil. Zur Psychostilistik der Tagebücher Kafkas. In Book of Abstracts 3rd International Conference “Digital Humanities im deutschsprachigen Raum”, Leipzig, D.
 
  
+# books and special issues
+
+ Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.) (2016). Transdisciplinary Approaches to Literature and Empathy, Special issue of Scientific Study of Literature 6:1. [link](https://benjamins.com/#catalog/journals/ssol.6.1/toc)
+ 
+ Herrmann, J.B. & T. Berber Sardinha (Eds.) (2015). Metaphor in specialist discourse. Amsterdam: John Benjamins. [link](https://benjamins.com/#catalog/books/milcc.4/toc)
+  
+ Herrmann, J. B. (2013).Metaphor in academic discourse. Linguistic forms, conceptual structures, communicative functions and cognitive representations. Utrecht: LOT dissertation series. [link](http://www.lotpublications.nl/metaphor-in-academic-discourse-metaphor-in-academic-discourse-linguistic-forms-conceptual-structures-communicative-functions-and-cognitive-representations)
+ 
+ Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., and T. Pasma (2010). A method for linguistic metaphor identification: From MIP to MIPVU. Amsterdam and Philadelphia: John Benjamins.[link](https://benjamins.com/#catalog/books/celcr.14/main)
+
  
 # book chapters
 
