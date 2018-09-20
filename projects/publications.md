@@ -4,7 +4,7 @@ title: 'publications'
 ---
 
 
-{% include image="projects/proj-3/brause.jpg" %}
+{% include image="projects/publications/brause.jpg" %}
 
 
 # peer-reviewed papers  
