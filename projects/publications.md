@@ -4,7 +4,7 @@ title: 'publications'
 ---
 
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/brause.jpg" %}
+{% include image="projects/proj-3/brause.jpg" %}
 
 
 # peer-reviewed papers  
