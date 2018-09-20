@@ -2,9 +2,10 @@
 # General Site Settings
 
 menu:
-- {name: 'About', url: ''}
-- {name: 'CV', url: 'pages/cv.html'}
-- {name: 'News', url: 'pages/news.html'}
+- {name: 'Home', url: ''}
+- {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'About', url: 'pages/about.html'}
+- {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
 # SEO Section
@@ -12,7 +13,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal webpage J. Berenike Herrmann'
+  description: 'J. Berenike Herrmann'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
@@ -39,13 +40,14 @@ disqus:
 
 about: >
   # Dr. J. Berenike Herrmann
-
+  
   Welcome to my personal webpage!
-
+  
 contact: >
   # Contact
-
-  Contact me via [my email](mailto:berenike.herrmann@unibas.ch) or [tweet at me](https://twitter.com/intent/tweet?text=%40jberenike)
+  
+  Contact me via [my email](mailto:berenike.herrmann@unibas.ch) or [tweet at me](https://twitter.com/intent/tweet?text=%40jberenike).
+  
 #-------------------------------
 # Work Section
 
