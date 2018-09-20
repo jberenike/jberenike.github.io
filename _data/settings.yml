@@ -45,15 +45,15 @@ about: >
 contact: >
   # Contact
 
-Contact me via [my email](mailto:berenike.herrmann@unibas.ch) or [tweet at me](https://twitter.com/intent/tweet?text=%40jberenike)
+  Contact me via [my email](mailto:berenike.herrmann@unibas.ch) or [tweet at me](https://twitter.com/intent/tweet?text=%40jberenike)
 #-------------------------------
 # Work Section
 
 projects:
-- {name: 'About', folder: 'proj-1', file: 'projects/about.html'}
-- {name: 'CV, folder: 'proj-2', file: 'projects/cv.html'}
-- {name: 'Publications', folder: 'proj-3', file: 'projects/publications.html'}
-- {name: 'News', folder: 'proj-4', file: 'projects/news.html'}
+- {name: 'About', folder: 'about', file: 'projects/about.html'}
+- {name: 'CV', folder: 'cv', file: 'projects/cv.html'}
+- {name: 'Publications', folder: 'publications', file: 'projects/publications.html'}
+- {name: 'News', folder: 'news', file: 'projects/news.html'}
 
 #-------------------------------
 # Contact Section
