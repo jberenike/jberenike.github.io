@@ -1,0 +1,5 @@
+http://jmcglone.com/guides/github-pages/
+--> original design of my homepage
+
+http://yeswejekyll.com/#_includes
+--> explains jekyll in more detail; specifically _includes
