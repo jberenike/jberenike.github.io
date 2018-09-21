@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Home', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'Blog', url: 'pages/news.html'} #renamed blog to news
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
@@ -40,14 +40,14 @@ disqus:
 
 about: >
   # Dr. J. Berenike Herrmann
-  
+
   Welcome to my personal webpage!
-  
+
 contact: >
   # Contact
-  
+
   Contact me via [my email](mailto:berenike.herrmann@unibas.ch) or [tweet at me](https://twitter.com/intent/tweet?text=%40jberenike).
-  
+
 #-------------------------------
 # Work Section
 
