@@ -1,0 +1,21 @@
+bundle install # open up your favorite command line tool,
+enter 
+
+bundle install, 
+
+and then enter 
+
+jekyll serve. 
+
+Your site should be up and running locally at 
+http://localhost:4000.
+
+#first do this
+
+install ruby from rubyinstaller.org. 
+
+install bundler gem
+
+#Assuming you have Ruby installed:
+
+gem install bundler
