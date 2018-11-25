@@ -6,16 +6,6 @@ title: j. berenike herrmann
 
 # Publications
 
-# Books and special issues  
-
- Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.)(2016). <a href="https://benjamins.com/#catalog/journals/ssol.6.1/toc" target="_blank">Transdisciplinary Approaches to Literature and Empathy, Special issue of Scientific Study of Literature 6:1.</a> 
- 
- Herrmann, J.B. & T. Berber Sardinha (Eds.)(2015). <a href="https://benjamins.com/#catalog/books/milcc.4/toc" target="_blank">Metaphor in specialist discourse. Amsterdam: John Benjamins.</a>  
-  
- Herrmann, J. B. (2013).<a href="http://www.lotpublications.nl/metaphor-in-academic-discourse-metaphor-in-academic-discourse-linguistic-forms-conceptual-structures-communicative-functions-and-cognitive-representations" target="_blank">Metaphor in academic discourse. Linguistic forms, conceptual structures, communicative functions and cognitive representations. Utrecht: LOT dissertation series.</a>
- 
- Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., and T. Pasma (2010). <a href="https://benjamins.com/#catalog/books/celcr.14/main" target="_blank">A method for linguistic metaphor identification: From MIP to MIPVU. Amsterdam and Philadelphia: John Benjamins.</a> 
-
 # Peer-reviewed publications in international journals
 Herrmann, J.B., Woll, K., & Dorst. A.G (submitted). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Eds.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.
 
@@ -60,6 +50,16 @@ Herrmann, J.B. (2015). High on metaphor, low on simile: A cross-register examina
  Herrmann, J.B. & T. Berber Sardinha (2015). Metaphor in specialist discourse: Investigating metaphor use specific and popularized discourse contexts, in: Herrmann, J.B. & T. Berber Sardinha (Eds.), Metaphor in Specialist Discourse (pp. 3-14). Metaphor in Language, Cognition, and Communication, 4. Amsterdam: John Benjamins.
 
 Herrmann, J.B. (2015). Metaphern im akademischen Englisch: Eine kognitiv-korpuslinguistische Studie, in: Jahrbuch der Akademie der Wissenschaften zu Göttingen 2014. Berlin: De Gruyter.
+
+# Books and special issues  
+
+ Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.)(2016). <a href="https://benjamins.com/#catalog/journals/ssol.6.1/toc" target="_blank">Transdisciplinary Approaches to Literature and Empathy, Special issue of Scientific Study of Literature 6:1.</a> 
+ 
+ Herrmann, J.B. & T. Berber Sardinha (Eds.)(2015). <a href="https://benjamins.com/#catalog/books/milcc.4/toc" target="_blank">Metaphor in specialist discourse. Amsterdam: John Benjamins.</a>  
+  
+ Herrmann, J. B. (2013).<a href="http://www.lotpublications.nl/metaphor-in-academic-discourse-metaphor-in-academic-discourse-linguistic-forms-conceptual-structures-communicative-functions-and-cognitive-representations" target="_blank">Metaphor in academic discourse. Linguistic forms, conceptual structures, communicative functions and cognitive representations. Utrecht: LOT dissertation series.</a>
+ 
+ Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., and T. Pasma (2010). <a href="https://benjamins.com/#catalog/books/celcr.14/main" target="_blank">A method for linguistic metaphor identification: From MIP to MIPVU. Amsterdam and Philadelphia: John Benjamins.</a> 
 
 
 # Digital resources  
