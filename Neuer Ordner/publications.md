@@ -19,7 +19,7 @@ title: j. berenike herrmann
 # Peer-reviewed publications in international journals
 Herrmann, J.B., Woll, K., & Dorst. A.G (submitted). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Eds.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.
 
-Rebora, S., Herrmann, J.B., Lauer, G., & Salgaro, M. (2018). Robert Musil, a War Journal, and Stylometry: Tackling the Issue of Short Texts in Authorship Attribution.<a href="https://doi.org/10.1093/llc/fqy055" target="blank">Digital Scholarship in the Humanities, fqy055.</a>
+Rebora, S., Herrmann, J.B., Lauer, G., & Salgaro, M. (2018). Robert Musil, a War Journal, and Stylometry: Tackling the Issue of Short Texts in Authorship Attribution. <a href="https://doi.org/10.1093/llc/fqy055" target="blank">Digital Scholarship in the Humanities.</a>
 
 Herrmann, J.B. & Lauer, G. (2018). Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne. Osnabrücker Beiträge zur Sprachtheorie (OBST), 92.
 
@@ -33,7 +33,7 @@ Herrmann, J.B. (2017). In a test bed with Kafka. Introducing a mixed-method appr
  
  
 # Peer-reviewed written conference publications
-Herrmann, J.B. (2018). Praktische Tagger-Kritik. Zur Evaluation des PoS-Tagging des Deutschen Textarchivs. In Tagungsband 5. Internationale Tagung “Digital Humanities im deutschsprachigen Raum”, 26 February - 2 March 2018, Cologne, D. 287-290.  
+Herrmann, J.B. (2018). Praktische Tagger-Kritik. Zur Evaluation des PoS-Tagging des Deutschen Textarchivs. In Tagungsband 5. Internationale Tagung “Digital Humanities im deutschsprachigen Raum”, 26 February - 2 March 2018, Cologne, D. 287-290. <a href="http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf" target="blank">abstract</a> 
 
 Herrmann, J.B. & Lauer, G. (2017). Das „Was-bisher-geschah“ von KOLIMO. Ein Update zum Korpus der literarischen Moderne. In Tagungsband 4. Internationale Tagung “Digital Humanities im deutschsprachigen Raum”, Berne, CH. 107-111. <a href="http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf" target="blank">abstract</a> 
 
