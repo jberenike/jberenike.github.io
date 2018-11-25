@@ -74,9 +74,9 @@ Herrmann, J.B. (2015). Metaphern im akademischen Englisch: Eine kognitiv-korpusl
  Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., and T. Krennmayr (2010). <a href="http://www.ota.ox.ac.uk/headers/2541.xml" target="_blank">VU Amsterdam Metaphor Corpus</a>. Oxford Text Archives. 
 
 
- # Conference talks (selection)
+# Conference talks (selection)
  
- # By cfp
+# By cfp
 
 07/2018 Assessing metaphor use in the opening sections of German narrative texts 1880-1930. International Conference of the Society for the Empirical Study of Literature and Media (IGEL), Stavanger, NO.
 
