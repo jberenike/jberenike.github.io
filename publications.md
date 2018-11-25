@@ -145,9 +145,9 @@ Herrmann, J.B. (2015). Metaphern im akademischen Englisch: Eine kognitiv-korpusl
  
 # Posters  
 
-11/2018
+12/2018	Is it all Like!? Studying Research Epistemologies in the Textual Humanities in Case Studies of Sentiment Analysis. (with Daniel Knuchel, Noah Bubenhofer, Thomas Messerli). Digital Futures Network Day. Connecting Research Projects on Digital Traces and Society. EPFL Habitat Research Center, Lausanne, CH.
 
-11/2018
+11/2018	 Towards Textual Studies’ High Tide? Studying Research Epistemologies in Digital Humanities after the Machine Learning Turn. (with Thomas Messerli, Daniel Knuchel, Noah Bubenhofer). Workshop DARIAH-CH, University of Neuchâtel, 29-30th November 2018.
  
  02/2016 KOLIMO: Aufbau und Annotation eines Korpus der literarischen Moderne. (with M. Paluch, C. Schmidt, B. Spermoser). Poster-Session der Sektion Computerlinguistik, 38. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (DGfS 2016), Konstanz, Germany. 
  
