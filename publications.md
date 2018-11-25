@@ -7,7 +7,6 @@ title: j. berenike herrmann
 # Publications
 
 # Peer-reviewed publications in international journals
-Herrmann, J.B., Woll, K., & Dorst. A.G (submitted). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Eds.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.
 
 Rebora, S., Herrmann, J.B., Lauer, G., & Salgaro, M. (2018). Robert Musil, a War Journal, and Stylometry: Tackling the Issue of Short Texts in Authorship Attribution. <a href="https://doi.org/10.1093/llc/fqy055" target="blank">Digital Scholarship in the Humanities.</a>
 
