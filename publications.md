@@ -13,8 +13,6 @@ Rebora, S., Herrmann, J.B., Lauer, G., & Salgaro, M. (2018). Robert Musil, a War
 Herrmann, J.B. & Lauer, G. (2018). Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne. Osnabrücker Beiträge zur Sprachtheorie (OBST), 92.
 
 Herrmann, J.B. (2017). In a test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M., & J. van Zundert (Eds.) <a href="https://doi.org/10.1093/llc/fqy055" target="blank">Special Issue DHBenelux 2015, Digital Humanities Quarterly, 11, 4.</a>
-
- Herrmann, J.B. (2016): "Läuse im Pelz der Sprache?" Zu Funktionen von Modalpartikeln in narrativen (De-)Motivierungsstrategien bei Franz Kafka (On the functions of modal particles in Franz Kafka’s narrative strategies), in: Horváth, M. & Mellmann, K. (Eds.), Die biologisch-kognitiven Grundlagen narrativer Motivierung. Poetogenesis - Studien zur empirischen Anthropologie der Literatur, 10. Münster: Mentis.
  
  Herrmann, J.B., van Dalen-Oskam, K. & Schöch, C. (2015). Revisiting style, a key concept in literary studies, in: Journal of Literary Theory 9(1), 52-52.
 	
