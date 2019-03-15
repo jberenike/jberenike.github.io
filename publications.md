@@ -6,7 +6,9 @@ title: j. berenike herrmann
 
 # Publications
 
-# Peer-reviewed publications in international journals
+# Peer-reviewed publications in international journals and peer-reviewed edited volumes
+
+Herrmann, J.B., Woll, K., & Dorst. A.G (accepted). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Hg.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.
 
 Rebora, S., Herrmann, J.B., Lauer, G., & Salgaro, M. (2018). Robert Musil, a War Journal, and Stylometry: Tackling the Issue of Short Texts in Authorship Attribution. <a href="https://doi.org/10.1093/llc/fqy055" target="blank">Digital Scholarship in the Humanities.</a>
 
@@ -14,7 +16,7 @@ Herrmann, J.B. & Lauer, G. (2018). Korpusliteraturwissenschaft. Zur Konzeption u
 
 Herrmann, J.B. (2017). In a test bed with Kafka. Introducing a mixed-method approach to digital stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M., & J. van Zundert (Eds.) <a href="https://doi.org/10.1093/llc/fqy055" target="blank">Special Issue DHBenelux 2015, Digital Humanities Quarterly, 11, 4.</a>
  
- Herrmann, J.B., van Dalen-Oskam, K. & Schöch, C. (2015). Revisiting style, a key concept in literary studies, in: Journal of Literary Theory 9(1), 52-52.
+ Herrmann, J.B., van Dalen-Oskam, K. & Schöch, C. (2015). Revisiting style, a key concept in literary studies, in: Journal of Literary Theory 9(1), 52-52. <a href="https://doi.org/10.1093/llc/fqy055" target="blank">online access</a>
 	
  Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., and T. Krennmayr (2010). Metaphor in usage. Cognitive Linguistics 21 (4): pp. 765-796.
  
