@@ -7,8 +7,9 @@ title: j. berenike herrmann
 # Publications
 
 # Peer-reviewed publications in international journals and peer-reviewed edited volumes
+Herrmann, J. B. (in preparation). Kafka’s worlds as data: Rediscovering the skillful un/making of certainty  through computational analysis. Journal of Cultural Analytics.
 
-Herrmann, J.B., Woll, K., & Dorst. A.G (accepted). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Hg.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.
+Herrmann, J.B., Woll, K., & Dorst. A.G (in print). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Hg.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.
 
 Rebora, S., Herrmann, J.B., Lauer, G., & Salgaro, M. (2018). Robert Musil, a War Journal, and Stylometry: Tackling the Issue of Short Texts in Authorship Attribution. <a href="https://doi.org/10.1093/llc/fqy055" target="blank">Digital Scholarship in the Humanities.</a>
 
@@ -36,7 +37,7 @@ Mattner, C., Herrmann, J.B. & Lauer, G. (2016). Kafkas Stil. Zur Psychostilistik
 
 # Book chapters
 
-Herrmann, J. B. (accepted). Operationalisierung der Metapher zur quantifizierenden Untersuchung deutschsprachiger literarischer Texte im Übergang von Realismus zur Moderne. In Jannidis, Fotis (Ed.), Tagungsband des DFG-Symposiums „Digitale Literaturwissenschaft”, Villa Vigoni, De Gruyter.
+Herrmann, J. B. (in print). Operationalisierung der Metapher zur quantifizierenden Untersuchung deutschsprachiger literarischer Texte im Übergang von Realismus zur Moderne. In Jannidis, Fotis (Ed.), Tagungsband des DFG-Symposiums „Digitale Literaturwissenschaft”, Villa Vigoni, De Gruyter.
 
 Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (in print). Die Tiroler Soldatenzeitung und ihre Autoren. Eine computergestützte Suche nach Robert Musil. In: Salgaro Massimo, Elmar Locher, und Mariaelisa Dimino (Eds.) "Robert Musil als Redakteur der Tiroler Soldatenzeitung", Fink.
 
@@ -156,6 +157,9 @@ Herrmann, J.B. (2015). Metaphern im akademischen Englisch: Eine kognitiv-korpusl
  
  
 # Outreach activities
+
+Herrmann, J. B., Bories, A.-S., Frontini, F., Rebora, S., & Rybicki, J. (2019). Response by the Special Interest Group on Digital Literary Stylistics to Nan Z. Da’s Study. Journal of Cultural Analytics.  https://culturalanalytics.org/2019/05/response-by-the-special-interest-group-on-digital-literary-stylistics-to-nan-z-das-study/
+
 12/2016 Video interview on scientific identity and perspective within the audio-visual 
 exhibition on/off. Vom Nobelpreis und den Grenzen der Wissenschaft, Georg-August-Universität Göttingen, D.
 
