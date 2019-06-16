@@ -64,7 +64,7 @@ Herrmann, J.B. (2015). Metaphern im akademischen Englisch: Eine kognitiv-korpusl
 
 # Digital resources  
 
- Herrmann, J.B. EAK. Erzählanfangskorpus <a href="<a href="https://github.com/jberenike/EAK" target="_blank">Corpus of Beginning Sections of Literary Fiction</a> Manually coded for metaphor.
+ Herrmann, J.B. EAK. Erzählanfangskorpus <a href="https://github.com/jberenike/EAK" target="_blank">Corpus of Beginning Sections of Literary Fiction</a> Manually coded for metaphor.
  
  Herrmann, J.B. & Lauer, G., <a href="https://kolimo.uni-goettingen.de/about.html" target="_blank"> KOLIMO. Korpus der Literarischen Moderne(beta)</a> (Corpus Literary Modernism).
  
@@ -85,7 +85,7 @@ Herrmann, J.B. (2015). Metaphern im akademischen Englisch: Eine kognitiv-korpusl
 
 10/2017 Operationalisierung der Metapher zur quantifizierenden Untersuchung deutschsprachiger literarischer Texte im Übergang von Realismus zur Moderne. DFG-Symposium „Digitale Literaturwissenschaft”, Villa Vigoni, I.
 
-09/2017 Cognitive and emotional aspects of literary prose reading: an eye tracking study (with Anne Mangen, Massimo Salgaro, Pasqualina Sorrentino, Gitte Balling, Michael Burke, Jana Lüdtke, and Art Jacobs). COST-Action eRead International Scientific Conference “Books and Screens and the Reading Brain”. Vilnius, Lithuania.
+09/2017 Cognitive and emotional aspects of literary prose reading: An eye tracking study (with Anne Mangen, Massimo Salgaro, Pasqualina Sorrentino, Gitte Balling, Michael Burke, Jana Lüdtke, and Art Jacobs). COST-Action eRead International Scientific Conference “Books and Screens and the Reading Brain”. Vilnius, Lithuania.
 
 02/2017 Short Texts in Authorship Attribution. The Case of Robert Musil’s War Articles. (with Gerhard Lauer, Simone Rebora, Massimo Salgaro). 6th AIUCD Conference, Rome, Italy. 
 
