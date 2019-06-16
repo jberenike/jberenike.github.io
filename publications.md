@@ -68,7 +68,7 @@ Herrmann, J.B. (2015). Metaphern im akademischen Englisch: Eine kognitiv-korpusl
  
  Herrmann, J.B. & Lauer, G., <a href="https://kolimo.uni-goettingen.de/about.html" target="_blank"> KOLIMO. Korpus der Literarischen Moderne(beta)</a> (Corpus Literary Modernism).
  
- Herrmann, J.B., Bageritz, I., Hannemann, L., Heimann, P., Kleinschmidt, L., Mattner, C., Roth-Kleyer, G., Weller, R. (2016). KEXI <a href="https://capsgoe.wordpress.com/" target="_blank">  KEXI Korpus Expressives und Interpersonales Schreiben (Expressive & Interpersonal Writing Corpus) </a>  
+ Herrmann, J.B., Bageritz, I., Hannemann, L., Heimann, P., Kleinschmidt, L., Mattner, C., Roth-Kleyer, G., Weller, R. (2016). <a href="https://capsgoe.wordpress.com/" target="_blank">KEXI Korpus Expressives und Interpersonales Schreiben (Expressive & Interpersonal Writing Corpus) </a>  
 
  Herrmann, J.B. (Ed.) (2012). Literatur rechnen (Computing Literature). <a href="http://litre.uni-goettingen.de/" target="_blank">Ein Wiki zur digitalen Textanalyse</a> (A digital text analysis Wiki).
 
