@@ -64,7 +64,7 @@ Herrmann, J.B. (2015). Metaphern im akademischen Englisch: Eine kognitiv-korpusl
 
 # Digital resources  
 
- Herrmann, J.B. EAK. Erzählanfangskorpus. (Corpus of Beginning Sections of Literary Fiction). Manually coded for metaphor. [URL coming soon!]
+ Herrmann, J.B. EAK. Erzählanfangskorpus <a href="<a href="https://github.com/jberenike/EAK" target="_blank">Corpus of Beginning Sections of Literary Fiction</a> Manually coded for metaphor.
  
  Herrmann, J.B. & Lauer, G., <a href="https://kolimo.uni-goettingen.de/about.html" target="_blank"> KOLIMO. Korpus der Literarischen Moderne(beta)</a> (Corpus Literary Modernism).
  
