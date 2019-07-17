@@ -37,9 +37,9 @@ Mattner, C., Herrmann, J.B. & Lauer, G. (2016). Kafkas Stil. Zur Psychostilistik
 
 # Book chapters
 
-Herrmann, J. B. (in print). Operationalisierung der Metapher zur quantifizierenden Untersuchung deutschsprachiger literarischer Texte im Übergang von Realismus zur Moderne. In Jannidis, Fotis (Ed.), Tagungsband des DFG-Symposiums „Digitale Literaturwissenschaft”, Villa Vigoni, De Gruyter.
+Herrmann, J. B. (in print). Operationalisierung der Metapher zur quantifizierenden Untersuchung deutschsprachiger literarischer Texte im Übergang von Realismus zur Moderne. In Jannidis, Fotis (Ed.), Tagungsband des DFG-Symposiums „Digitale Literaturwissenschaft”, Villa Vigoni, Berlin: De Gruyter.
 
-Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (in print). Die Tiroler Soldatenzeitung und ihre Autoren. Eine computergestützte Suche nach Robert Musil. In: Salgaro Massimo, Elmar Locher, und Mariaelisa Dimino (Eds.) "Robert Musil als Redakteur der Tiroler Soldatenzeitung", Fink.
+Massimo Salgaro, Simone Rebora, Gerhard Lauer, J. Berenike Herrmann (2019). Die Tiroler Soldatenzeitung und ihre Autoren. Eine computergestützte Suche nach Robert Musil. In M. Dimino, E. Locher, & Salgaro M. (Eds.) <a href="https://www.fink.de/katalog/titel/978-3-7705-6410-1.html" target="_blank">"Oberleutnant Robert Musil als Redakteur der Tiroler Soldaten-Zeitung", Paderborn: Fink.</a>
 
 Herrmann, J. B. (2018). Anschaulichkeit messen. Eine quantitative Metaphernanalyse an deutschsprachigen Erzählanfängen zwischen 1880 und 1926. In T. Köppe & R. Singer (Eds.), Show, don’t tell: Konzepte und Strategien anschaulichen Erzählens. Bielefeld: Aisthesis. 167-212.
 
