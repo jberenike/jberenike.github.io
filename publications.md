@@ -7,7 +7,7 @@ title: j. berenike herrmann
 # Publications
 
 # Contribution to debates
-Herrmann, J. B., Bories, A.-S., Frontini, F., Rebora, S., & Rybicki, J. (2019). Response by the Special Interest Group on Digital Literary Stylistics to Nan Z. Da’s Study. (Journal of Cultural Analytics.)[ https://culturalanalytics.org/2019/05/response-by-the-special-interest-group-on-digital-literary-stylistics-to-nan-z-das-study]
+Herrmann, J. B., Bories, A.-S., Frontini, F., Rebora, S., & Rybicki, J. (2019). Response by the Special Interest Group on Digital Literary Stylistics to Nan Z. Da’s Study. [Journal of Cultural Analytics.](https://culturalanalytics.org/2019/05/response-by-the-special-interest-group-on-digital-literary-stylistics-to-nan-z-das-study)
 
 # Peer-reviewed publications in international journals and peer-reviewed edited volumes
 
@@ -94,7 +94,7 @@ Herrmann, J.B., Gabay, S., & S. Rebora. Multi-lingual Swiss novel corpus 1850-19
  
 # By cfp
 
-02/2020 Judge a book by its lover: Evaluation and sentiment in online lay book reviews. Tagung der VALS-ASLA, Neuchâtel, CH. https://www.unine.ch/colloquevals-asla2020/ 
+02/2020 Judge a book by its lover: Evaluation and sentiment in online lay book reviews. Tagung der [VALS-ASLA, Neuchâtel, CH] (https://www.unine.ch/colloquevals-asla2020/).
 
 07/2019 Where’s your attention? An empirical assessment of Web 2.0 users’ literary values (with Thomas Messerli), Panel “Digital Humanities for the Study of Social Reading”, International Conference DH2019 Utrecht, NL.
 
@@ -137,7 +137,7 @@ Herrmann, J.B., Gabay, S., & S. Rebora. Multi-lingual Swiss novel corpus 1850-19
   
 # Invited talks (selection)  
 
-05/2020 Plenary Lecture “Digital Literary Stylistics” at 41st International Conference ICAME 2020 “Language and Linguistics in a Complex World: Data, Interdisciplinarity, Transfer, and the Next Generation”, Heidelberg, D. https://icame41.as.uni-heidelberg.de/plenaries/
+05/2020 Plenary Lecture “Computational Literary Studies” at [41st International Conference ICAME 2020] (https://icame41.as.uni-heidelberg.de/plenaries/) “Language and Linguistics in a Complex World: Data, Interdisciplinarity, Transfer, and the Next Generation”, Heidelberg, D. 
 
 11/2019 Invited talk “Computationally Revisiting World Literature in German – The Kafka Case”. Symposium “Literature in the world: Material networks of books to and from Goethe’s Weimar”, St John’s College, Oxford, UK.
 
@@ -198,7 +198,7 @@ Herrmann, J.B., Gabay, S., & S. Rebora. Multi-lingual Swiss novel corpus 1850-19
  
 # Outreach activities
 
-Herrmann, J. B., Bories, A.-S., Frontini, F., Rebora, S., & Rybicki, J. (2019). Response by the Special Interest Group on Digital Literary Stylistics to Nan Z. Da’s Study. Journal of Cultural Analytics.  https://culturalanalytics.org/2019/05/response-by-the-special-interest-group-on-digital-literary-stylistics-to-nan-z-das-study/
+Herrmann, J. B., Bories, A.-S., Frontini, F., Rebora, S., & Rybicki, J. (2019). Response by the Special Interest Group on Digital Literary Stylistics to Nan Z. Da’s Study. [Journal of Cultural Analytics.](https://culturalanalytics.org/2019/05/response-by-the-special-interest-group-on-digital-literary-stylistics-to-nan-z-das-study)
 
 12/2016 Video interview on scientific identity and perspective within the audio-visual 
 exhibition on/off. Vom Nobelpreis und den Grenzen der Wissenschaft, Georg-August-Universität Göttingen, D.
@@ -216,13 +216,15 @@ Dorothea Schlözer Postdoc Mentoring Program. Feierliche Abschlussveranstaltung 
 Berlin, D.
 
 # General contributions to science
-Review of "Social Characters: The Hierarchy of Gender in Contemporary English-Language Fiction" Eve Kraicer and Andrew Piper (2019) https://culturalanalytics.org/2019/01/social-characters-the-hierarchy-of-gender-in-contemporary-english-language-fiction/
+Review of "Social Characters: The Hierarchy of Gender in Contemporary English-Language Fiction" Eve Kraicer and Andrew Piper (2019)[Journal of Cultural Analytics](https://culturalanalytics.org/2019/01/social-characters-the-hierarchy-of-gender-in-contemporary-english-language-fiction/)
 
-Since 2017 Founding member and current chair of international Special Interest Group Digital Literary Stylistics (SIG-DLS) of the Alliance of Digital Humanities Organizations (ADHO). https://dls.hypotheses.org/ 
+Since 2019 ADHO SIG liaison & SIG representative on ADHO COB (Constituent Organizing Board).
+
+Since 2017 Founding member and current chair of international [Special Interest Group Digital Literary Stylistics (SIG-DLS) ](https://dls.hypotheses.org/)of the Alliance of Digital Humanities Organizations (ADHO). 
 
 Session chair at various international conferences within Digital Humanities, Empirical Studies of Literature, Metaphor Studies, Cognitive Literary Studies, and Stylistics.
 
-2012-2016 Founding member and organizer Postdoc-Plattform Göttinger Philologisches Forum (GpF) (with Kai Sina, Peer Trilcke). https://www.uni-goettingen.de/de/351956.html
+2012-2016 Founding member and organizer [Postdoc-Plattform Göttinger Philologisches Forum (GpF)](https://www.uni-goettingen.de/de/351956.html) (with Kai Sina, Peer Trilcke). 
 
 07/2015 Introduction: Literature and empathy, empirically. Mapping a transdisciplinary approach. International Symposium „Literature and Empathy”, Göttingen Centre for Advanced Studies (Lichtenberg Kolleg), Göttingen, D.
 
