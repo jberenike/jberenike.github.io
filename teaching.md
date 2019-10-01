@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: j. berenike herrmann
+---
+
 ## University Teaching
 
 # Since 2017 Digital Humanities Lab, Universität Basel
