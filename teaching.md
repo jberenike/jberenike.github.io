@@ -86,14 +86,16 @@ BA «Semantiek van het Duits» (auf Deutsch), 2007/2008
 
 Guest Lecture: Metaphorical language and Genre: Discussing empirical evidence from academic discourse, Leiden Institute of Advanced Computer Sciences, Leiden University, ‘Natuurwetenschappen voor niet-bètastudenten’, 05/2010
 
-# Supervision of Graduate Students Nachwuchswissenschaftler*innen
+# Supervision of Graduate Students
 
 Since 11/2018  	Associate postdoc member of the Herman-Paul-School Graduate of Linguistics (Freiburg i. Br, D/Basel, CH). Supervision of PhD candidates 
 
 _PhD Theses_
 
 1) G. Rotari: working title: «Empathy in/from Fairy tales? Examining narrative structures and their social-cognitive effects»
+
 2) Chr. Schmidt: working title: «What is literary literacy? Assessing concepts of literary education in Master students of German Language and Literature for Secondary Education by means of corpus-based methods» 
+
 3) since autumn term 2018	Mentor Christina Vögelin, working title: «The influence of linguistic features of ESL argumentative essays on teacher judgements» (Betreuende: Prof. Dr. Stefan D. Keller, Prof. Dr. Heike Behrens, Prof. Dr. Albert Düggeli; SNF-DFG Forschungsprojekt «ASSET – Assessing Students’ English Texts» Pädagogische Hochschule FHNW, Institut für Bildungswissenschaften Universität Basel, Christian-Albrechts-Universität zu Kiel)
 
 
@@ -109,16 +111,24 @@ _BA Theses_
 8) L. Hantelmann: Round or Flat Character? Tracing the development of Simon Brenner in Wolf Haas’s detective novels. Zweitbetreuerin.
 9) B.-J. Kayser: Functional illiteracy. Zweitbetreuerin.
 10) Chr. Schmidt: Spotlight on the reader. Examining the relationship between attention and empathy in fiction reading, Erstbetreuerin.
+
 12) J. Hinrichs: An empirical examination of (literary) reading socialization and its influence on reading behaviour, Erstbetreuerin
+
 13) K. Engfer: Narrative voice and focalisation in Rilke's Poems on David and Soul, Zweitbetreuerin.
+
 14) E. Schiffmann: The sensitive protagonist in Chr. F. Gellert's comedy. An analysis of character constellation, Zweitbetreuerin.
 
-- MA Theses_
+_MA Theses_
 1) G. Roth-Kleyer. Using text mining techniques to understand the self. Applied digital Philosophy. [working title] Erstbetreuerin.
+
 2) S. Reith: Creative Writing by ‘Écriture Automatique‘: A viable resource for supporting highly gifted pupils in regular language education? Zweitbetreuerin.
+
 3) C. Engfer: Die Funktion der Farben in Canettis Roman Die Blendung. Zweitbetreuerin.
+
 4) A. Tietje: More than literary convention. A quantitative drama analysis assessing measurability of epoch features. Zweitbetreuerin.
+
 5) L. Stöckicht: Sentiment Analysis as a quantitative digital method in literature and film studies. Zweitbetreuerin.
+
 6) G. Rotari: Kafka’s style. A Quantitative Analysis. Zweitbetreuerin. 
 
 
