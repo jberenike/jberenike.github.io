@@ -1,10 +1,10 @@
-
 ---
 layout: default
 title: j. berenike herrmann
 ---
 
-## University Teaching
+
+# University Teaching
 
 # Since 2017 Digital Humanities Lab, Universität Basel
 
@@ -34,7 +34,7 @@ _Autumn Term 2017_
 
 - Seminar 50126-01 – «Textanalyse mit R» (with Gerhard Lauer)
 
-# 2011-2017 Seminar für Deutsche Philologie, Georg-August-Universität Göttingen
+# 2011-2017 Department German Philology, Georg-August-Universität Göttingen
 
 - BA Basisseminar 1.2 (Theorien und Methoden der Literaturwissenschaft), summer terms, 2011-2017
 - BA Basisseminar 1.1 (Einführung in den wissenschaftlichen Umgang mit literarischen Texten), winter terms 2011-2017
@@ -93,11 +93,14 @@ _BA Theses_
 5) L. Stöckicht: Sentiment Analysis as a quantitative digital method in literature and film studies. Zweitbetreuerin.
 6) G. Rotari: Kafka’s style. A Quantitative Analysis. Zweitbetreuerin. 
 
+
 # Department of Language and Communication, VU University Amsterdam, NL
+
 2009 BA-Thesis I. Kremer: Metaphorical compounds in Youth Language, Erstbetreuerin
 2009 MA-Thesis V. Vasilasky: American versus British English hedging in popular scientific magazines: An empirical study, Zweitbetreuerin.
 
 # Publications with direct reference to higher education teaching
+
 - 2013 	Herrmann, J. B. (2013). Computergestützte Textanalyse. Formen, Muster und Vergleiche. Workshop im Symposium Deutschdidaktik – Nachwuchsnetzwerk "Schreiben - Erheben - Fördern", Göttingen University
 - 2012	Herrmann, J. B. (Ed.) (2012). Measuring literature. A wiki on digital text analysis. (in German)
 - 2012	Herrmann, J. B. (2012). Doing Digital Text Analysis with “literary” students. A clash of cultures or new beginnings? Digital Text Analysis Working Group, Göttingen Centre for Digital Humanities (GCDH)
