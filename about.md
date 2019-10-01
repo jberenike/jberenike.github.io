@@ -1,3 +1,8 @@
+---
+layout: default
+title: j. berenike herrmann
+---
+
 
 # About
 	
@@ -6,7 +11,7 @@ as well as Management Committee member of the [COST Action Distant Reading for E
 and the current chair of the [ADHO Special Interest Group "Digital Literary Stylistics"](https://dls.hypotheses.org).
 
 As a Digital Humanist, I strive to understand the potential as well as the constraints of the digital transformation of society and the Humanities. 
-My main field is textual DH, with a PhD on metaphor in language, thought and communication from VU University Amsterdam.
+My main field is textual literary DH, with a PhD on metaphor in language, thought and communication from VU University Amsterdam.
 
 Currently, I work as a postdoctoral researcher at the DHLab at the University of Basel (Switzerland).
 
