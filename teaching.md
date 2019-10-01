@@ -18,13 +18,13 @@ _Autumn Term 2019_
 
 Seminar 55668-01 – «Korpusanalyse von Sprache und Kontext. Eine Einführung in Grundlagen und digitale Werkzeuge»
 
-Training school – «Distant Reading. Tools and Methods», Programme doctoral en études numériques der Universitäten Lausanne, Neuchâtel, Basel https://www.unil.ch/doc-digitalstudies/home/menuinst/activites-du-programme/distant-reading-tools-and-methods.html (zusammen mit Simon Gabay, Simone Rebora und Elias Kreyenbühl)
+Training school – «Distant Reading. Tools and Methods», Programme doctoral en études numériques der Universitäten Lausanne, Neuchâtel, Basel [homepage](https://www.unil.ch/doc-digitalstudies/home/menuinst/activites-du-programme/distant-reading-tools-and-methods.html) (with Simon Gabay, Simone Rebora und Elias Kreyenbühl)
 
 Seminar 55240-01 – «Trends in den computergestützten und experimentellen Geisteswissenschaften» (with Gerhard Lauer)
 
 _Spring Term 2019_
 
-Seminar 53942-01 – «Analyse sprachlicher Subjektivität nach dem Machine Learning Turn»
+Seminar 53942-01 – «Analyse sprachlicher Subjektivität nach dem Machine Learning Turn» [blog](https://digsub.hypotheses.org/)
 
 Advanced Studies Graduate Program University Basel (GRACE) – «Doing Digital Projects» (with Silke Bellanger, Elias Kreyenbühl, Gerhard Lauer u.a.)
 
