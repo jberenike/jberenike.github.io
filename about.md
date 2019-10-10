@@ -13,7 +13,7 @@ and the current chair of the [ADHO Special Interest Group "Digital Literary Styl
 As a Digital Humanist, I strive to understand the potential as well as the constraints of the digital transformation of society and the Humanities. 
 My main field is textual literary DH, with a PhD on metaphor in language, thought and communication from VU University Amsterdam.
 
-Currently, I work as a postdoctoral researcher at the DHLab at the University of Basel (Switzerland).
+Currently, I work as a postdoctoral researcher ("Oberassistentin") at the DHLab at the University of Basel (Switzerland).
 
 			
 In my research, I focus on the *digital modeling of literary discourse*. 
@@ -24,23 +24,17 @@ writers of the 19th and early 20th Centuries, as well as the representation of "
 I am also keen on finding out more about the effects of reading on well-being.
 
 To this end, next to Corpus Linguistics and Data Science, I draw on Literary Historiography, Discourse Analysis, 
-(Neo) Structuralism, and Cognitive Poetics.
+(Neo) Structuralism, and Cognitive Poetics. One research group where all these perspectives converge is [the IGEL research coalition "Computational Stylistics"](https://sites.google.com/igelassoc.org/computstylistics/home).
 			
 My favorite textual features are metaphor, morpho-syntactic complexity, and modality, all approached as "style".
 
-With regard to style, I investigate how holistic descriptions and assessments of literary writing 
-(e.g., opaque, transparent, and vivid, see Herrmann, 2018a) 
-may be measured by formal discourse features, such as word frequency (Herrmann, 2017), sentence complexity 
-(as measured by readability formula, Herrmann, accepted), and part of speech (Herrmann, 2018a), 
-but also metaphor (Herrmann, 2018b, Herrmann, Dorst & Woll, in press) and narrative perspective 
-(Herrmann, Mattner & Lauer, in preparation).
+With regard to style, I investigate how holistic descriptions and assessments of literary writing (e.g., opaque, transparent, and vivid, see Herrmann, 2018a) may be measured by formal discourse features, such as word frequency (Herrmann, 2017), sentence complexity (by readability formula, Herrmann, accepted), and part of speech (Herrmann, 2018a), but also metaphor (Herrmann, 2018b, in press; Herrmann, Dorst & Woll, in press) and narrative perspective (Herrmann, Mattner & Lauer, in preparation).
 
-I plead happily guilty of operationalizating such constructs as "style", "narrative vividness", and "narrative coherence" 
-for textual DH. With my colleagues at the project "Forschungslogiken" are now working on valuation ("Bewertung") 
-of books and cooking recipies on the web.
+I plead happily guilty of operationalizating such constructs as "style", "narrative vividness", and "valuation"
+for textual DH. With my colleagues at the project "Forschungslogiken" are currently working on valuation ("Bewertung") 
+of books and cooking recipes on the web.
 
-My favorite literary epochs (the term with fuzzy edges) are Modernism, Realism, and the Early Modern Period. 
-I have been PI of the project "KOLIMO", building a representative corpus of literary Modernism in German, 
+My favorite literary epochs (the term with fuzzy edges) are Realism and Modernism, specifically the transition from one to the other. I have been PI of the project "KOLIMO", building a representative comparative corpus of literary Modernism in German, 
 rendered in XML (eXist). Currently, I run most of my analyses in R.
 
 
