@@ -6,8 +6,8 @@ layout: default
 [about](about.md)  |  [publications](publications.md)  |  [teaching](teaching.md)
 
 
-## Computational and Cognitive Literary Studies
+## computational and cognitive literary studies
 
 ![colors](./assets/img/steve-johnson-JLfem8ViKVA-unsplash.jpg)
-Photo by Steve Johnson on Unsplash
+photo by steve johnson on unsplash
 

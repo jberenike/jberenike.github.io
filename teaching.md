@@ -6,10 +6,10 @@ title: teaching
 [home](index.md) | [about](about.md)  |  [publications](publications.md)
 
 
-## University Teaching
+## university teaching
 
 ![0902_TextLab_bigbild](./assets/img/0902_TextLab_bigbild.jpg)
-Photo by Andreas Busch, CC-BY-SA
+photo by andreas busch, CC-BY-SA
 
 ### Since 2017 Digital Humanities Lab, Universität Basel
 
@@ -96,7 +96,7 @@ Guest Lecture: Metaphorical language and Genre: Discussing empirical evidence fr
 
 ### Supervision of (Graduate) Students
 
-Since 11/2018  Associate postdoc member of the Herman-Paul-School Graduate of Linguistics (Freiburg i. Br, D/Basel, CH). Supervision of PhD candidates 
+Since 11/2018: Associate postdoc member of the Herman-Paul-School Graduate of Linguistics (Freiburg i. Br, D/Basel, CH). Supervision of PhD candidates 
 
 
 _PhD Theses_
@@ -108,7 +108,7 @@ _PhD Theses_
 - Mentor to Chr. Vögelin, working title: «The influence of linguistic features of ESL argumentative essays on teacher judgements» (Betreuende: Prof. Dr. Stefan D. Keller, Prof. Dr. Heike Behrens, Prof. Dr. Albert Düggeli; SNF-DFG Forschungsprojekt «ASSET – Assessing Students’ English Texts» Pädagogische Hochschule FHNW, Institut für Bildungswissenschaften Universität Basel, Christian-Albrechts-Universität zu Kiel)
 
 
-__MA Theses_
+_MA Theses_
 
 A. Kasper (Department Linguistics and Literary Studies, University of Basel)
 
@@ -125,33 +125,34 @@ L. Stöckicht: Sentiment Analysis as a quantitative digital method in literature
 G. Rotari: Kafka’s style. A Quantitative Analysis. Zweitbetreuerin (Department German Philology, Georg-August-Universität Göttingen)
 
 
-_BA Theses (Department German Philology, Georg-August-Universität Göttingen)_
+_BA Theses_
 
-1) R. Weller: Using NLP word2vec analyses to detect implicit content in right-wing blogs. Erstbetreuerin
+_Department German Philology, Georg-August-Universität Göttingen_
+R. Weller: Using NLP word2vec analyses to detect implicit content in right-wing blogs. Erstbetreuerin
 
-2) N. Foitzik: Digitale Erschließung und Analyse mittelniederdeutscher Texte. Zweitbetreuerin
+N. Foitzik: Digitale Erschließung und Analyse mittelniederdeutscher Texte. Zweitbetreuerin
 
-3) L. Hannemann: "I was an ant, keeping a diary". A comparative metaphor analysis of Kästner's diaries. Erstbetreuerin
+L. Hannemann: "I was an ant, keeping a diary". A comparative metaphor analysis of Kästner's diaries. Erstbetreuerin
 
-4) C. Mattner: The secret of Kafka‘s words. A dictionary-based diary analysis using the content analysis software LIWC. Zweitbetreuerin
+C. Mattner: The secret of Kafka‘s words. A dictionary-based diary analysis using the content analysis software LIWC. Zweitbetreuerin
 
-5) N. Bölling: Wolfgang Herrndorf‘s Tschick– The German Catcher in the Rye? A comparative style analysis. Erstbetreuerin
+N. Bölling: Wolfgang Herrndorf‘s Tschick– The German Catcher in the Rye? A comparative style analysis. Erstbetreuerin
 
-6) C. Schmidt: Examining the theme of ‘bureaucracy’ as an impediment for Lotman’s transgression? A semiotic analysis of Kafka's novel The Castle. Erstbetreuerin
+C. Schmidt: Examining the theme of ‘bureaucracy’ as an impediment for Lotman’s transgression? A semiotic analysis of Kafka's novel The Castle. Erstbetreuerin
 
-7) Y. Grube: Applying emotion-analytical methods to characterization analysis. On female protagonists in the dramatic genre bürgerliches Trauerspiel. Erstbetreuerin
+Y. Grube: Applying emotion-analytical methods to characterization analysis. On female protagonists in the dramatic genre bürgerliches Trauerspiel. Erstbetreuerin
 
-8) L. Hantelmann: Round or Flat Character? Tracing the development of Simon Brenner in Wolf Haas’s detective novels. Zweitbetreuerin
+L. Hantelmann: Round or Flat Character? Tracing the development of Simon Brenner in Wolf Haas’s detective novels. Zweitbetreuerin
 
-9) B.-J. Kayser: Functional illiteracy. Zweitbetreuerin
+B.-J. Kayser: Functional illiteracy. Zweitbetreuerin
 
-10) Chr. Schmidt: Spotlight on the reader. Examining the relationship between attention and empathy in fiction reading, Erstbetreuerin.
+Chr. Schmidt: Spotlight on the reader. Examining the relationship between attention and empathy in fiction reading, Erstbetreuerin.
 
-12) J. Hinrichs: An empirical examination of (literary) reading socialization and its influence on reading behaviour, Erstbetreuerin
+J. Hinrichs: An empirical examination of (literary) reading socialization and its influence on reading behaviour, Erstbetreuerin
 
-13) K. Engfer: Narrative voice and focalisation in Rilke's Poems on David and Soul, Zweitbetreuerin.
+K. Engfer: Narrative voice and focalisation in Rilke's Poems on David and Soul, Zweitbetreuerin.
 
-14) E. Schiffmann: The sensitive protagonist in Chr. F. Gellert's comedy. An analysis of character constellation, Zweitbetreuerin.
+E. Schiffmann: The sensitive protagonist in Chr. F. Gellert's comedy. An analysis of character constellation, Zweitbetreuerin.
 
 
 ### Department of Language and Communication, VU University Amsterdam, NL

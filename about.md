@@ -6,10 +6,10 @@ title: about
 [home](index.md) |  [publications](publications.md)  |  [teaching](teaching.md)
 
 
-## About
+## about
 
 ![colors](./assets/img/steve-johnson-JLfem8ViKVA-unsplash.jpg)
-Photo by Steve Johnson on Unsplash
+photo by steve johnson on unsplash
 
 ### Welcome to my webpage!
 
