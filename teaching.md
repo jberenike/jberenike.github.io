@@ -3,7 +3,7 @@ layout: default
 title: teaching
 ---
 
-[home](index.md)   | [publications](publications.md)   |  
+[about](about.md)  |  [publications](publications.md)  |  [teaching](teaching.md)
 
 
 ## university teaching
@@ -11,7 +11,7 @@ title: teaching
 ![0902_TextLab_bigbild](./assets/img/0902_TextLab_bigbild.jpg)
 photo by andreas busch, CC-BY-SA
 
-### Since 2017 Digital Humanities Lab, Universität Basel
+### Digital Humanities Lab, Universität Basel
 
 _Spring Term 2020_
 
@@ -29,7 +29,7 @@ Seminar 55240-01 – «Trends in den computergestützten und experimentellen Gei
 
 _Spring Term 2019_
 
-Seminar 53942-01 – «Analyse sprachlicher Subjektivität nach dem Machine Learning Turn» [blog](https://digsub.hypotheses.org/)
+Seminar 53942-01 – «Analyse sprachlicher Subjektivität nach dem Machine Learning Turn». See students'  [blog](https://digsub.hypotheses.org/)
 
 Advanced Studies Graduate Program University Basel (GRACE) – «Doing Digital Projects» (with Silke Bellanger, Elias Kreyenbühl, Gerhard Lauer u.a.)
 
@@ -52,9 +52,9 @@ BA Basisseminar 1.2 (Theorien und Methoden der Literaturwissenschaft), summer te
 
 BA Basisseminar 1.1 (Einführung in den wissenschaftlichen Umgang mit literarischen Texten), winter terms 2011-2017
 
-Interdisciplinary MA-Teaching/Research Course «Wahl der Sprache und Sprache der Wahl« (with Andreas Busch, Gerhard Lauer, & Madeleine Kaupert), Seminar für Deutsche Philologie Institut für Politikwissenschaft [wiki](http://comppol.uni-goettingen.de/dokuwiki/lehre:textanalyse) and [blogs](https://sprachederwahl.wordpress.com/), summer term 2017
+Interdisciplinary MA-Teaching/Research Course «Wahl der Sprache und Sprache der Wahl« (with Andreas Busch, Gerhard Lauer, & Madeleine Kaupert), Seminar für Deutsche Philologie Institut für Politikwissenschaft. See students'  [blogs](https://sprachederwahl.wordpress.com/), summer term 2017
 
-BA Vertiefungsseminar «TextLab. Eine angewandte Einführung in die digitale Literaturwissenschaft» (with Dr. Annelen Brunner, Mathias Göbel)[blogs](http://litlog.uni-goettingen.de/eine-app-auf-dem-vormarsch/). Koordiniert mit der mediävistischen Veranstaltung von Prof. Dr. Heike Sahm: «Dracula und Brandan im Norden» zur Edition niederdeutscher Texte. Winter term 2016/17
+BA Vertiefungsseminar «TextLab. Eine angewandte Einführung in die digitale Literaturwissenschaft» (with Dr. Annelen Brunner, Mathias Göbel). See students' [blogs](http://litlog.uni-goettingen.de/eine-app-auf-dem-vormarsch/). Koordiniert mit der mediävistischen Veranstaltung von Prof. Dr. Heike Sahm: «Dracula und Brandan im Norden» zur Edition niederdeutscher Texte. Winter term 2016/17
 
 Integrated BA/MA-Course «CAPS: Computer-based Analysis of Personal Style», Research-oriented teaching and learning (FoLL) 03/2016-10/2016 (in English)
 

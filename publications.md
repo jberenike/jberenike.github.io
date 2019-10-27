@@ -3,7 +3,8 @@ layout: default
 title: publications
 ---
 
-[about](about.md)  |                                                     |  [teaching](teaching.md)
+[about](about.md)  |  [publications](publications.md)  |  [teaching](teaching.md)
+
 
 ## publications
 
