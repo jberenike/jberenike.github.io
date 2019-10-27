@@ -1,8 +1,9 @@
 ---
 layout: default
-title: j. berenike herrmann | publications
+title: publications
 ---
 
+[about](about.md)  |  [publications](publications.md)  |  [teaching](teaching.md)
 
 ## Publications
 

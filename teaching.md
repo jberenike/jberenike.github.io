@@ -1,7 +1,9 @@
 ---
 layout: default
-title: j. berenike herrmann | teaching
+title: teaching
 ---
+
+[about](about.md)  |  [publications](publications.md)  |  [teaching](teaching.md)
 
 ## University Teaching
 
