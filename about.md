@@ -1,12 +1,17 @@
 ---
 layout: default
-title: j. berenike herrmann | about
+title: about
 ---
 
 
 ## About
-	
-Welcome to my webpage! I am PI of the Basel SNF-Digital Lives Project "[Forschungslogiken](http://www.forschungslogiken.net/en/) in den texbasierten DH nach dem Machine Learning Turn"
+
+![colors](./assets/img/steve-johnson-JLfem8ViKVA-unsplash.jpg)
+Photo by Steve Johnson on Unsplash
+
+### Welcome to my webpage!
+
+I am PI of the Basel SNF-Digital Lives Project "[Forschungslogiken](http://www.forschungslogiken.net/en/) in den texbasierten DH nach dem Machine Learning Turn"
 as well as Management Committee member of the [COST Action Distant Reading] (https://www.distant-reading.net/) for European Literary History
 and the current chair of the ADHO Special Interest Group "Digital Literary Stylistics"  [SIG DLS](https://dls.hypotheses.org).
 

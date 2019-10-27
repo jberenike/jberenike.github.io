@@ -6,9 +6,14 @@ title: j. berenike herrmann | publications
 
 ## Publications
 
-### Contribution to debates
+![books](./assets/img/kimberly-farmer-lUaaKCUANVI-unsplash.jpg)
+Photo by Kimberly Farmer on Unsplash
+
+
+### Contribution to current debates
 
 Herrmann, J. B., Bories, A.-S., Frontini, F., Rebora, S., & Rybicki, J. (2019). Response by the Special Interest Group on Digital Literary Stylistics to Nan Z. Da’s Study. [Journal of Cultural Analytics.](https://culturalanalytics.org/2019/05/response-by-the-special-interest-group-on-digital-literary-stylistics-to-nan-z-das-study)
+
 
 ### Peer-reviewed publications in international journals and peer-reviewed edited volumes
 
@@ -29,7 +34,7 @@ Herrmann, J.B. (2017). In a test bed with Kafka. Introducing a mixed-method appr
  Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., and T. Krennmayr (2010). Metaphor in usage. Cognitive Linguistics 21 (4): pp. 765-796.
  
  
- ### Books and special issues  
+ ### Books and special issues 
 
  Herrmann, J.B. (in prep.). Digital Literary Stylistics. Enhanced Humanities. (Manuscript submitted as habilitation at University of Basel).
 
@@ -76,7 +81,7 @@ Herrmann, J.B. (2015). High on metaphor, low on simile: A cross-register examina
 Herrmann, J.B. (2015). Metaphern im akademischen Englisch: Eine kognitiv-korpuslinguistische Studie, in: Jahrbuch der Akademie der Wissenschaften zu Göttingen 2014. Berlin: De Gruyter.
 
 
-### Digital resources  
+### Digital resources
 
 Herrmann, J.B. & Messerli, Th., LoBo. The LovelyBooks Corpus. A collection of digital lay book reviews (more than 1 Mio. reviews).
  
@@ -95,7 +100,7 @@ Herrmann, J.B., Gabay, S., & S. Rebora. Multi-lingual Swiss novel corpus 1850-19
 
 ### Conference talks (selection)
  
- #### By cfp
+**By cfp**
 
 02/2020 (accepted) Judge a book by its lover: Evaluation and sentiment in online lay book reviews. Tagung der [VALS-ASLA, Neuchâtel, CH] (https://www.unine.ch/colloquevals-asla2020/).
 
@@ -138,7 +143,7 @@ Herrmann, J.B., Gabay, S., & S. Rebora. Multi-lingual Swiss novel corpus 1850-19
 06/2011 Exploring metaphorical language use in academic prose. A cross-register corpus-analysis. International Stylistics Across Disciplines (SAD) Conference, Leiden University, NL. 
 
   
-  #### Invited talks (selection)  
+**Invited talks (selection)**
 
 05/2020 Plenary Lecture “Computational Literary Studies” at [41st International Conference ICAME 2020] (https://icame41.as.uni-heidelberg.de/plenaries/) “Language and Linguistics in a Complex World: Data, Interdisciplinarity, Transfer, and the Next Generation”, Heidelberg, D. 
 
@@ -186,7 +191,7 @@ Herrmann, J.B., Gabay, S., & S. Rebora. Multi-lingual Swiss novel corpus 1850-19
  06/2010  Patterns and functions of metaphorical language in the academic genre: Combining quantitative and qualitative evidence from the British National Corpus. Talk at Pragmatics and Stylistics Research Group (PaSTY), Department of Linguistics and English Language, Lancaster University, UK. 
  
  
- #### Posters  
+**Posters**  
 
 12/2018	Is it all Like!? Studying Research Epistemologies in the Textual Humanities in Case Studies of Sentiment Analysis. (with Daniel Knuchel, Noah Bubenhofer, Thomas Messerli). Digital Futures Network Day. Connecting Research Projects on Digital Traces and Society. EPFL Habitat Research Center, Lausanne, CH.
 
@@ -199,7 +204,7 @@ Herrmann, J.B., Gabay, S., & S. Rebora. Multi-lingual Swiss novel corpus 1850-19
  07/2007  Emancipating metaphor from thought. MIP applied to Lakoff and Johnson (1980). International Cognitive Linguistics Conference (ICLC10), Krakow, Poland. 
  
  
- ### Outreach activities
+**Outreach activities**
 
 Herrmann, J. B., Bories, A.-S., Frontini, F., Rebora, S., & Rybicki, J. (2019). Response by the Special Interest Group on Digital Literary Stylistics to Nan Z. Da’s Study. [Journal of Cultural Analytics.](https://culturalanalytics.org/2019/05/response-by-the-special-interest-group-on-digital-literary-stylistics-to-nan-z-das-study)
 
@@ -218,7 +223,9 @@ Dorothea Schlözer Postdoc Mentoring Program. Feierliche Abschlussveranstaltung 
 11/2013 Finalist Lighting Talk Breaking the wall of Franz Kafka’s paradox. 2013 Falling Walls Lab Finale, 
 Berlin, D.
 
-### General contributions to science
+
+**General contributions to science**
+
 Review of "Social Characters: The Hierarchy of Gender in Contemporary English-Language Fiction" Eve Kraicer and Andrew Piper (2019)[Journal of Cultural Analytics](https://culturalanalytics.org/2019/01/social-characters-the-hierarchy-of-gender-in-contemporary-english-language-fiction/)
 
 Since 2019 ADHO SIG liaison & SIG representative on ADHO COB (Constituent Organizing Board).
