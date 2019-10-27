@@ -4,8 +4,8 @@ layout: default
 
 [about](about.md) [publications](publications.md) [teaching](teaching.md)
 
-## Digital Stylistics and Cognitive Psychology applied to Literature
+## Computational and Cognitive Literary Studies
 
-![blueskies](./assets/img/veynes.png)
-[send me an email](mailto:berenike.herrmann@unibas.ch)
-[@jberenike](https://twitter.com/jberenike)    
+![colors](./assets/img/steve-johnson-JLfem8ViKVA-unsplash.jpg)
+Photo by Steve Johnson on Unsplash
+
