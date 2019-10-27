@@ -1,21 +1,15 @@
 ---
-layout: default
+layout: default | home
 ---
 
-
-+++++site under construction+++++
-
-
 j. berenike herrmann
-[home](.index)
 [about](.about.md)
-[publications](.publications.md)        	
+[publications](.publications.md)            
 [teaching](.teaching.md)
 
-# Digital Stylistics and Cognitive Psychology applied to Literature
-![blueskies](https://github.com/jberenike/jberenike.github.io/tree/master/images/veynes.JPG)
-[Send me an email](mailto:berenike.herrmann@unibas.ch)
-[@jberenike](https://twitter.com/Jberenike)	
-[Meet me at DH Lab Basel Webpage](http://dhlab.unibas.ch/berenike-herrmann)
+## Digital Stylistics and Cognitive Psychology applied to Literature
 
-+++++site under construction+++++
+![blueskies](./assets/img/veynes.png)
+[send me an email](mailto:berenike.herrmann@unibas.ch)
+[@jberenike](https://twitter.com/jberenike)    
+[meet me at DH Lab Basel Webpage](http://dhlab.unibas.ch/berenike-herrmann)

@@ -1,12 +1,17 @@
 ---
 layout: default
-title: j. berenike herrmann
+title: j. berenike herrmann | teaching
 ---
 
+[back](./)
 
-# University Teaching
 
-# Since 2017 Digital Humanities Lab, Universität Basel
+## University Teaching
+
+!![0902_TextLab_bigbild](./assets/img/0902_TextLab_bigbild.jpg)
+
+
+### Since 2017 Digital Humanities Lab, Universität Basel
 
 _Spring Term 2020_
 
@@ -40,7 +45,8 @@ _Autumn Term 2017_
 
 Seminar 50126-01 – «Textanalyse mit R» (with Gerhard Lauer)
 
-# 2011-2017 Department German Philology, Georg-August-Universität Göttingen
+
+### 2011-2017 Department German Philology, Georg-August-Universität Göttingen
 
 BA Basisseminar 1.2 (Theorien und Methoden der Literaturwissenschaft), summer terms, 2011-2017
 
@@ -72,7 +78,8 @@ BA Vertiefungsseminar «Einführung in die empirische Literaturwissenschaft», s
 
 MA Integratives Seminar «Emotion, Kognition und Literatur» (with Dr. Silke Kubik), winter term 2014/15
 
-# 2007- 2011 Department of Language and Communication, VU University Amsterdam, NL
+
+### 2007- 2011 Department of Language and Communication, VU University Amsterdam, NL
 
 BA Specialisatiethema Duitse taalkunde, 3 – «Variatie: Jugendsprache» (with Dr. Maurice Vliegen) (auf Deutsch), 2009
 
@@ -86,7 +93,8 @@ BA «Semantiek van het Duits» (auf Deutsch), 2007/2008
 
 Guest Lecture: Metaphorical language and Genre: Discussing empirical evidence from academic discourse, Leiden Institute of Advanced Computer Sciences, Leiden University, ‘Natuurwetenschappen voor niet-bètastudenten’, 05/2010
 
-# Supervision of Graduate Students
+
+### Supervision of Graduate Students
 
 Since 11/2018  	Associate postdoc member of the Herman-Paul-School Graduate of Linguistics (Freiburg i. Br, D/Basel, CH). Supervision of PhD candidates 
 
@@ -132,13 +140,14 @@ _MA Theses_
 6) G. Rotari: Kafka’s style. A Quantitative Analysis. Zweitbetreuerin. 
 
 
-# Department of Language and Communication, VU University Amsterdam, NL
+### Department of Language and Communication, VU University Amsterdam, NL
 
 2009 BA-Thesis I. Kremer: Metaphorical compounds in Youth Language, Erstbetreuerin
 
 2009 MA-Thesis V. Vasilasky: American versus British English hedging in popular scientific magazines: An empirical study, Zweitbetreuerin.
 
-# Publications with direct reference to higher education teaching
+
+### Publications with direct reference to higher education teaching
 
 2013 	Herrmann, J. B. (2013). Computergestützte Textanalyse. Formen, Muster und Vergleiche. Workshop im Symposium Deutschdidaktik – Nachwuchsnetzwerk "Schreiben - Erheben - Fördern", Göttingen University
 
@@ -147,4 +156,3 @@ _MA Theses_
 2012	Herrmann, J. B. (2012). Doing Digital Text Analysis with “literary” students. A clash of cultures or new beginnings? Digital Text Analysis Working Group, Göttingen Centre for Digital Humanities (GCDH)
 
 2012 	Was ist eigentlich Literatur? Und wie kann man sie wissenschaftlich erforschen? Eine Einführung in die Neuere Deutsche Literaturwissenschaft. Schülerinformationstage Universität Göttingen
-

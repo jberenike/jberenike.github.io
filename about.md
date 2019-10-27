@@ -1,21 +1,20 @@
 ---
 layout: default
-title: j. berenike herrmann
+title: j. berenike herrmann | about
 ---
 
 
-# About
+## About
 	
-Welcome to my webpage! I am PI of the Basel SNF-Digital Lives Project [Forschungslogiken in den texbasierten DH nach dem Machine Learning Turn](http://www.forschungslogiken.net/en/) 
-as well as Management Committee member of the [COST Action Distant Reading for European Literary History](https://www.distant-reading.net/)
-and the current chair of the [ADHO Special Interest Group "Digital Literary Stylistics"](https://dls.hypotheses.org).
+Welcome to my webpage! I am PI of the Basel SNF-Digital Lives Project "[Forschungslogiken](http://www.forschungslogiken.net/en/) in den texbasierten DH nach dem Machine Learning Turn"
+as well as Management Committee member of the [COST Action Distant Reading] (https://www.distant-reading.net/) for European Literary History
+and the current chair of the ADHO Special Interest Group "Digital Literary Stylistics"  [SIG DLS](https://dls.hypotheses.org).
 
 As a Digital Humanist, I strive to understand the potential as well as the constraints of the digital transformation of society and the Humanities. 
-My main field is textual literary DH, with a PhD on metaphor in language, thought and communication from VU University Amsterdam.
+My main field is textual literary DH, with a PhD on metaphor (VU University Amsterdam) for which I received the Prize for Humanities from the Göttingen Academy of Sciences and Humanities [in 2014] (https://adw-goe.de/en/awards/categories/preis-fuer-geisteswissenschaften/preistraeger/).
 
 Currently, I work as a postdoctoral researcher ("Oberassistentin") at the DHLab at the University of Basel (Switzerland).
 
-			
 In my research, I focus on the *digital modeling of literary discourse*. 
 One building block for this research are corpora, digitally representing literary artefacts, 
 that I analyse by means of mixed methods: manual annotation and text mining. 
@@ -24,7 +23,7 @@ writers of the 19th and early 20th Centuries, as well as the representation of "
 I am also keen on finding out more about the effects of reading on well-being.
 
 To this end, next to Corpus Linguistics and Data Science, I draw on Literary Historiography, Discourse Analysis, 
-(Neo) Structuralism, and Cognitive Poetics. One research group where all these perspectives converge is [the IGEL research coalition "Computational Stylistics"](https://sites.google.com/igelassoc.org/computstylistics/home).
+(Neo) Structuralism, and Cognitive Poetics. One research group where all these perspectives converge is the IGEL research coalition ["Computational Stylistics"](https://sites.google.com/igelassoc.org/computstylistics/home).
 			
 My favorite textual features are metaphor, morpho-syntactic complexity, and modality, all approached as "style".
 
@@ -46,6 +45,5 @@ of Göttingen, including a year abroad at Universidad Autónoma de Madrid, I was
 Evolutionary Anthropology Leipzig, Department of Developmental and Comparative Psychology.
 
 
-Keywords: Digital Literary Stylistics, Methodology and Epistemology of Digital Humanities, Comparative Corpus Stylistics, Computational Discourse Analysis, Cultural Heritage, Metaphor Studies, Evaluation and Subjectivity on the Social Web
-Franz Kafka and Robert Musil.
+Keywords: Digital Literary Stylistics, Methodology and Epistemology of Digital Humanities, Comparative Corpus Stylistics, Computational Discourse Analysis, Cultural Heritage, Metaphor Studies, Evaluation and Subjectivity on the Social Web, Franz Kafka and Robert Musil.
 

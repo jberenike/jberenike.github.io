@@ -1,15 +1,16 @@
 ---
 layout: default
-title: j. berenike herrmann
+title: j. berenike herrmann | publications
 ---
 
 
-# Publications
+## Publications
 
-# Contribution to debates
+### Contribution to debates
+
 Herrmann, J. B., Bories, A.-S., Frontini, F., Rebora, S., & Rybicki, J. (2019). Response by the Special Interest Group on Digital Literary Stylistics to Nan Z. Da’s Study. [Journal of Cultural Analytics.](https://culturalanalytics.org/2019/05/response-by-the-special-interest-group-on-digital-literary-stylistics-to-nan-z-das-study)
 
-# Peer-reviewed publications in international journals and peer-reviewed edited volumes
+### Peer-reviewed publications in international journals and peer-reviewed edited volumes
 
 Herrmann, J.B. (in prep.). Kafka’s Worlds as Data: Rediscovering the Skillful Un/Making of Certainty through Computational Analysis. Special Issue of Journal of Cultural Analytics.
 
@@ -28,9 +29,22 @@ Herrmann, J.B. (2017). In a test bed with Kafka. Introducing a mixed-method appr
  Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., and T. Krennmayr (2010). Metaphor in usage. Cognitive Linguistics 21 (4): pp. 765-796.
  
  
-# Peer-reviewed written conference publications
+ ### Books and special issues  
 
-Herrmann, J.B. & Messerli, Th. (in print). Where’s your attention? An empirical assessment of Web 2.0 users’ literary values. In Book of Abstracts International Conference DH 2019, July Utrecht, NL.
+ Herrmann, J.B. (in prep.). Digital Literary Stylistics. Enhanced Humanities. (Manuscript submitted as habilitation at University of Basel).
+
+  Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.)(2016). <a href="https://benjamins.com/#catalog/journals/ssol.6.1/toc" target="_blank">Transdisciplinary Approaches to Literature and Empathy, Special issue of Scientific Study of Literature 6:1.</a> 
+  
+  Herrmann, J.B. & T. Berber Sardinha (Eds.)(2015). <a href="https://benjamins.com/#catalog/books/milcc.4/toc" target="_blank">Metaphor in specialist discourse. Amsterdam: John Benjamins.</a>  
+   
+  Herrmann, J. B. (2013).<a href="http://www.lotpublications.nl/metaphor-in-academic-discourse-metaphor-in-academic-discourse-linguistic-forms-conceptual-structures-communicative-functions-and-cognitive-representations" target="_blank">Metaphor in academic discourse. Linguistic forms, conceptual structures, communicative functions and cognitive representations. Utrecht: LOT dissertation series.</a>
+  
+  Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., and T. Pasma (2010). <a href="https://benjamins.com/#catalog/books/celcr.14/main" target="_blank">A method for linguistic metaphor identification: From MIP to MIPVU. Amsterdam and Philadelphia: John Benjamins.</a> 
+  
+  
+ ### Peer-reviewed written conference publications
+
+Herrmann, J.B. & Messerli, Th. (2019). Where’s your attention? An empirical assessment of Web 2.0 users’ literary values. In Book of Abstracts International Conference DH 2019, July Utrecht, NL.
 
 Herrmann, J.B. (2018). Praktische Tagger-Kritik. Zur Evaluation des PoS-Tagging des Deutschen Textarchivs. In Tagungsband 5. Internationale Tagung “Digital Humanities im deutschsprachigen Raum”, 26 February - 2 March 2018, Cologne, D. 287-290. <a href="http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf" target="blank">abstract</a> 
 
@@ -44,7 +58,8 @@ Herrmann, J.B. & Lauer, G. (2016). Aufbau und Annotation des Kafka/Referenzkorpu
 
 Mattner, C., Herrmann, J.B. & Lauer, G. (2016). Kafkas Stil. Zur Psychostilistik der Tagebücher Kafkas. In Tagungsband 3. Internationale Tagung “Digital Humanities im deutschsprachigen Raum”, Leipzig, D. 158-160. <a href="http://dhd2016.de/boa.pdf" target="_blank">abstract</a> 
 
-# Book chapters
+
+### Book chapters
 
 Herrmann, J. B. (in print). Operationalisierung der Metapher zur quantifizierenden Untersuchung deutschsprachiger literarischer Texte im Übergang von Realismus zur Moderne. In Jannidis, Fotis (Ed.), Tagungsband des DFG-Symposiums „Digitale Literaturwissenschaft”, Villa Vigoni, Berlin: De Gruyter.
 
@@ -60,20 +75,8 @@ Herrmann, J.B. (2015). High on metaphor, low on simile: A cross-register examina
 
 Herrmann, J.B. (2015). Metaphern im akademischen Englisch: Eine kognitiv-korpuslinguistische Studie, in: Jahrbuch der Akademie der Wissenschaften zu Göttingen 2014. Berlin: De Gruyter.
 
-# Books and special issues  
 
-Herrmann, J.B. (in prep.). Digital Literary Stylistics. Enhanced Humanities. (Manuscript submitted as habilitation at University of Basel).
-
- Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.)(2016). <a href="https://benjamins.com/#catalog/journals/ssol.6.1/toc" target="_blank">Transdisciplinary Approaches to Literature and Empathy, Special issue of Scientific Study of Literature 6:1.</a> 
- 
- Herrmann, J.B. & T. Berber Sardinha (Eds.)(2015). <a href="https://benjamins.com/#catalog/books/milcc.4/toc" target="_blank">Metaphor in specialist discourse. Amsterdam: John Benjamins.</a>  
-  
- Herrmann, J. B. (2013).<a href="http://www.lotpublications.nl/metaphor-in-academic-discourse-metaphor-in-academic-discourse-linguistic-forms-conceptual-structures-communicative-functions-and-cognitive-representations" target="_blank">Metaphor in academic discourse. Linguistic forms, conceptual structures, communicative functions and cognitive representations. Utrecht: LOT dissertation series.</a>
- 
- Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., and T. Pasma (2010). <a href="https://benjamins.com/#catalog/books/celcr.14/main" target="_blank">A method for linguistic metaphor identification: From MIP to MIPVU. Amsterdam and Philadelphia: John Benjamins.</a> 
-
-
-# Digital resources  
+### Digital resources  
 
 Herrmann, J.B. & Messerli, Th., LoBo. The LovelyBooks Corpus. A collection of digital lay book reviews (more than 1 Mio. reviews).
  
@@ -90,11 +93,11 @@ Herrmann, J.B., Gabay, S., & S. Rebora. Multi-lingual Swiss novel corpus 1850-19
  Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., and T. Krennmayr (2010). <a href="http://www.ota.ox.ac.uk/headers/2541.xml" target="_blank">VU Amsterdam Metaphor Corpus</a>. Oxford Text Archives. 
 
 
-# Conference talks (selection)
+### Conference talks (selection)
  
-# By cfp
+ #### By cfp
 
-02/2020 Judge a book by its lover: Evaluation and sentiment in online lay book reviews. Tagung der [VALS-ASLA, Neuchâtel, CH] (https://www.unine.ch/colloquevals-asla2020/).
+02/2020 (accepted) Judge a book by its lover: Evaluation and sentiment in online lay book reviews. Tagung der [VALS-ASLA, Neuchâtel, CH] (https://www.unine.ch/colloquevals-asla2020/).
 
 07/2019 Where’s your attention? An empirical assessment of Web 2.0 users’ literary values (with Thomas Messerli), Panel “Digital Humanities for the Study of Social Reading”, International Conference DH2019 Utrecht, NL.
 
@@ -135,7 +138,7 @@ Herrmann, J.B., Gabay, S., & S. Rebora. Multi-lingual Swiss novel corpus 1850-19
 06/2011 Exploring metaphorical language use in academic prose. A cross-register corpus-analysis. International Stylistics Across Disciplines (SAD) Conference, Leiden University, NL. 
 
   
-# Invited talks (selection)  
+  #### Invited talks (selection)  
 
 05/2020 Plenary Lecture “Computational Literary Studies” at [41st International Conference ICAME 2020] (https://icame41.as.uni-heidelberg.de/plenaries/) “Language and Linguistics in a Complex World: Data, Interdisciplinarity, Transfer, and the Next Generation”, Heidelberg, D. 
 
@@ -183,7 +186,7 @@ Herrmann, J.B., Gabay, S., & S. Rebora. Multi-lingual Swiss novel corpus 1850-19
  06/2010  Patterns and functions of metaphorical language in the academic genre: Combining quantitative and qualitative evidence from the British National Corpus. Talk at Pragmatics and Stylistics Research Group (PaSTY), Department of Linguistics and English Language, Lancaster University, UK. 
  
  
-# Posters  
+ #### Posters  
 
 12/2018	Is it all Like!? Studying Research Epistemologies in the Textual Humanities in Case Studies of Sentiment Analysis. (with Daniel Knuchel, Noah Bubenhofer, Thomas Messerli). Digital Futures Network Day. Connecting Research Projects on Digital Traces and Society. EPFL Habitat Research Center, Lausanne, CH.
 
@@ -196,7 +199,7 @@ Herrmann, J.B., Gabay, S., & S. Rebora. Multi-lingual Swiss novel corpus 1850-19
  07/2007  Emancipating metaphor from thought. MIP applied to Lakoff and Johnson (1980). International Cognitive Linguistics Conference (ICLC10), Krakow, Poland. 
  
  
-# Outreach activities
+ ### Outreach activities
 
 Herrmann, J. B., Bories, A.-S., Frontini, F., Rebora, S., & Rybicki, J. (2019). Response by the Special Interest Group on Digital Literary Stylistics to Nan Z. Da’s Study. [Journal of Cultural Analytics.](https://culturalanalytics.org/2019/05/response-by-the-special-interest-group-on-digital-literary-stylistics-to-nan-z-das-study)
 
@@ -215,7 +218,7 @@ Dorothea Schlözer Postdoc Mentoring Program. Feierliche Abschlussveranstaltung 
 11/2013 Finalist Lighting Talk Breaking the wall of Franz Kafka’s paradox. 2013 Falling Walls Lab Finale, 
 Berlin, D.
 
-# General contributions to science
+### General contributions to science
 Review of "Social Characters: The Hierarchy of Gender in Contemporary English-Language Fiction" Eve Kraicer and Andrew Piper (2019)[Journal of Cultural Analytics](https://culturalanalytics.org/2019/01/social-characters-the-hierarchy-of-gender-in-contemporary-english-language-fiction/)
 
 Since 2019 ADHO SIG liaison & SIG representative on ADHO COB (Constituent Organizing Board).
