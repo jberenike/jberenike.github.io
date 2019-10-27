@@ -3,7 +3,7 @@ layout: default
 title: teaching
 ---
 
-[home](index.md) | [about](about.md)  |  [publications](publications.md)
+[home](index.md)   | [publications](publications.md)   |  
 
 
 ## university teaching
