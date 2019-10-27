@@ -2,9 +2,7 @@
 layout: default
 ---
 
-[about](about.md)
-[publications](publications.md)            
-[teaching](teaching.md)
+[about](about.md) [publications](publications.md) [teaching](teaching.md)
 
 ## Digital Stylistics and Cognitive Psychology applied to Literature
 

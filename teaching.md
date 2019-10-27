@@ -3,12 +3,9 @@ layout: default
 title: j. berenike herrmann | teaching
 ---
 
-[back](./)
-
-
 ## University Teaching
 
-!![0902_TextLab_bigbild](./assets/img/0902_TextLab_bigbild.jpg)
+![0902_TextLab_bigbild](./assets/img/0902_TextLab_bigbild.jpg)
 
 
 ### Since 2017 Digital Humanities Lab, Universität Basel
