@@ -6,7 +6,7 @@ title: j. berenike herrmann | teaching
 ## University Teaching
 
 ![0902_TextLab_bigbild](./assets/img/0902_TextLab_bigbild.jpg)
-
+Photo by Andreas Busch, CC-BY-SA
 
 ### Since 2017 Digital Humanities Lab, Universität Basel
 
