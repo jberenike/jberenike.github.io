@@ -128,6 +128,7 @@ G. Rotari: Kafka’s style. A Quantitative Analysis. Zweitbetreuerin (Department
 _BA Theses_
 
 _Department German Philology, Georg-August-Universität Göttingen_
+
 R. Weller: Using NLP word2vec analyses to detect implicit content in right-wing blogs. Erstbetreuerin
 
 N. Foitzik: Digitale Erschließung und Analyse mittelniederdeutscher Texte. Zweitbetreuerin
@@ -155,7 +156,7 @@ K. Engfer: Narrative voice and focalisation in Rilke's Poems on David and Soul, 
 E. Schiffmann: The sensitive protagonist in Chr. F. Gellert's comedy. An analysis of character constellation, Zweitbetreuerin.
 
 
-### Department of Language and Communication, VU University Amsterdam, NL
+_Department of Language and Communication, VU University Amsterdam, NL_
 
 2009 BA-Thesis I. Kremer: Metaphorical compounds in Youth Language, Erstbetreuerin
 
