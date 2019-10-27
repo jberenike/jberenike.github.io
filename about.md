@@ -13,7 +13,7 @@ photo by steve johnson on unsplash
 
 ### Welcome to my webpage!
 
-I am PI of the Basel SNF-Digital Lives Project "[Forschungslogiken](http://www.forschungslogiken.net/en/) in den texbasierten DH nach dem Machine Learning Turn" as well as Management Committee member of the [COST Action Distant Reading](https://www.distant-reading.net/) for European Literary History and the current chair of the ADHO Special Interest Group "Digital Literary Stylistics" [SIG DLS](https://dls.hypotheses.org).
+I am PI of the Basel SNF-Digital Lives Project "[Forschungslogiken](http://www.forschungslogiken.net/en/) in den texbasierten DH nach dem Machine Learning Turn" as well as Management Committee member of the "[COST Action Distant Reading](https://www.distant-reading.net/) for European Literary History" and the current chair of the ADHO Special Interest Group "Digital Literary Stylistics" [SIG DLS](https://dls.hypotheses.org).
 
 **As a Digital Humanist**, I strive to understand the potential as well as the constraints of the digital transformation of society and the Humanities. 
 My main field is textual literary DH, with a PhD on metaphor in discourse (VU University Amsterdam) for which I received the Prize for Humanities from the *Göttingen Academy of Sciences and Humanities* [in 2014](https://adw-goe.de/en/awards/categories/preis-fuer-geisteswissenschaften/preistraeger/).
@@ -21,11 +21,12 @@ Currently, I work as a postdoctoral researcher ("Oberassistentin") at the DHLab 
 
 **In my research**, I focus on the *digital modeling of literary discourse*. To this end, I draw on Corpus Linguistics and Data Science, as well as on Literary Historiography, Discourse Analysis, (Neo) Structuralism, and Cognitive Stylistics. One building block for my research are corpora, digitally representing literary artefacts, that I analyse by means of mixed methods: manual annotation and text mining. I also apply cognitive stylistics and reader response studies.
 
-**My current main research questions** concern
+**My current main research questions** are about
 - valuation of literature by users of social reading platforms
-- emotion representation and ellicitation in literary texts
+- emotion representation and elicitation in literary texts
 - the style of writers of the 19th and early 20th Centuries
-- comparative transnational studies of literatures written in German
+- comparative transnational studies of literatures written in German.
+
 I am also keen on finding out more about the effects of reading on well-being.
 
 
