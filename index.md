@@ -3,10 +3,7 @@ layout: default
 ---
 
 
-```
-[about](about.md) [publications](publications.md) [teaching](teaching.md)[about](about.md) [publications](publications.md) [teaching](teaching.md)
-
-```
+[about](about.md)  |  [publications](publications.md)  |  [teaching](teaching.md)
 
 
 ## Computational and Cognitive Literary Studies
