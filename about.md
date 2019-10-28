@@ -21,7 +21,7 @@ Currently, I work as a postdoctoral researcher ("Oberassistentin") at the DHLab 
 
 **In my research**, I focus on the *digital modeling of literary discourse*. To this end, I draw on Corpus Linguistics and Data Science, as well as on Literary Historiography, Discourse Analysis, (Neo) Structuralism, and Cognitive Stylistics. One building block for my research are corpora, digitally representing literary artefacts, that I analyse by means of mixed methods: manual annotation and text mining. I also apply cognitive stylistics and reader response studies.
 
-**My current main research questions** are about
+**My current main research questions**
 - valuation of literature by users of social reading platforms
 - emotion representation and elicitation in literary texts
 - the style of writers of the 19th and early 20th Centuries
@@ -32,7 +32,7 @@ I am also keen on finding out more about the effects of reading on well-being.
 
 **My favorite textual features** are metaphor, morpho-syntactic complexity, and modality --- approached as "style".
 
-**With regard to style**, that I operationalize as "an ensemble of features" (Herrmann, Schöch, Oskam-van Dalen, 2015) I investigate how holistic descriptions and assessments of literary writing (e.g., *opaque, transparent*, or *vivid*, see Herrmann, 2018a) may be measured by formal discourse features, such as word frequency (Herrmann, 2017), sentence complexity (by readability formula, Herrmann, in print), and part of speech (Herrmann, 2018a), but also metaphor (Herrmann, 2018b, in print; Herrmann, Dorst & Woll, in print) and narrative perspective (Herrmann, Mattner & Lauer, in preparation).  With my colleagues at the SNSF project "Forschungslogiken" we are currently working on describing the style of (e)valuation ("(Be-)Wertung") of books and cooking recipes on the web.
+**With regard to style**, that I operationalize as "an ensemble of features" (Herrmann, van Dalen-Oskam, Schöch, 2015) I investigate how holistic descriptions and assessments of literary writing (e.g., *opaque, transparent*, or *vivid*, see Herrmann, 2018a) may be measured by formal discourse features, such as word frequency (Herrmann, 2017), sentence complexity (by readability formula, Herrmann, in print), and part of speech (Herrmann, 2018a), but also metaphor (Herrmann, 2018b, in print; Herrmann, Woll & Dorst, in print) and narrative perspective (Herrmann, Mattner & Lauer, in preparation).  With my colleagues at the SNSF project "Forschungslogiken" we are currently working on describing the style of (e)valuation ("(Be-)Wertung") of books and cooking recipes on the web.
 
 **My favorite literary epochs** (the term with fuzzy edges) are Realism and Modernism, specifically the transition from one to the other. I have been PI of the [corpus project "KOLIMO"](https://kolimo.uni-goettingen.de/index.html), building a representative comparative corpus of literary Modernism in German, rendered in XML (eXist). 
 
