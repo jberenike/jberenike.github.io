@@ -36,7 +36,9 @@ I am also keen on finding out more about the effects of reading on well-being.
 
 **My favorite literary epochs** (the term with fuzzy edges) are Realism and Modernism, specifically the transition from one to the other. I have been PI of the [corpus project "KOLIMO"](https://kolimo.uni-goettingen.de/index.html), building a representative comparative corpus of literary Modernism in German, rendered in XML (eXist). 
 
-**In my coding and statistics** I run most analyses in R, and dabble with python.
+**In coding, textmining, and statistics** I run most analyses in R, and dabble with python and CWB.
+
+**Membership in acdemic societies** I am a member of European Association for Digital Humanities (EADH)¸ Alliance of Digital Humanities Organizations (ADHO); Digital Humanities im deutschsprachigen Raum (DHd); International Society for the Empirical Study of Literature & Media (IGEL); Deutscher Hochschulverband (DHV); Deutsche Gesellschaft für Sprachwissenschaft (DGfS), Sektion Computerlinguistik (CL); German Society for Cognitive Linguistics (DGKL). I am also an associate postdoc member of the Herman-Paul-School Graduate of Linguistics Freiburg i. Br., D/Basel, CH) and of the Göttingen Centre for Digital Humanities (GCDH).
 
 **Before moving to Basel**, I was a postdoc (‘wissenschaftliche Mitarbeiterin’) at the Department of German Philology at Göttingen University, and postdoctoral member of the Courant Centre ‘Text structures’ and the Göttingen Centre 
 for Digital Humanities (GCDH). Before that I was a PhD candidate at the prequel of the [Amsterdam Metaphor Lab](http://metaphorlab.org/). After I obtained my MA (German Language and Literature, Sociology, and Spanish Language and Literature) at the University of Göttingen, including a year abroad at Universidad Autónoma de Madrid, I was a trainee at the Max-Planck-Institute for Evolutionary Anthropology Leipzig, Department of Developmental and Comparative Psychology.
