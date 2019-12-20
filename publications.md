@@ -112,9 +112,9 @@ Herrmann, J. B., Bories, A.-S., Frontini, F., Rebora, S., & Rybicki, J. (2019). 
 
 **general contributions to science**
 
-J. Berenike Herrman (2019). Annotating Narrative Levels: Review of Guideline No. 4 [Journal of Cultural Analytics](https://culturalanalytics.org/2019/09/annotating-narrative-levels-review-of-guideline-no-4/). December 3, 2019. doi: 10.22148/16.057 
+Herrman, J. Berenike (2019). Annotating Narrative Levels: Review of Guideline No. 4 [Journal of Cultural Analytics](https://culturalanalytics.org/2019/09/annotating-narrative-levels-review-of-guideline-no-4/). December 3, 2019. doi: 10.22148/16.057 
 
-J. Berenike Herrmann (2019). Review of "Social Characters: The Hierarchy of Gender in Contemporary English-Language Fiction" by Eve Kraicer and Andrew Piper (2019), [Journal of Cultural Analytics](https://culturalanalytics.org/2019/01/social-characters-the-hierarchy-of-gender-in-contemporary-english-language-fiction/).
+Herrman, J. Berenike (2019). Review of "Social Characters: The Hierarchy of Gender in Contemporary English-Language Fiction" by Eve Kraicer and Andrew Piper (2019), [Journal of Cultural Analytics](https://culturalanalytics.org/2019/01/social-characters-the-hierarchy-of-gender-in-contemporary-english-language-fiction/).
 
 Since 2019 ADHO SIG liaison & SIG representative on ADHO COB (Constituent Organizing Board).
 
