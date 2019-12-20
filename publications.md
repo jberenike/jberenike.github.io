@@ -21,9 +21,9 @@ Herrmann, J. B., Bories, A.-S., Frontini, F., Rebora, S., & Rybicki, J. (2019). 
 
 Herrmann, J.B. (in prep.). Kafka’s Worlds as Data: Rediscovering the Skillful Un/Making of Certainty through Computational Analysis. Special Issue of Journal of Cultural Analytics.
 
-Herrmann, J.B., Piper, A. & A. Jacobs (in prep.). Computational Stylistics, in: D. Kuiken, & A. Jacobs (Eds.). Handbook of Empirical Literary Studies. Berlin: De Gruyter.
+Herrmann, J.B., Piper, A. & A. Jacobs (submitted). Computational Stylistics, in: D. Kuiken, & A. Jacobs (Eds.). Handbook of Empirical Literary Studies. Berlin: De Gruyter.
 
-Herrmann, J.B., Woll, K., & A.G. Dorst (in print). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Hg.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.
+Herrmann, J.B., Woll, K., & A.G. Dorst (2019). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Hg.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.
 
 Rebora, S., Herrmann, J.B., Lauer, G., & M. Salgaro (2019). Robert Musil, a War Journal, and Stylometry: Tackling the Issue of Short Texts in Authorship Attribution. [Digital Scholarship in the Humanities](https://doi.org/10.1093/llc/fqy055).
 
@@ -110,7 +110,9 @@ Herrmann, J. B., Bories, A.-S., Frontini, F., Rebora, S., & Rybicki, J. (2019). 
 
 **general contributions to science**
 
-Review of "Social Characters: The Hierarchy of Gender in Contemporary English-Language Fiction" by Eve Kraicer and Andrew Piper (2019), [Journal of Cultural Analytics](https://culturalanalytics.org/2019/01/social-characters-the-hierarchy-of-gender-in-contemporary-english-language-fiction/).
+J. Berenike Herrman (2019). Annotating Narrative Levels: Review of Guideline No. 4 (Journal of Cultural Analytics)[https://culturalanalytics.org/2019/09/annotating-narrative-levels-review-of-guideline-no-4/]. December 3, 2019. doi: 10.22148/16.057 
+
+J. Berenike Herrmann (2019). Review of "Social Characters: The Hierarchy of Gender in Contemporary English-Language Fiction" by Eve Kraicer and Andrew Piper (2019), [Journal of Cultural Analytics](https://culturalanalytics.org/2019/01/social-characters-the-hierarchy-of-gender-in-contemporary-english-language-fiction/).
 
 Since 2019 ADHO SIG liaison & SIG representative on ADHO COB (Constituent Organizing Board).
 
@@ -120,7 +122,7 @@ Session chair at various international conferences within Digital Humanities, Em
 
 2012-2016 Founding member and organizer [Postdoc-Plattform Göttinger Philologisches Forum (GpF)](https://www.uni-goettingen.de/de/351956.html) (with Kai Sina and Peer Trilcke). 
 
-07/2015 Introduction: Literature and empathy, empirically. Mapping a transdisciplinary approach. International Symposium „Literature and Empathy”, Göttingen Centre for Advanced Studies (Lichtenberg Kolleg), Göttingen, D.
+J. Berenike Herrmann (2015). Introduction: Literature and empathy, empirically. Mapping a transdisciplinary approach. International Symposium „Literature and Empathy”, Göttingen Centre for Advanced Studies (Lichtenberg Kolleg), Göttingen, D.
 
 Sopcak, P., Salgaro, M. & Herrmann, J.B. (2016). Introduction to transdisciplinary approaches to literature and empathy, in: Sopcak, P., Salgaro, M. & J.B. Herrmann (Eds.), Transdisciplinary Approaches to Literature and Empathy, Special Issue of Scientific Study of Literature 6(1): 2-5.
 
