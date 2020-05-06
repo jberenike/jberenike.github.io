@@ -33,11 +33,11 @@ Rebora, S., Herrmann, J.B., Lauer, G., & M. Salgaro (2019). Robert Musil, a War 
 
 Herrmann, J.B. & Lauer, G. (2018). Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne, in: Osnabrücker Beiträge zur Sprachtheorie (OBST), 92.
 
-Herrmann, J.B. (2017). In a test bed with Kafka. Introducing a Mixed-method Approach to Digital Stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M., & J. van Zundert (Eds.) Special Issue DHBenelux 2015, [Digital Humanities Quarterly, 11, 4](https://doi.org/10.1093/llc/fqy055).
+Herrmann, J.B. (2017). In a test bed with Kafka. Introducing a Mixed-method Approach to Digital Stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M., & J. van Zundert (Eds.) Special Issue DHBenelux 2015, [Digital Humanities Quarterly, 11, 4](http://digitalhumanities.org:8081/dhq/vol/11/4/000341/000341.html).
  
-Herrmann, J.B., van Dalen-Oskam, K. & C. Schöch (2015). Revisiting Style, a Key Concept in Literary Studies, in: Journal of Literary Theory 9(1), pp. 52-52.
+Herrmann, J.B., van Dalen-Oskam, K. & C. Schöch (2015). Revisiting Style, a Key Concept in Literary Studies, in: [Journal of Literary Theory 9(1), pp. 52-52.](http://dx.doi.org/10.1515/jlt-2015-0003)
  
-Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., & T. Krennmayr (2010). Metaphor in Usag, in: Cognitive Linguistics 21 (4): pp. 765-796.
+Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., & T. Krennmayr (2010). Metaphor in Usage, in: [Cognitive Linguistics 21 (4): pp. 765-796.](https://www.degruyter.com/view/journals/cogl/21/4/article-p765.xml?rskey=ThE4yr&result=1)
  
  
 ### books 
