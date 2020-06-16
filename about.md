@@ -13,7 +13,7 @@ photo by steve johnson on unsplash
 
 ### Welcome to my webpage!
 
-I am PI of the Basel SNF-Digital Lives Project "[Forschungslogiken](http://www.forschungslogiken.net/en/) in den texbasierten DH nach dem Machine Learning Turn" as well as Management Committee member of the "[COST Action Distant Reading](https://www.distant-reading.net/) for European Literary History" and the current chair of the ADHO Special Interest Group "Digital Literary Stylistics" [SIG DLS](https://dls.hypotheses.org).
+I am PI of two Basel-based projects funded by the SNSF: The SNSF-Digital Lives Project "[Forschungslogiken](http://www.forschungslogiken.net/en/) in den texbasierten DH nach dem Machine Learning Turn" and the new project "[Distant Reading Topographies of Sentiment]"(https://mountain-sentiment.github.io/). I am also Management Committee member of the "[COST Action Distant Reading](https://www.distant-reading.net/) for European Literary History" and the current chair of the ADHO Special Interest Group "Digital Literary Stylistics" [SIG DLS](https://dls.hypotheses.org).
 
 **As a Digital Humanist**, I strive to understand the potential as well as the constraints of the digital transformation of society and the Humanities. 
 My main field is textual literary DH, with a PhD on metaphor in discourse (VU University Amsterdam) for which I received the Prize for Humanities from the *Göttingen Academy of Sciences and Humanities* [in 2014](https://adw-goe.de/en/awards/categories/preis-fuer-geisteswissenschaften/preistraeger/).
