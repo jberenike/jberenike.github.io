@@ -67,7 +67,7 @@ photo by carlos arthur m.r on unsplash
  
 **refereed contributions to conferences and workshops**
 
-02/2020 (accepted) Judge a book by its lover: Evaluation and sentiment in online lay book reviews. Tagung der [VALS-ASLA, Neuchâtel, CH](https://www.unine.ch/colloquevals-asla2020/).
+02/2020 Judge a book by its lover: Evaluation and sentiment in online lay book reviews (with Thomas Messerli), Tagung der [VALS-ASLA, Neuchâtel, CH](https://www.unine.ch/colloquevals-asla2020/).
 
 07/2019 Where’s your attention? An empirical assessment of Web 2.0 users’ literary values (with Thomas Messerli), Panel “Digital Humanities for the Study of Social Reading”, International Conference DH2019 Utrecht, NL.
 
