@@ -21,11 +21,13 @@ Herrman, J. B. (2019). Annotating Narrative Levels: Review of Guideline No. 4 [J
 
 ### refereed publications in international journals & edited volumes
 
-Rebora, S., Boot, P., Pianzola, F., Gasser., B., Herrmann, J. B., Kraxenberger, M., Kuijpers, M., Lauer, G. Lendvai, P., Messerli, Th. C., & Sorrentino, P. (submitted). Digital Humanities and Digital Social Reading. Submitted to Digital Scholarship in the Humanities. [Preprint](https://osf.io/mf4nj/).
-
-Herrmann, J.B., Piper, A. & A. Jacobs (submitted). Computational Stylistics, in: D. Kuiken, & A. Jacobs (Eds.). Handbook of Empirical Literary Studies. Berlin: De Gruyter.
-
 Herrmann, J.B. (in prep.). Kafka’s Worlds as Data: Rediscovering the Skillful Un/Making of Certainty through Computational Analysis. Special Issue of Journal of Cultural Analytics.
+
+Jacobs, A. M., Herrmann, J. B.,Lauer, G., Lüdtke, J., & Schroeder, S. (accepted). Sentiment Analysis of Children and Youth Literature: Is there a Pollyanna effect? Frontiers in Psychology (Language Sciences).
+
+Herrmann, J.B., Piper, A. & A. Jacobs (accepted). Computational Stylistics, in: D. Kuiken, & A. Jacobs (Eds.). Handbook of Empirical Literary Studies. Berlin: De Gruyter.
+
+Rebora, S., Boot, P., Pianzola, F., Gasser., B., Herrmann, J. B., Kraxenberger, M., Kuijpers, M., Lauer, G. Lendvai, P., Messerli, Th. C., & Sorrentino, P. (submitted). Digital Humanities and Digital Social Reading. Submitted to Digital Scholarship in the Humanities. [Preprint](https://osf.io/mf4nj/).
 
 Herrmann, J.B., Woll, K., & A.G. Dorst (2019). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Hg.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.
 
