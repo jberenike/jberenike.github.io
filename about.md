@@ -13,18 +13,18 @@ photo by steve johnson on unsplash
 
 ### Welcome to my webpage!
 
-I am PI of two Basel-based projects funded by the SNSF: The SNSF-Digital Lives Project [Forschungslogiken in den texbasierten DH nach dem Machine Learning Turn](http://www.forschungslogiken.net/en/) and the new SNSF-COST project [Distant Reading Topographies of Sentiment](https://mountain-sentiment.github.io/). I am also Management Committee member of the "[COST Action Distant Reading](https://www.distant-reading.net/) for European Literary History" and the current chair of the ADHO Special Interest Group "Digital Literary Stylistics" [SIG DLS](https://dls.hypotheses.org).
+I am currently (guest) professor of Digital Humanities at the Excellence Cluster ["Temporal Communities"](https://www.temporal-communities.de/) at FU Berlin. My research is mostly conducted as PI of two Basel-based projects, both funded by the SNSF: The SNSF-Digital Lives Project [Forschungslogiken in den texbasierten DH nach dem Machine Learning Turn](http://www.forschungslogiken.net/en/) and the new SNSF-COST project [Distant Reading Topographies of Sentiment](https://mountain-sentiment.github.io/). My offices include being a Management Committee member of the "[COST Action Distant Reading](https://www.distant-reading.net/) for European Literary History", the current chair of the ADHO Special Interest Group "Digital Literary Stylistics" [SIG DLS](https://dls.hypotheses.org) and SIG Liaison at [ADHO's COB](https://adho.org/administration/steering).
 
 **As a Digital Humanist**, I strive to understand the potential as well as the constraints of the digital transformation of society and the Humanities. 
 My main field is textual literary DH, with a PhD on metaphor in discourse (VU University Amsterdam) for which I received the Prize for Humanities from the *Göttingen Academy of Sciences and Humanities* [in 2014](https://adw-goe.de/en/awards/categories/preis-fuer-geisteswissenschaften/preistraeger/).
-Currently, I work as a postdoctoral researcher ("Oberassistentin") at the DHLab at the University of Basel (Switzerland).
+From 2017 on, I have been a postdoc research associate ("Oberassistentin") at the DHLab at the University of Basel (Switzerland), and before that I was postdoc research associate ("wiss. Mitarbeiterin") at the Seminar für Deutsche Philologie at University of Göttingen (Germany).
 
-**In my research**, I focus on the *digital modeling of literary discourse*. To this end, I draw on Corpus Linguistics and Data Science, as well as on Literary Historiography, Discourse Analysis, (Neo) Structuralism, and Cognitive Stylistics. One building block for my research are corpora, digitally representing literary artefacts, that I analyse by means of mixed methods: manual annotation and text mining. I also apply cognitive stylistics and reader response studies.
+**In my research**, I focus on the *digital modeling of literary discourse*. To this end, I draw on methods from Corpus Linguistics and Data Science, as well as on models from Literary Historiography, Discourse Analysis, (Neo) Structuralism, and Cognitive Stylistics. One building block for my research are corpora, digitally representing literary artefacts, that I analyse by means of mixed methods: manual annotation and text mining. I also apply cognitive stylistics and reader response studies.
 
 **My current main research questions**
-- valuation of literature by users of social reading platforms
-- emotion representation and elicitation in literary texts
-- the style of writers of the 19th and early 20th Centuries
+- practices of literary evaluation by users of social reading platforms
+- emotion representation in literary texts (with a focus on Swiss-German)
+- the style of writers of the 19th and early 20th Centuries ('Realism' and 'Modernism')
 - comparative transnational studies of literatures written in German.
 
 I am also keen on finding out more about the effects of reading on well-being.
