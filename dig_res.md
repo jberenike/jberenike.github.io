@@ -6,7 +6,7 @@ title: digital resources
 [about](about.md)  |  [publications](publications.md)  |  [lectures & talks](lectures_talks.md)  |  [teaching](teaching.md)  | [digital resources](dig_res.md)
 
 
-### digital resources
+### corpora
 
 Herrmann, J.B. & Lauer, G. KOLIMO. Korpus der Literarischen Moderne (beta) ("Corpus Literary Modernism"). (more info below)
 
@@ -15,12 +15,15 @@ Messerli, Th., Rothenhäusler, K., Rebora, S. & J.B. Herrmann. LoBo. The LovelyB
 Herrmann, J.B., Gabay, S., & S. Rebora. Multi-lingual Swiss novel corpus 1850-1920, Part of ELTeC (COST Action «Distant Reading for European Literary History», CA16204). 
 
 Herrmann, J.B. (2016). EAK. [Erzählanfangskorpus](https://github.com/jberenike/EAK). Corpus of Beginning Sections of Literary Fiction. Manually coded for metaphor.
+
+Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., and T. Krennmayr (2010). [VU Amsterdam Metaphor Corpus](http://www.ota.ox.ac.uk/headers/2541.xml). Oxford Text Archives. 
+
+
+### blogs and wikis
  
 Herrmann, J.B., Bageritz, I., Hannemann, L., Heimann, P., Kleinschmidt, L., Mattner, C., Roth-Kleyer, G., Weller, R. (2016). [KEXI.](https://capsgoe.wordpress.com) Korpus Expressives und Interpersonales Schreiben. (Expressive & Interpersonal Writing Corpus).
 
 Herrmann, J.B. (Ed.) (2012). [Literatur rechnen](http://litre.uni-goettingen.de/) ('Computing Literature'). Ein Wiki zur digitalen Textanalyse. ('A digital text analysis wiki').
-
-Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., and T. Krennmayr (2010). [VU Amsterdam Metaphor Corpus](http://www.ota.ox.ac.uk/headers/2541.xml). Oxford Text Archives. 
 
 
 #### KOLIMO
