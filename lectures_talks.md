@@ -3,7 +3,7 @@ layout: default
 title: lectures & talks
 ---
 
-[about](about.md)  |  [publications](publications.md)  |  [lectures & talks](lectures_talks.md)  |  [teaching](teaching.md) | [digital resources](dig_res.md)
+[about](about.html)  |  [publications](publications.html)  |  [lectures & talks](lectures_talks.html)  |  [teaching](teaching.html) | [digital resources](dig_res.html)
 
 
 ## lectures & talks
