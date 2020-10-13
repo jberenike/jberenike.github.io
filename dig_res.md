@@ -6,7 +6,7 @@ title: digital resources
 [about](about.md)  |  [publications](publications.md)  |  [lectures & talks](lectures_talks.md)  |  [teaching](teaching.md)  | [digital resources](dig_res.md)
 
 
-### corpora
+### digital resources
 
 Herrmann, J.B. & Lauer, G. KOLIMO. Korpus der Literarischen Moderne (beta) ("Corpus Literary Modernism"). (more info below)
 
