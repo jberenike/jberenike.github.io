@@ -3,7 +3,7 @@ layout: default
 title: publications
 ---
 
-[about](about.md)  |  [publications](publications.md)  |  [lectures & talks](lectures_talks.md)  |  [teaching](teaching.md)
+[about](about.md)  |  [publications](publications.md)  |  [lectures & talks](lectures_talks.md)  |  [teaching](teaching.md)  | [digital resources](dig_res.md)
 
 
 ## publications
@@ -90,23 +90,6 @@ Herrmann, J.B. (2015). High on metaphor, low on simile: A cross-register examina
  Herrmann, J.B. & T. Berber Sardinha (2015). Metaphor in specialist discourse: Investigating metaphor use specific and popularized discourse contexts, in: Herrmann, J.B. & T. Berber Sardinha (Eds.), Metaphor in Specialist Discourse (pp. 3-14). Metaphor in Language, Cognition, and Communication, 4. Amsterdam: John Benjamins.
 
 Herrmann, J.B. (2015). Metaphern im akademischen Englisch: Eine kognitiv-korpuslinguistische Studie, in: Jahrbuch der Akademie der Wissenschaften zu Göttingen 2014. Berlin: De Gruyter.
-
-
-### digital resources
-
-Herrmann, J.B. & Messerli, Th., LoBo. The LovelyBooks Corpus. A collection of digital lay book reviews (+1 Mio. reviews).
- 
-Herrmann, J.B., Gabay, S., & S. Rebora. Multi-lingual Swiss novel corpus 1850-1920, Part of ELTeC (COST Action «Distant Reading for European Literary History», CA16204). 
-
-Herrmann, J.B. (2016). EAK. [Erzählanfangskorpus](https://github.com/jberenike/EAK). Corpus of Beginning Sections of Literary Fiction. Manually coded for metaphor.
- 
-Herrmann, J.B. & Lauer, G. [KOLIMO](https://kolimo.uni-goettingen.de/about.html) Korpus der Literarischen Moderne(beta) (Corpus Literary Modernism).
- 
- Herrmann, J.B., Bageritz, I., Hannemann, L., Heimann, P., Kleinschmidt, L., Mattner, C., Roth-Kleyer, G., Weller, R. (2016). [KEXI.](https://capsgoe.wordpress.com) Korpus Expressives und Interpersonales Schreiben. (Expressive & Interpersonal Writing Corpus).
-
-Herrmann, J.B. (Ed.) (2012). [Literatur rechnen](http://litre.uni-goettingen.de/) ('Computing Literature'). Ein Wiki zur digitalen Textanalyse. ('A digital text analysis wiki').
-
-Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., and T. Krennmayr (2010). [VU Amsterdam Metaphor Corpus](http://www.ota.ox.ac.uk/headers/2541.xml). Oxford Text Archives. 
 
  
 **outreach activities**
