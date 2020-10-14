@@ -8,7 +8,7 @@ title: digital resources
 
 ### digital resources
 
-Herrmann, J.B. & Lauer, G. KOLIMO. Korpus der Literarischen Moderne (beta) ("Corpus Literary Modernism"). (more info below)
+Herrmann, J.B. & Lauer, G. KOLIMO. Korpus der Literarischen Moderne (beta) ("Corpus Literary Modernism"). (more info below*)
 
 Messerli, Th., Rothenhäusler, K., Rebora, S. & J.B. Herrmann. LoBo. The LovelyBooks Corpus. A collection of digital lay book reviews (+1 Mio. reviews).
  
@@ -26,10 +26,8 @@ Herrmann, J.B., Bageritz, I., Hannemann, L., Heimann, P., Kleinschmidt, L., Matt
 Herrmann, J.B. (Ed.) (2012). [Literatur rechnen](http://litre.uni-goettingen.de/) ('Computing Literature'). Ein Wiki zur digitalen Textanalyse. ('A digital text analysis wiki').
 
 
-#### KOLIMO
-
-#### News
-The eXistdb-corpus resource "KOLIMO" was built at the University of Göttingen 2015-2017, and currently is being overhauled for re-launch. See below our "about" from the [former website](https://kolimo.uni-goettingen.de/about.html) at the U of Göttingen which is now discontinued.
+## * kolimo
+The eXistdb-corpus "KOLIMO" is currently being overhauled for re-launch. It was built at the University of Göttingen 2015-2017. What follows below below is the archived "about section" from the former website at https://kolimo.uni-goettingen.de/about.html .
 
 #### The acronym KOLIMO
 ... stands for "Corpus of Literary Modernism". More precisely, KOLIMO is a digital comparative corpus of German narrative literary Modernism. We've made the corpus for our own style analysis, but since we're convinced that such a resource should be shared with the research community, the corpus compilation has been carried out with publication in mind. However, do note that KOLIMO is NOT a "corpus tool". The web interface allows researchers to run queries, but not conduct analysis proper. We're preparing a download option on a web site.
