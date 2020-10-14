@@ -3,7 +3,7 @@ layout: default
 title: teaching
 ---
 
-[about](about.html)  |  [publications](publications.html)  |  [lectures & talks](lectures_talks.html)  |  [teaching](teaching.html)
+[about](about.md)  |  [publications](publications.md)  |  [lectures & talks](lectures_talks.md)  |  [teaching](teaching.md)
 
 ## university teaching
 
