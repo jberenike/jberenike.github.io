@@ -10,7 +10,6 @@ title: teaching
 ![0902_TextLab_bigbild](./assets/img/0902_TextLab_bigbild.jpg)
 photo by andreas busch, CC-BY-SA
 
-#
 
 ### Institut für Deutsche und Niederländische Philologie, FU Berlin
 
