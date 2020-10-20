@@ -10,7 +10,19 @@ title: teaching
 ![0902_TextLab_bigbild](./assets/img/0902_TextLab_bigbild.jpg)
 photo by andreas busch, CC-BY-SA
 
+#
+
+### Institut für Deutsche und Niederländische Philologie, FU Berlin
+
+_Winter Term 2020/21_
+
+Guest professorship «Digital Humanities» at EXC 2020 Temporal Communities, FU Berlin. [see courses in FU Berlin course registry](https://www.fu-berlin.de/vv/de/search?utf8=%E2%9C%93&query=Herrmann+Berenike&query_option=1&sm=580670&commit=Suchen)
+
 ### Digital Humanities Lab, Universität Basel
+
+_Summer Term 2020 (Zwischensemester)_
+
+«R for Textual Data. An Intensive Graduate Training on Using R for Data Modeling, Managing, and Analysis», Graduate School Herman-Paul-School of Linguistics Basel-Freiburg. [see event](https://www.hpsl-linguistics.org/events/r-for-textual-data-modeling-managing-and-analysis-specific-aspects-of-r-for-text-analysis-methodenworkshop/) (with Moniek Kuijpers)
 
 _Spring Term 2020_
 
@@ -22,7 +34,7 @@ _Autumn Term 2019_
 
 Seminar 55668-01 – «Korpusanalyse von Sprache und Kontext. Eine Einführung in Grundlagen und digitale Werkzeuge»
 
-Training school – «Distant Reading. Tools and Methods», Programme doctoral en études numériques der Universitäten Lausanne, Neuchâtel, Basel [homepage](https://www.unil.ch/doc-digitalstudies/home/menuinst/activites-du-programme/distant-reading-tools-and-methods.html) (with Simon Gabay, Simone Rebora and Elias Kreyenbühl)
+Training school – «Distant Reading. Tools and Methods», Programme doctoral en études numériques der Universitäten Lausanne, Neuchâtel, Basel [see event](https://www.unil.ch/doc-digitalstudies/home/menuinst/activites-du-programme/distant-reading-tools-and-methods.html) (with Simon Gabay, Simone Rebora and Elias Kreyenbühl)
 
 Seminar 55240-01 – «Trends in den computergestützten und experimentellen Geisteswissenschaften» (with Gerhard Lauer)
 
