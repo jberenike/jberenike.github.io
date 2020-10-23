@@ -13,18 +13,11 @@ title: publications
 photo by kimberly farmer on unsplash
 
 
-### contribution to current debates and developments
-
-Herrmann, J. B., Bories, A.-S., Frontini, F., Rebora, S., & Rybicki, J. (2019). Response by the Special Interest Group on Digital Literary Stylistics to Nan Z. Da’s Study. In [Journal of Cultural Analytics](https://culturalanalytics.org/2019/05/response-by-the-special-interest-group-on-digital-literary-stylistics-to-nan-z-das-study).
-
-Herrman, J. B. (2019). Annotating Narrative Levels: Review of Guideline No. 4 [Journal of Cultural Analytics](https://culturalanalytics.org/2019/09/annotating-narrative-levels-review-of-guideline-no-4/). December 3, 2019. doi: 10.22148/16.057 
-
-
 ### refereed publications in international journals & edited volumes
 
 Herrmann, J.B. (in prep.). Kafka’s Worlds as Data: Rediscovering the Skillful Un/Making of Certainty through Computational Analysis. Special Issue of Journal of Cultural Analytics.
 
-Jacobs, A. M., Herrmann, J. B., Lauer, G., Lüdtke, J., & Schroeder, S. (accepted). Sentiment Analysis of Children and Youth Literature: Is there a Pollyanna effect? Frontiers in Psychology (Language Sciences).
+Jacobs, A. M., Herrmann, B., Lauer, G., Lüdtke, J., & Schroeder, S. (2020). Sentiment Analysis of Children and Youth Literature: Is There a Pollyanna Effect? Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.574746
 
 Herrmann, J.B., Piper, A. & Jacobs, A.M. (accepted). Computational Stylistics, in: D. Kuiken, & A. Jacobs (Eds.). Handbook of Empirical Literary Studies. Berlin: De Gruyter.
 
@@ -100,17 +93,9 @@ Herrmann, J. B., Bories, A.-S., Frontini, F., Rebora, S., & Rybicki, J. (2019). 
 
 **general contributions to science**
 
-Herrman, J. Berenike (2019). Annotating Narrative Levels: Review of Guideline No. 4 [Journal of Cultural Analytics](https://culturalanalytics.org/2019/09/annotating-narrative-levels-review-of-guideline-no-4/). December 3, 2019. doi: 10.22148/16.057 
-
 Herrman, J. Berenike (2019). Review of "Social Characters: The Hierarchy of Gender in Contemporary English-Language Fiction" by Eve Kraicer and Andrew Piper (2019), [Journal of Cultural Analytics](https://culturalanalytics.org/2019/01/social-characters-the-hierarchy-of-gender-in-contemporary-english-language-fiction/).
 
-Since 2019 ADHO SIG liaison & SIG representative on ADHO COB (Constituent Organizing Board).
-
-Since 2017 Founding member and current chair of international [Special Interest Group Digital Literary Stylistics (SIG-DLS) ](https://dls.hypotheses.org/) of the Alliance of Digital Humanities Organizations (ADHO). 
-
-Session chair at various international conferences within Digital Humanities, Empirical Studies of Literature, Metaphor Studies, Cognitive Literary Studies, and Stylistics.
-
-2012-2016 Founding member and organizer [Postdoc-Plattform Göttinger Philologisches Forum (GpF)](https://www.uni-goettingen.de/de/351956.html) (with Kai Sina and Peer Trilcke). 
+Herrman, J. Berenike (2019). Annotating Narrative Levels: Review of Guideline No. 4 [Journal of Cultural Analytics](https://culturalanalytics.org/2019/09/annotating-narrative-levels-review-of-guideline-no-4/). December 3, 2019. doi: 10.22148/16.057 
 
 J. Berenike Herrmann (2015). Introduction: Literature and empathy, empirically. Mapping a transdisciplinary approach. International Symposium „Literature and Empathy”, Göttingen Centre for Advanced Studies (Lichtenberg Kolleg), Göttingen, D.
 
