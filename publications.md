@@ -17,7 +17,7 @@ photo by kimberly farmer on unsplash
 
 Herrmann, J.B. (in prep.). Kafka’s Worlds as Data: Rediscovering the Skillful Un/Making of Certainty through Computational Analysis. Special Issue of Journal of Cultural Analytics.
 
-Jacobs, A. M., Herrmann, B., Lauer, G., Lüdtke, J., & Schroeder, S. (2020). Sentiment Analysis of Children and Youth Literature: Is There a Pollyanna Effect? Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.574746
+Jacobs, A. M., Herrmann, B., Lauer, G., Lüdtke, J., & Schroeder, S. (2020). Sentiment Analysis of Children and Youth Literature: Is There a Pollyanna Effect? [Frontiers in Psychology, 11.](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.574746/full) https://doi.org/10.3389/fpsyg.2020.574746 
 
 Herrmann, J.B., Piper, A. & Jacobs, A.M. (accepted). Computational Stylistics, in: D. Kuiken, & A. Jacobs (Eds.). Handbook of Empirical Literary Studies. Berlin: De Gruyter.
 
