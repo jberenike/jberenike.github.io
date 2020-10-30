@@ -54,6 +54,12 @@ Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., & T. Pasma 
   
 ### refereed written conference publications
 
+Herrmann, J. B., Odebrecht, C., Santos, D., Francois, P. (2020). Towards Modeling the European Novel. Introducing ELTeC for Multilingual and Pluricultural Distant Reading. International Conference DH2020, Ottawa, Canada.
+
+Herrmann, J.B. & Messerli, Th. (2020). Metaphors we read by: Finding metaphorical conceptualizations of reading in web 2.0 book reviews. International Conference DH2020, Ottawa, Canada.
+
+Herrmann, J.B. & Messerli, Th. (2020). ...hungere schon nach dem nächsten Band. Eine Untersuchung von Metaphern für Leseerfahrungen in Web 2.0 Literaturrezensionen. 7. Jahrestagung «Digital Humanities im deutschsprachigen Raum» (DhD), Paderborn, D.
+
 Herrmann, J.B. & Messerli, Th. (2019). Where’s your attention? An empirical assessment of Web 2.0 users’ literary values. In Book of Abstracts International Conference DH 2019, July Utrecht, NL.
 
 Herrmann, J.B. (2018). Praktische Tagger-Kritik. Zur Evaluation des PoS-Tagging des Deutschen Textarchivs. In [Tagungsband 5. Internationale Tagung Dhd](http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf) “Digital Humanities im deutschsprachigen Raum”, 26 February - 2 March 2018, Cologne, D., pp. 287-290. 
