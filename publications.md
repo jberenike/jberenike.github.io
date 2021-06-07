@@ -25,7 +25,7 @@ Herrmann, J.B., Piper, A. & Jacobs, A.M. (accepted). Computational Stylistics, i
 
 Rebora, S., Boot, P., Pianzola, F., Gasser., B., Herrmann, J. B., Kraxenberger, M., Kuijpers, M., Lauer, G. Lendvai, P., Messerli, Th. C., & Sorrentino, P. (submitted). Digital Humanities and Digital Social Reading. Submitted to Digital Scholarship in the Humanities. [Preprint](https://osf.io/mf4nj/).
 
-Herrmann, J. B., Grisot, G., Gubser, S., & Kreyenbühl, E. (2021). Ein großer Berg Daten?  Zur bibliothekswissenschaftlichen Dimension des korpusliteraturwissenschaftlichen Digital Humanities-Projekts „High Mountains – Deutschschweizer Erzählliteratur 1880–1930“. 027.7 Zeitschrift Für Bibliothekskultur / Journal for Library Culture, 8(1). [Paper] (https://doi.org/10.21428/1bfadeb6.6e2feff6)
+Herrmann, J. B., Grisot, G., Gubser, S., & Kreyenbühl, E. (2021). Ein großer Berg Daten?  Zur bibliothekswissenschaftlichen Dimension des korpusliteraturwissenschaftlichen Digital Humanities-Projekts „High Mountains – Deutschschweizer Erzählliteratur 1880–1930“. 027.7 Zeitschrift Für Bibliothekskultur / Journal for Library Culture, 8(1). [Paper](https://doi.org/10.21428/1bfadeb6.6e2feff6).
 
 Herrmann, J.B., Woll, K., & A.G. Dorst (2019). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Hg.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.
 
