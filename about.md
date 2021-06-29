@@ -12,7 +12,7 @@ title: about
 photo by steve johnson on unsplash
 
 ### news
-Guest lecture (zoom) ["Wreading auf digitalen Literaturplattformen"](https://github.com/jberenike/jberenike.github.io/blob/master/gastvortrag_kraxenberger) by Maria Kraxenberger 30 June 4:15 PM (!in German). Interested? Drop me a line. 
+Guest lecture (zoom) ["Wreading auf digitalen Literaturplattformen"](https://github.com/jberenike/jberenike.github.io/blob/master/gastvortrag_kraxenberger.md) by Maria Kraxenberger 30 June 4:15 PM (!in German) in my course on literary valuation at Uni Bielefeld. Interested? Drop me a line. 
 
 ### Welcome to my webpage!
 
