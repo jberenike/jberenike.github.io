@@ -2,9 +2,9 @@
 
 Am Mittwoch, den 30.6., 16:15 Uhr findet der Vortrag "Wreading auf digitalen Literaturplattformen" von Dr. Maria Kraxenberger (Stuttgart) als Gastvortrag in meinem Seminar «Literarische Wertung zwischen Lessing und Lovelybooks. Digitale Perspektiven» statt.
  
-(Abstract und Zoom-Link siehe unten).
+(Abstract siehe unten).
  
-Alle Interessierten sind herzlich willkommen. Bei Interesse bitte E-Mail an berenike.herrmann @ uni-bielefeld.de
+Alle Interessierten sind herzlich willkommen. Bei Interesse an zoom-Link bitte E-Mail an berenike.herrmann @ uni-bielefeld.de
  
  
 ## Abstract
