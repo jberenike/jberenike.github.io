@@ -10,6 +10,11 @@ title: teaching
 ![0902_TextLab_bigbild](./assets/img/0902_TextLab_bigbild.jpg)
 photo by andreas busch, CC-BY-SA
 
+### Universität Bielefeld
+
+for current and past courses, see the [course registry](https://ekvv.uni-bielefeld.de/kvv_publ/publ/Lehrende_Veranstaltungen.jsp?personId=262987169)
+
+In summer term 2021, my course on literary valuation hosted a guest lecture (zoom) by Dr. Maria Kraxenberger ["Wreading auf digitalen Literaturplattformen"](https://github.com/jberenike/jberenike.github.io/blob/master/gastvortrag_kraxenberger.md) (30 June 4:15 PM).
 
 ### Institut für Deutsche und Niederländische Philologie, FU Berlin
 
