@@ -12,18 +12,20 @@ title: publications
 ![books](./assets/img/kimberly-farmer-lUaaKCUANVI-unsplash.jpg)
 photo by kimberly farmer on unsplash
 
+### out now!
+
+Herrmann, Berenike (2021). Mind the agent. [Journal of Cultural Analytics](https://culturalanalytics.org/post/1210-mind-the-agent)
+
 
 ### refereed publications in international journals & edited volumes
 
 Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, J. Berenike Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko (accepted). Thresholds to the “Great Unread”: Titling Practices in Eleven ELTeC Collections. Interférences litteraires/literaire interferenties. Special Issue "DH".
 
-Herrmann, J.B. (in prep.). Kafka’s Worlds as Data: Rediscovering the Skillful Un/Making of Certainty through Computational Analysis. Special Issue of Journal of Cultural Analytics.
+Rebora, S., Boot, P., Pianzola, F., Gasser., B., Herrmann, J. B., Kraxenberger, M., Kuijpers, M., Lauer, G. Lendvai, P., Messerli, Th. C., & Sorrentino, P. (submitted). Digital Humanities and Digital Social Reading. Submitted to Digital Scholarship in the Humanities. [preprint](https://osf.io/mf4nj/).
 
 Jacobs, A. M., Herrmann, B., Lauer, G., Lüdtke, J., & Schroeder, S. (2020). Sentiment Analysis of Children and Youth Literature: Is There a Pollyanna Effect? [Frontiers in Psychology, 11.](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.574746/full) https://doi.org/10.3389/fpsyg.2020.574746 
 
-Herrmann, J.B., Piper, A. & Jacobs, A.M. (in print). Computational Stylistics, in: D. Kuiken, & A. Jacobs (Eds.). Handbook of Empirical Literary Studies. Berlin: De Gruyter. [preprint](https://osf.io/x82wu/)
-
-Rebora, S., Boot, P., Pianzola, F., Gasser., B., Herrmann, J. B., Kraxenberger, M., Kuijpers, M., Lauer, G. Lendvai, P., Messerli, Th. C., & Sorrentino, P. (submitted). Digital Humanities and Digital Social Reading. Submitted to Digital Scholarship in the Humanities. [preprint](https://osf.io/mf4nj/).
+Herrmann, J.B., Piper, A. & Jacobs, A.M. (2021). Computational Stylistics, in: D. Kuiken, & A. Jacobs (Eds.). Handbook of Empirical Literary Studies. Berlin: De Gruyter. [preprint](https://osf.io/x82wu/)
 
 Herrmann, J. B., Grisot, G., Gubser, S., & Kreyenbühl, E. (2021). Ein großer Berg Daten?  Zur bibliothekswissenschaftlichen Dimension des korpusliteraturwissenschaftlichen Digital Humanities-Projekts „High Mountains – Deutschschweizer Erzählliteratur 1880–1930“. 027.7 Zeitschrift Für Bibliothekskultur / Journal for Library Culture, 8(1). [paper](https://doi.org/10.21428/1bfadeb6.6e2feff6).
 
