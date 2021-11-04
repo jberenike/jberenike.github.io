@@ -33,7 +33,7 @@ Herrmann, J.B., Woll, K., & A.G. Dorst (2019). Linguistic Metaphor Identificatio
 
 Rebora, S., Herrmann, J.B., Lauer, G., & M. Salgaro (2019). Robert Musil, a War Journal, and Stylometry: Tackling the Issue of Short Texts in Authorship Attribution. [Digital Scholarship in the Humanities](https://doi.org/10.1093/llc/fqy055).
 
-Herrmann, J.B. & Lauer, G. (2018). Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne, in: ![Osnabrücker Beiträge zur Sprachtheorie (OBST), 92.](.docs/Herrmann_Lauer_Korpus.pdf)
+Herrmann, J.B. & Lauer, G. (2018). Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne, in: [Osnabrücker Beiträge zur Sprachtheorie (OBST), 92.](https://pub.uni-bielefeld.de/record/2955632)
 
 Herrmann, J.B. (2017). In a test bed with Kafka. Introducing a Mixed-method Approach to Digital Stylistics, in: Chambers, S., Jones, C., Kestemont, M., Koolen, M., & J. van Zundert (Eds.) Special Issue DHBenelux 2015, [Digital Humanities Quarterly, 11, 4](http://digitalhumanities.org:8081/dhq/vol/11/4/000341/000341.html).
  
