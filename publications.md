@@ -24,7 +24,7 @@ Herrmann, J.B., Piper, A. & Jacobs, A.M. (2021). Computational Stylistics, in: D
 
 Herrmann, J. B., Grisot, G., Gubser, S., & Kreyenbühl, E. (2021). Ein großer Berg Daten?  Zur bibliothekswissenschaftlichen Dimension des korpusliteraturwissenschaftlichen Digital Humanities-Projekts „High Mountains – Deutschschweizer Erzählliteratur 1880–1930“. 027.7 Zeitschrift Für Bibliothekskultur / Journal for Library Culture, 8(1). [paper](https://doi.org/10.21428/1bfadeb6.6e2feff6).
 
-Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, J. Berenike Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko (accepted). Thresholds to the “Great Unread”: Titling Practices in Eleven ELTeC Collections. Interférences litteraires/literaire interferenties. Special Issue "DH".
+Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, J. Berenike Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko (2021). Thresholds to the “Great Unread”: Titling Practices in Eleven ELTeC Collections. Interférences litteraires/literaire interferenties. Special Issue "DH".
 
 
 
