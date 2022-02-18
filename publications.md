@@ -34,9 +34,9 @@ Herrmann, J.B., Piper, A. & Jacobs, A.M. (2021). Computational Stylistics, in: D
 
 Herrmann, J. B., Grisot, G., Gubser, S., & Kreyenbühl, E. (2021). Ein großer Berg Daten?  Zur bibliothekswissenschaftlichen Dimension des korpusliteraturwissenschaftlichen Digital Humanities-Projekts „High Mountains – Deutschschweizer Erzählliteratur 1880–1930“. 027.7 Zeitschrift Für Bibliothekskultur / Journal for Library Culture, 8(1). [paper](https://doi.org/10.21428/1bfadeb6.6e2feff6).
 
-Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, J. Berenike Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko (accepted). Thresholds to the “Great Unread”: Titling Practices in Eleven ELTeC Collections. Interférences litteraires/literaire interferenties. Special Issue "DH".
+Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, J. Berenike Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko (accepted). Thresholds to the “Great Unread”: Titling Practices in Eleven ELTeC Collections. Interférences litteraires/literaire interferenties. Special Issue "DH". [paper] (http://interferenceslitteraires.be/index.php/illi/article/view/1102)
 
-Rebora, S., Boot, P., Pianzola, F., Gasser., B., Herrmann, J. B., Kraxenberger, M., Kuijpers, M., Lauer, G. Lendvai, P., Messerli, Th. C., & Sorrentino, P. (submitted). Digital Humanities and Digital Social Reading. Submitted to Digital Scholarship in the Humanities. [preprint](https://osf.io/mf4nj/).
+Rebora, S., Boot, P., Pianzola, F., Gasser., B., Herrmann, J. B., Kraxenberger, M., Kuijpers, M., Lauer, G. Lendvai, P., Messerli, Th. C., & Sorrentino, P. (2021). Digital Humanities and Digital Social Reading. Submitted to Digital Scholarship in the Humanities. [paper](https://academic.oup.com/dsh/article/36/Supplement_2/ii230/6421802?login=false).
 
 Jacobs, A. M., Herrmann, B., Lauer, G., Lüdtke, J., & Schroeder, S. (2020). Sentiment Analysis of Children and Youth Literature: Is There a Pollyanna Effect? [Frontiers in Psychology, 11.](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.574746/full) https://doi.org/10.3389/fpsyg.2020.574746 
 
