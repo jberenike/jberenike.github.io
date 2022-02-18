@@ -24,25 +24,24 @@ Herrmann, J.B., Piper, A. & Jacobs, A.M. (2021). Computational Stylistics, in: D
 
 Herrmann, J. B., Grisot, G., Gubser, S., & Kreyenbühl, E. (2021). Ein großer Berg Daten?  Zur bibliothekswissenschaftlichen Dimension des korpusliteraturwissenschaftlichen Digital Humanities-Projekts „High Mountains – Deutschschweizer Erzählliteratur 1880–1930“. 027.7 Zeitschrift Für Bibliothekskultur / Journal for Library Culture, 8(1). [paper](https://doi.org/10.21428/1bfadeb6.6e2feff6).
 
-Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, J. Berenike Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko (2021). Thresholds to the “Great Unread”: Titling Practices in Eleven ELTeC Collections. Interférences litteraires/literaire interferenties. Special Issue "DH".
-
+Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, J. Berenike Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko (accepted). Thresholds to the “Great Unread”: Titling Practices in Eleven ELTeC Collections. Interférences litteraires/literaire interferenties. Special Issue "DH". [paper](http://interferenceslitteraires.be/index.php/illi/article/view/1102)
 
 
 ### refereed publications in international journals & edited volumes
 
 Herrmann, J.B., Piper, A. & Jacobs, A.M. (2021). Computational Stylistics, in: D. Kuiken, & A. Jacobs (Eds.). Handbook of Empirical Literary Studies. Berlin: De Gruyter. [preprint](https://osf.io/x82wu/)
 
-Herrmann, J. B., Grisot, G., Gubser, S., & Kreyenbühl, E. (2021). Ein großer Berg Daten?  Zur bibliothekswissenschaftlichen Dimension des korpusliteraturwissenschaftlichen Digital Humanities-Projekts „High Mountains – Deutschschweizer Erzählliteratur 1880–1930“. 027.7 Zeitschrift Für Bibliothekskultur / Journal for Library Culture, 8(1). [paper](https://doi.org/10.21428/1bfadeb6.6e2feff6).
+Herrmann, J. B., Grisot, G., Gubser, S., & Kreyenbühl, E. (2021). Ein großer Berg Daten?  Zur bibliothekswissenschaftlichen Dimension des korpusliteraturwissenschaftlichen Digital Humanities-Projekts „High Mountains – Deutschschweizer Erzählliteratur 1880–1930“. 027.7 Zeitschrift Für Bibliothekskultur / Journal for Library Culture, 8(1). [paper](https://doi.org/10.21428/1bfadeb6.6e2feff6)
 
-Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, J. Berenike Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko (accepted). Thresholds to the “Great Unread”: Titling Practices in Eleven ELTeC Collections. Interférences litteraires/literaire interferenties. Special Issue "DH". [paper] (http://interferenceslitteraires.be/index.php/illi/article/view/1102)
+Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, J. Berenike Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko (accepted). Thresholds to the “Great Unread”: Titling Practices in Eleven ELTeC Collections. Interférences litteraires/literaire interferenties. Special Issue "DH". [paper](http://interferenceslitteraires.be/index.php/illi/article/view/1102)
 
-Rebora, S., Boot, P., Pianzola, F., Gasser., B., Herrmann, J. B., Kraxenberger, M., Kuijpers, M., Lauer, G. Lendvai, P., Messerli, Th. C., & Sorrentino, P. (2021). Digital Humanities and Digital Social Reading. Submitted to Digital Scholarship in the Humanities. [paper](https://academic.oup.com/dsh/article/36/Supplement_2/ii230/6421802?login=false).
+Rebora, S., Boot, P., Pianzola, F., Gasser., B., Herrmann, J. B., Kraxenberger, M., Kuijpers, M., Lauer, G. Lendvai, P., Messerli, Th. C., & Sorrentino, P. (2021). Digital Humanities and Digital Social Reading. Submitted to Digital Scholarship in the Humanities. [paper](https://academic.oup.com/dsh/article/36/Supplement_2/ii230/6421802?login=false)
 
 Jacobs, A. M., Herrmann, B., Lauer, G., Lüdtke, J., & Schroeder, S. (2020). Sentiment Analysis of Children and Youth Literature: Is There a Pollyanna Effect? [Frontiers in Psychology, 11.](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.574746/full) https://doi.org/10.3389/fpsyg.2020.574746 
 
 Herrmann, J.B., Woll, K., & A.G. Dorst (2019). Linguistic Metaphor Identification in German, in: Nacey, S., Dorst, A.G., Krennmayr, T., & W.G. Reijnierse (Hg.). MIPVU in Multiple Languages. Amsterdam: John Benjamins.
 
-Rebora, S., Herrmann, J.B., Lauer, G., & M. Salgaro (2019). Robert Musil, a War Journal, and Stylometry: Tackling the Issue of Short Texts in Authorship Attribution. [Digital Scholarship in the Humanities](https://doi.org/10.1093/llc/fqy055).
+Rebora, S., Herrmann, J.B., Lauer, G., & M. Salgaro (2019). Robert Musil, a War Journal, and Stylometry: Tackling the Issue of Short Texts in Authorship Attribution. [Digital Scholarship in the Humanities](https://doi.org/10.1093/llc/fqy055)
 
 Herrmann, J.B. & Lauer, G. (2018). Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne, in: [Osnabrücker Beiträge zur Sprachtheorie (OBST), 92.](https://pub.uni-bielefeld.de/record/2955632)
 
