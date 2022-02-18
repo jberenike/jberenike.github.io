@@ -24,7 +24,7 @@ Herrmann, J.B., Piper, A. & Jacobs, A.M. (2021). Computational Stylistics, in: D
 
 Herrmann, J. B., Grisot, G., Gubser, S., & Kreyenbühl, E. (2021). Ein großer Berg Daten?  Zur bibliothekswissenschaftlichen Dimension des korpusliteraturwissenschaftlichen Digital Humanities-Projekts „High Mountains – Deutschschweizer Erzählliteratur 1880–1930“. 027.7 Zeitschrift Für Bibliothekskultur / Journal for Library Culture, 8(1). [paper](https://doi.org/10.21428/1bfadeb6.6e2feff6).
 
-Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, J. Berenike Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko (accepted). Thresholds to the “Great Unread”: Titling Practices in Eleven ELTeC Collections. Interférences litteraires/literaire interferenties. Special Issue "DH". [paper](http://interferenceslitteraires.be/index.php/illi/article/view/1102)
+Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, J. Berenike Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko (2021). Thresholds to the “Great Unread”: Titling Practices in Eleven ELTeC Collections. Interférences litteraires/literaire interferenties. Special Issue "DH". [paper](http://interferenceslitteraires.be/index.php/illi/article/view/1102)
 
 
 ### refereed publications in international journals & edited volumes
@@ -33,7 +33,7 @@ Herrmann, J.B., Piper, A. & Jacobs, A.M. (2021). Computational Stylistics, in: D
 
 Herrmann, J. B., Grisot, G., Gubser, S., & Kreyenbühl, E. (2021). Ein großer Berg Daten?  Zur bibliothekswissenschaftlichen Dimension des korpusliteraturwissenschaftlichen Digital Humanities-Projekts „High Mountains – Deutschschweizer Erzählliteratur 1880–1930“. 027.7 Zeitschrift Für Bibliothekskultur / Journal for Library Culture, 8(1). [paper](https://doi.org/10.21428/1bfadeb6.6e2feff6)
 
-Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, J. Berenike Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko (accepted). Thresholds to the “Great Unread”: Titling Practices in Eleven ELTeC Collections. Interférences litteraires/literaire interferenties. Special Issue "DH". [paper](http://interferenceslitteraires.be/index.php/illi/article/view/1102)
+Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, J. Berenike Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko (2021). Thresholds to the “Great Unread”: Titling Practices in Eleven ELTeC Collections. Interférences litteraires/literaire interferenties. Special Issue "DH". [paper](http://interferenceslitteraires.be/index.php/illi/article/view/1102)
 
 Rebora, S., Boot, P., Pianzola, F., Gasser., B., Herrmann, J. B., Kraxenberger, M., Kuijpers, M., Lauer, G. Lendvai, P., Messerli, Th. C., & Sorrentino, P. (2021). Digital Humanities and Digital Social Reading. Submitted to Digital Scholarship in the Humanities. [paper](https://academic.oup.com/dsh/article/36/Supplement_2/ii230/6421802?login=false)
 
