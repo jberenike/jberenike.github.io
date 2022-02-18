@@ -71,6 +71,8 @@ Steen, G.J., Dorst, A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., & T. Pasma 
   
 ### refereed written conference publications
 
+Herrmann, J.B. & Grisot, G. (2022). Lieblingsgegenden, Fenster und Mauern. Zur emotionalen Enkodierung von Raum in Deutschschweizer Prosa zwischen 1850 und 1930. 8. Jahrestagung «Digital Humanities im deutschsprachigen Raum» (DhD), Potsdam, D.
+
 Herrmann, J. B., Odebrecht, C., Santos, D., Francois, P. (2020). Towards Modeling the European Novel. Introducing ELTeC for Multilingual and Pluricultural Distant Reading. International Conference DH2020, Ottawa, Canada.
 
 Herrmann, J.B. & Messerli, Th. (2020). Metaphors we read by: Finding metaphorical conceptualizations of reading in web 2.0 book reviews. International Conference DH2020, Ottawa, Canada.
