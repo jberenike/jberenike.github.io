@@ -19,9 +19,9 @@ I have **transferred most of my publications to the open access publication and 
 
 
 
-+++ **below remain only papers and contributions published before 20220 that are to be added to the PUB repository +++ 
+**Below remain only papers and contributions published before 20220 that are to be added to the PUB repository**
 
-**articles in refereed proceedings
+**articles in refereed proceedings**
 
 Herrmann, J.B. & Messerli, Th. (2020). Metaphors we read by: Finding metaphorical conceptualizations of reading in web 2.0 book reviews. International Conference DH2020, Ottawa, Canada.
 
@@ -38,7 +38,7 @@ Herrmann, J.B. & Lauer, G. (2016). Aufbau und Annotation des Kafka/Referenzkorpu
 Mattner, C., Herrmann, J.B. & Lauer, G. (2016). Kafkas Stil. Zur Psychostilistik der Tagebücher Kafkas. In [Tagungsband 3. Internationale Dhd](http://dhd2016.de/boa.pdf) Tagung “Digital Humanities im deutschsprachigen Raum”, Leipzig, D, pp. 158-160. 
 
 
-### book chapters
+**book chapters**
 
 Herrmann, J.B. (2015). Metaphern im akademischen Englisch: Eine kognitiv-korpuslinguistische Studie, in: Jahrbuch der Akademie der Wissenschaften zu Göttingen 2014. Berlin: De Gruyter.
 
