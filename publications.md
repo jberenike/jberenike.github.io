@@ -15,15 +15,13 @@ photo by kimberly farmer on unsplash
 
 # important note
 
-!I have transferred almost all my publications to the open access publication and research data repository managed by Bielefeld University (PUB).
-
-For my books, papers, and other publications (from preprint to published, most with full texts), thus please see the [Bielefeld PUB](https://pub.uni-bielefeld.de/person/262987169).
+I have **transferred most of my publications to the open access publication and research data repository managed by Bielefeld University (PUB).** For my books, papers, and other publications (from preprint to published, most with full texts), thus please see the [Bielefeld PUB](https://pub.uni-bielefeld.de/person/262987169).
 
 
 
-+++ below remain only papers and contributions published before 20220 that are to be added to the PUB repository +++ 
++++ **below remain only papers and contributions published before 20220 that are to be added to the PUB repository +++ 
 
-### ARTICLES IN REFEREED PROCEEDINGS 
+**articles in refereed proceedings
 
 Herrmann, J.B. & Messerli, Th. (2020). Metaphors we read by: Finding metaphorical conceptualizations of reading in web 2.0 book reviews. International Conference DH2020, Ottawa, Canada.
 
