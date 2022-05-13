@@ -8,11 +8,11 @@ title: digital resources
 
 ### digital resources
 
-Herrmann, J.B. & Lauer, G. KOLIMO. Korpus der Literarischen Moderne (beta) ("Corpus Literary Modernism"). (more info below*)
+Grisot, G., Herrmann, J.B. Swiss German Novel Collection (ELTeC-gsw), Version v1.0.0, July 2021. In: European Literary Text Collection (ELTeC). COST Action Distant Reading for European Literary History. https://github.com/COST-ELTeC/ELTeC-gsw
 
-Messerli, Th., Rothenhäusler, K., Rebora, S. & J.B. Herrmann. LoBo. The LovelyBooks Corpus. A collection of digital lay book reviews (+1 Mio. reviews).
- 
-Herrmann, J.B., Gabay, S., & S. Rebora. Multi-lingual Swiss novel corpus 1850-1920, Part of ELTeC (COST Action «Distant Reading for European Literary History», CA16204). 
+Herrmann, J.B. & Lauer, G. (2016). KOLIMO. Korpus der Literarischen Moderne (beta) ("Corpus Literary Modernism"). (re-launch in preparation, more info below*)
+
+Messerli, Th., Rothenhäusler, K., Rebora, S. & J.B. Herrmann. (2019). LoBo. The LovelyBooks Corpus. A collection of digital lay book reviews (1.3 Mio. reviews).
 
 Herrmann, J.B. (2016). EAK. [Erzählanfangskorpus](https://github.com/jberenike/EAK). Corpus of Beginning Sections of Literary Fiction. Manually coded for metaphor.
 
