@@ -24,7 +24,7 @@ My current main projects are ["Vergleichspraktiken in der Genese, Verstetigung u
 **My current main research questions**
 - data humanities & data literacy
 - the interaction of human and artificial intelligence in the Humanities: usage and implication of mixed methods
-- transnational literatury history of German-speaking cultures, using computational methods
+- transnational literary history of German-speaking cultures, using computational methods
 - emotion representation in literary texts (historical and systematic)
 - spatial mappings in fictional worlds (historical and systematic)
 - practices of literary evaluation by users of social reading platforms
