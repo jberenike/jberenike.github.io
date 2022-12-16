@@ -27,15 +27,15 @@ Herrmann, J.B. & Messerli, Th. (2020). Metaphors we read by: Finding metaphorica
 
 Herrmann, J.B. & Messerli, Th. (2020). ...hungere schon nach dem nächsten Band. Eine Untersuchung von Metaphern für Leseerfahrungen in Web 2.0 Literaturrezensionen. 7. Jahrestagung «Digital Humanities im deutschsprachigen Raum» (DhD), Paderborn, D.
 
-Herrmann, J.B. & Lauer, G. (2017). Das „Was-bisher-geschah“ von KOLIMO. Ein Update zum Korpus der literarischen Moderne. In [Tagungsband 4. Internationale Tagung Dhd](href="http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf) “Digital Humanities im deutschsprachigen Raum”, Berne, CH, pp. 107-111.
+Herrmann, J.B. & Lauer, G. (2017). Das „Was-bisher-geschah“ von KOLIMO. Ein Update zum Korpus der literarischen Moderne. In Tagungsband 4. Internationale Tagung Dhd. “Digital Humanities im deutschsprachigen Raum”, Berne, CH, pp. 107-111.
 
-Herrmann, J.B., Lauer, G, Rebora, S,. & Salgaro, M. (2017). Short Texts in Authorship Attribution. The Case of Robert Musil’s War Articles. In [Conference Abstracts 6th AIUCD](https://www.conftool.net/aiucd2017/index.php?page=browseSessions&form_session=27) Conference “Il telescopio inverso: big data e distant reading nelle discipline umanistiche”, Rome, Italy. 
+Herrmann, J.B., Lauer, G, Rebora, S,. & Salgaro, M. (2017). Short Texts in Authorship Attribution. The Case of Robert Musil’s War Articles. In Conference Abstracts 6th AIUCD, Conference “Il telescopio inverso: big data e distant reading nelle discipline umanistiche”, Rome, Italy. 
 
-Herrmann, J.B. & Lauer, G. (2016). KAREK: Building and Annotating a Kafka/Reference Corpus. In [Conference Abstracts DH2016 ](http://dh2016.adho.org/abstracts/427) International Conference Digital Humanities 2016, Krakow, PL.
+Herrmann, J.B. & Lauer, G. (2016). KAREK: Building and Annotating a Kafka/Reference Corpus. In Conference Abstracts DH2016 International Conference Digital Humanities 2016, Krakow, PL.
 
-Herrmann, J.B. & Lauer, G. (2016). Aufbau und Annotation des Kafka/Referenzkorpus. In [Tagungsband 3. Internationale Dhd](http://dhd2016.de/boa.pdf) Tagung “Digital Humanities im deutschsprachigen Raum”, Leipzig, D, pp. 188-189. 
+Herrmann, J.B. & Lauer, G. (2016). Aufbau und Annotation des Kafka/Referenzkorpus. In Tagungsband 3. Internationale Dhd. Tagung “Digital Humanities im deutschsprachigen Raum”, Leipzig, D, pp. 188-189. 
 
-Mattner, C., Herrmann, J.B. & Lauer, G. (2016). Kafkas Stil. Zur Psychostilistik der Tagebücher Kafkas. In [Tagungsband 3. Internationale Dhd](http://dhd2016.de/boa.pdf) Tagung “Digital Humanities im deutschsprachigen Raum”, Leipzig, D, pp. 158-160. 
+Mattner, C., Herrmann, J.B. & Lauer, G. (2016). Kafkas Stil. Zur Psychostilistik der Tagebücher Kafkas. In Tagungsband 3. Internationale Dhd Tagung “Digital Humanities im deutschsprachigen Raum”, Leipzig, D, pp. 158-160. 
 
 
 **book chapters**
