@@ -15,6 +15,8 @@ photo by carlos arthur m.r on unsplash
 
 **keynote lectures**
 
+07/2024 “Externalizations. On Data and Insight”. Keynote Lecture, [19th International Conference of the Society for the Empirical Study of Literature and Media (IGEL)](https://igelsociety.org/events/event-igel2024/), RWTH Aachen, D.
+
 11/2021 "Digitale Geisteswissenschaften = Kultur–x" [3. DH-Tag der WWU am 15.11.2021](https://www.uni-muenster.de/CDH/aktivitaeten/2021-11-15-dh-tag.html), Westfälische Wilhelms-Universität Münster, D.
 
 05/2020 “Digital Literary Stylistics. How Corpora are Changing Literary Studies.” [41st International Conference ICAME 2020](https://icame41.as.uni-heidelberg.de/plenaries/) “Language and Linguistics in a Complex World: Data, Interdisciplinarity, Transfer, and the Next Generation”, Heidelberg, D. 
