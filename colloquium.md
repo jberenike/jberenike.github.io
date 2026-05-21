@@ -19,7 +19,7 @@ The Bielefeld research colloquium "Linguistics and Literature revisited" ("LiLi 
 In addition to joint readings and the discussion of individual guest lectures, participants present ongoing projects, conduct data sessions and test new ideas.
 The colloquium is aimed at all interested participants. MA and BA students (including Literary Studies, Linguistics, Computational Linguistics, Media Studies) are very welcome.
 
-Typically, one or two talks per semester are by invited external guests. We regularly co-invite guests together with the Computational/Digital Linguistics Work Group Meeting (chaired by Prof. Dr. Hendrik Buschmeier and Prof. Dr. Sina Zarrieß) at Uni Bielefeld.
+Typically, one or two talks per semester are by invited external guests. We regularly co-invite guests together with the Computational/Digital Linguistics Work Group Meeting (chaired by [Prof. Dr. Hendrik Buschmeier](https://dililab.uni-bielefeld.de/) and [Prof. Dr. Sina Zarrieß](https://sinazarriess.github.io/) at Uni Bielefeld).
 
 We are meeting weekly during the summer and winter terms, on Tuesdays 10:15–11:45. It's possible to join via Zoom. Please drop me a line at: berenike.herrmann@uni-bielefeld.de
 
