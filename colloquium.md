@@ -5,6 +5,10 @@ title: LiLi revisited research colloquium
 
 [about](about.md)  |  [publications](publications.md)  |  [lectures & talks](lectures_talks.md)  |  [teaching](teaching.md)  | [digital resources](dig_res.md) | [LiLi revisited colloquium](colloquium.md)
 
+
+
+![infinity](./assets/img/yayoi.jpg)
+
 ### research colloquium "Linguistics and Literature revisited"
 
 
