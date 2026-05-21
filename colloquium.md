@@ -4,6 +4,8 @@ title: "LiLi revisited" research colloquium
 ---
 
 [about](about.md)  |  [publications](publications.md)  |  [lectures & talks](lectures_talks.md)  |  [teaching](teaching.md)  | [digital resources](dig_res.md) | [LiLi revisited colloquium](colloquium.md)
+
+### research colloquium "Linguistics and Literature revisited"
   
 The Bielefeld research colloquium "Linguistics and Literature revisited" ("LiLi revisited: Digitale Schnittstellenforschung zwischen Literaturwissenschaft und Linguistik", chaired by Prof. Dr. Berenike Herrmann) fosters a vibrant interface between literary studies, (computer) linguistics, psychology and the social sciences. It is a forum for the discussion of current approaches and new findings in data-driven literary and cultural studies, addressing the forms and functions of textual phenomena in socio-historical contexts.  We thus complement philological and social-historical perspectives by methods and theories from Digital Humanities (DH), Computational Literary Studies (CLS), Natural Language Processing (NLP) and the Empirical Study of Literature.
 
