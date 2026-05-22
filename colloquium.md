@@ -3,7 +3,7 @@ layout: default
 title: LiLi revisited research colloquium
 ---
 
-[about](about.md)  |  [publications](publications.md)  |  [lectures & talks](lectures_talks.md)  |  [teaching](teaching.md)  | [digital resources](dig_res.md) | [LiLi revisited colloquium](colloquium.md)
+[about](about.md)  |  [publications](publications.md)  |  [lectures & talks](lectures_talks.md)  |  [teaching](teaching.md) | [LiLi revisited colloquium](colloquium.md)
 
 
 
