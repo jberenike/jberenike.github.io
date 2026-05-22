@@ -8,7 +8,7 @@ title: LiLi revisited research colloquium
 
 
 ![infinity](./assets/img/yayoi.jpg)
-photo by berenike herrmann at [fondation beyerler](https://www.fondationbeyeler.ch/en/exhibitions/past-exhibitions/yayoi-kusama), basel, CC-BY-SA
+photo by berenike herrmann at [fondation beyeler](https://www.fondationbeyeler.ch/en/exhibitions/past-exhibitions/yayoi-kusama), basel, CC-BY-SA
 
 ### research colloquium "Linguistics and Literature revisited"
 
