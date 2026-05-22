@@ -32,7 +32,7 @@ Here's an overview of upcoming and past talks:
 
 Abstract: This talk explores how sound shapes the structure of literary prose by tracing patterns of auditory cues and loudness across narrative texts. Combining computational scene segmentation with fine-grained sound annotation, it examines character sounds and their varying intensity: from whispers to bursts of heightened loudness. Mapping these acoustic patterns onto narrative structure reveals sound as a dynamic and measurable feature of storytelling. Rather than serving as mere background detail, sound emerges as a key mechanism through which literary fiction structures experience and brings its scenes to life.
 
-- June 23, 2026: [Dr. Giulia Grisot](https://research.manchester.ac.uk/en/persons/giulia-grisot/)(Manchester): __"Beyond Keywords: Modelling Environmental Representation in Climate Fiction"__
+- June 23, 2026: [Dr. Giulia Grisot](https://research.manchester.ac.uk/en/persons/giulia-grisot/) (Manchester): __"Beyond Keywords: Modelling Environmental Representation in Climate Fiction"__
 
 Abstract: This talk introduces a computational method for analysing how environments are represented in climate fiction, moving beyond simple keyword-based approaches. Rather than treating the environment as a set of isolated nouns, the method models environmental meaning as emerging from relations between entities, processes, and descriptive conditions. Combining distributional semantics with curated lexicon construction and manual validation, the approach distinguishes between _trigger_ terms that signal environmental relevance and _descriptor_ terms that qualify and shape environmental experience. Applied to a corpus of climate fiction, this two-stage pipeline reveals recurring semantic and descriptive patterns linked to environmental degradation, climatic extremity, and spatial transformation. The talk argues for a shift from keyword detection to relational models that better capture the stylistic and semantic complexity of literary environmental representation.
 
@@ -63,7 +63,10 @@ Abstract: This talk introduces a computational method for analysing how environm
 
   
 ### summer term 2022
+(guest lectures in my literary history lecture)
 - June 21, 2022: [Prof. Dr. Moritz Baßler](https://cris.uni-muenster.de/portal/de/person/46853686) (Münster) "Zur Geschichte literarischer Verfahren"
+- June 7, 2022: [Prof. Dr. Gerhard Lauer](https://gerhardlauer.de/) (Mainz) "Einfache Formen? Zur Methodologie der Kinderbuchforschung"
+- May 3, 2022: [Prof. Dr. Evelyn Gius](https://evelyngius.de/de/) (Darmstadt) "Die Romantik computationell betrachten"
   
 ### summer term 2021
 - June 30, 2021: [Dr. Maria Kraxenberger](https://www.phil.uni-mannheim.de/anglistik/abteilungen/anglistik-literatur/jun-prof-maria-kraxenberger/) (Stuttgart) "Wreading auf digitalen Literaturplattformen"
