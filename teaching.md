@@ -12,7 +12,7 @@ photo by andreas busch, CC-BY-SA
 
 ### Universität Bielefeld
 
-for current courses, see the [course Bielefeld registry](https://ekvv.uni-bielefeld.de/kvv_publ/publ/Lehrende_Veranstaltungen.jsp?personId=262987169)
+for current courses, see the [UNIBI course registry](https://ekvv.uni-bielefeld.de/kvv_publ/publ/Lehrende_Veranstaltungen.jsp?personId=262987169)
 
 
 ### Institut für Deutsche und Niederländische Philologie, FU Berlin
