@@ -27,11 +27,11 @@ Here's an overview of upcoming and past talks:
 
 ## upcoming
 
-- May 26, 2026: [Dr. Svenja Guhr](https://svenjaguhr.github.io/) (UC Berkeley): *"Listening to Fiction: Tracing Sound and Loudness in Narrative"*
+- May 26, 2026: [Dr. Svenja Guhr](https://svenjaguhr.github.io/) (UC Berkeley): __"Listening to Fiction: Tracing Sound and Loudness in Narrative"__
 
 Abstract: This talk explores how sound shapes the structure of literary prose by tracing patterns of auditory cues and loudness across narrative texts. Combining computational scene segmentation with fine-grained sound annotation, it examines character sounds and their varying intensity: from whispers to bursts of heightened loudness. Mapping these acoustic patterns onto narrative structure reveals sound as a dynamic and measurable feature of storytelling. Rather than serving as mere background detail, sound emerges as a key mechanism through which literary fiction structures experience and brings its scenes to life.
 
-- June 23, 2026: [Dr. Giulia Grisot](https://research.manchester.ac.uk/en/persons/giulia-grisot/](https://research.manchester.ac.uk/en/persons/giulia-grisot/) (Manchester): *"Beyond Keywords: Modelling Environmental Representation in Climate Fiction"*
+- June 23, 2026: [Dr. Giulia Grisot](https://research.manchester.ac.uk/en/persons/giulia-grisot/)(Manchester): __"Beyond Keywords: Modelling Environmental Representation in Climate Fiction"__
 
 Abstract: This talk introduces a computational method for analysing how environments are represented in climate fiction, moving beyond simple keyword-based approaches. Rather than treating the environment as a set of isolated nouns, the method models environmental meaning as emerging from relations between entities, processes, and descriptive conditions. Combining distributional semantics with curated lexicon construction and manual validation, the approach distinguishes between _trigger_ terms that signal environmental relevance and _descriptor_ terms that qualify and shape environmental experience. Applied to a corpus of climate fiction, this two-stage pipeline reveals recurring semantic and descriptive patterns linked to environmental degradation, climatic extremity, and spatial transformation. The talk argues for a shift from keyword detection to relational models that better capture the stylistic and semantic complexity of literary environmental representation.
 
