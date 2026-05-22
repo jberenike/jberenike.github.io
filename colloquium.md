@@ -46,7 +46,7 @@ Abstract: This talk introduces a computational method for analysing how environm
 - June 10, 2025: [Prof. Dr. David Bamman](https://people.ischool.berkeley.edu/~dbamman/) (Berkeley) "Measuring Representation and Linguistic Variation in Hollywood"
   
 ### winter term 2024/25
-- October 15, 2024: [Sophie Modert](https://www.grk-gegenwart.uni-bonn.de/de/personen/sophie-modert) (Bonn) "Natonaler Kanon? Schulische Lesebücher im Spannungsfeld von politscher und kultureller Identität in der Deutschschweiz des 19. Jahrhunderts"
+- October 15, 2024: [Sophie Modert](https://www.grk-gegenwart.uni-bonn.de/de/personen/sophie-modert) (Bonn) "Nationaler Kanon? Schulische Lesebücher im Spannungsfeld von politscher und kultureller Identität in der Deutschschweiz des 19. Jahrhunderts"
 - December 20, 2024: [Dr. Elias Kreyenbühl](https://libraries.dsi.uzh.ch/member/chris-p-bacon/) (Zürich) "Daten öffnen, Forschung fördern. Initiativen mit denen die Zentralbibliothek Zürich die Digital Humanities unterstützt"
 - January 14, 2025: [Dr. Lore de Greve](https://research.flw.ugent.be/en/lore.degreve) (Gent) "Von der Jury zum Hashtag: Eine digitale Sentiment-Analyse von ‘small critics’ im Vergleich zur professionellen Literaturkritik"
   
