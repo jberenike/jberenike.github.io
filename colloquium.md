@@ -28,6 +28,28 @@ Here's an overview of upcoming and past talks:
 
 ## upcoming
 
+- December 22, 2026 [Dr. Elias Kreyenbühl](https://libraries.dsi.uzh.ch/member/chris-p-bacon/): **Agentenbasiertes Arbeiten mit Wissensressourcen in den Geisteswissenschaften. Beispiele und Strategien für den gezielten Einsatz von LLMs im quellenbasierten Forschungskontext**
+
+
+- January 12, 2027 [Dr. Hendrikje Schauer]( https://hendrikjeschauer.net/): **‚The new public sphere‘? A data-rich literary history: The Trizone and the early era of the Federal Republic 1945–1962**
+  
+How can bibliographic metadata be used in literary historiography without uncritically reproducing historical biases reflected in the data? The talk introduces a data-critical approach which is based on data from the German National Library (DNB) and includes comparative data from the German Literary Archives in Marbach (DLA). Reflecting on the histories of the collecting institutions, their cataloguing practices and classification systems, possible biases in the datasets will be discussed as well as ways to test the data for biases. The talk will demonstrate how metadata from libraries can be used to critically reexamine existing research narratives. Finally, it will explain the concept of a data-rich literary history that combines metadata analysis with text analysis.
+
+
+January 19, 2027 [Xenia Boyarski](https://www.ds.uzh.ch/apps/p/bojarski): **Tracing the Senses: Corpus-Pragmatic Approaches to the Semantics, Verbalization, and Discursivization of Smell and Taste**
+
+This talk presents first results from my PhD project that assesses how taste and smell are described and discursively constructed in different textual artifacts. The talk will evolve around one of the corpora used in the PhD project which is composed of magazine articles (mainly from the arts and culture section). Methodologically, I combine corpus-pragmatic methods including frequency and collocation analysis with qualitative interpretation in an iterative workflow that highlights quantitative patterns that are then being examined qualitatively. First findings suggest that we employ very specific patterns and strategies when describing taste and smell. This triggers the broader questions of how perception is put into language and how sensory experience is communicated across contexts.
+
+---
+
+
+
+
+
+## archive
+
+### summer term 2026
+
 - May 26, 2026: [Dr. Svenja Guhr](https://svenjaguhr.github.io/) (UC Berkeley): __"Listening to Fiction: Tracing Sound and Loudness in Narrative"__
 
 Abstract: This talk explores how sound shapes the structure of literary prose by tracing patterns of auditory cues and loudness across narrative texts. Combining computational scene segmentation with fine-grained sound annotation, it examines character sounds and their varying intensity: from whispers to bursts of heightened loudness. Mapping these acoustic patterns onto narrative structure reveals sound as a dynamic and measurable feature of storytelling. Rather than serving as mere background detail, sound emerges as a key mechanism through which literary fiction structures experience and brings its scenes to life.
@@ -35,8 +57,6 @@ Abstract: This talk explores how sound shapes the structure of literary prose by
 - June 23, 2026: [Dr. Giulia Grisot](https://research.manchester.ac.uk/en/persons/giulia-grisot/) (Manchester): __"Beyond Keywords: Modelling Environmental Representation in Climate Fiction"__
 
 Abstract: This talk introduces a computational method for analysing how environments are represented in climate fiction, moving beyond simple keyword-based approaches. Rather than treating the environment as a set of isolated nouns, the method models environmental meaning as emerging from relations between entities, processes, and descriptive conditions. Combining distributional semantics with curated lexicon construction and manual validation, the approach distinguishes between _trigger_ terms that signal environmental relevance and _descriptor_ terms that qualify and shape environmental experience. Applied to a corpus of climate fiction, this two-stage pipeline reveals recurring semantic and descriptive patterns linked to environmental degradation, climatic extremity, and spatial transformation. The talk argues for a shift from keyword detection to relational models that better capture the stylistic and semantic complexity of literary environmental representation.
-
-## archive
 
 ### winter term 2025/26
 - January 1, 2026: [Dr. Katrin Rohrbacher](https://www.dhss.phil.fau.de/person/dr-katrin-rohrbacher/) (Nürnberg/Erlangen) "Measuring Narrative Space: A Computational Study of German and English Prose Fiction"
